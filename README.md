@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<p>Name: <b>Abhishek Joshi</b> 😄<br>
-Email: abhijoshi2k@gmail.com<br>
-Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>)</p>
+<p>Name: <b>Abhishek Joshi</b> &#x1F60E;<br>
+Email: abhijoshi2k@gmail.com &#x1F4E7;<br>
+Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;</p>
 
-<p>⚡ <b>My knowledge expanse:</b><br>
+<p>&#x1F4BB; <b>My knowledge expanse:</b><br>
 JavaScript<br>
 Java<br>
 Python<br>
@@ -25,7 +25,7 @@ MariaDB<br>
 Google Apps Script<br>
 Microcontroller 8085</p>
 
-<p>🤔 My primary areas of interests: Web Development and RPA!</p>
+<p>⚡ My primary areas of interests: Web Development and RPA!</p>
 
 <p>Ready to take up any temporary job in above sector. ✨</p>
 
