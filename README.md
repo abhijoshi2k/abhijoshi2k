@@ -1,30 +1,33 @@
 ### Hi there 👋
 
-Name: Abhishek Joshi<br>
+<p>Name: <b>Abhishek Joshi</b> 😄<br>
 Email: abhijoshi2k@gmail.com<br>
-Phone: +919757468857 (available on WhatsApp)<br>
-My primary areas of interests: Web Development and RPA<br>
+Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>)</p>
 
-My knowledge expanse:
-JavaScript
-Java
-Python
-Robotic Process Automation
-HTML
-CSS
-Bootstrap
-C Programming
-C++ Programming
-jQuery
-JSON
-Node.js
-PHP
-Express.js
-SQL
-AJAX
-MariaDB
-Google Apps Script
-Microcontroller 8085
+<p>⚡ <b>My knowledge expanse:</b><br>
+JavaScript<br>
+Java<br>
+Python<br>
+Robotic Process Automation<br>
+HTML<br>
+CSS<br>
+Bootstrap<br>
+C Programming<br>
+C++ Programming<br>
+jQuery<br>
+JSON<br>
+Node.js<br>
+PHP<br>
+Express.js<br>
+SQL<br>
+AJAX<br>
+MariaDB<br>
+Google Apps Script<br>
+Microcontroller 8085</p>
+
+<p>🤔 My primary areas of interests: Web Development and RPA</p>
+
+<p>Ready to take up any temporary job in above sector. ✨</p>
 
 <!--
 **abhijoshi2k/abhijoshi2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
