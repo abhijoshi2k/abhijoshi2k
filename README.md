@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-Name: Abhishek Joshi
-Email: abhijoshi2k@gmail.com
-Phone: +919757468857 (available on WhatsApp)
-My primary areas of interests: Web Development and RPA
+Name: Abhishek Joshi<br>
+Email: abhijoshi2k@gmail.com<br>
+Phone: +919757468857 (available on WhatsApp)<br>
+My primary areas of interests: Web Development and RPA<br>
 
 My knowledge expanse:
-<ul>
-  <li>Javascript</li>
-</ul
 JavaScript
 Java
 Python
