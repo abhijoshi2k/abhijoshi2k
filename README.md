@@ -25,7 +25,7 @@ MariaDB<br>
 Google Apps Script<br>
 Microcontroller 8085</p>
 
-<p>🤔 My primary areas of interests: Web Development and RPA</p>
+<p>🤔 My primary areas of interests: Web Development and RPA!</p>
 
 <p>Ready to take up any temporary job in above sector. ✨</p>
 
