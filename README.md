@@ -18,12 +18,11 @@ jQuery<br>
 JSON<br>
 Node.js<br>
 PHP<br>
-Express.js<br>
 SQL<br>
 AJAX<br>
 MariaDB<br>
 Google Apps Script<br>
-Microcontroller 8085</p>
+Microcontroller 8085 & 8086</p>
 
 <p>⚡ My primary areas of interests: Web Development and RPA!</p>
 
