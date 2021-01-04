@@ -4,7 +4,7 @@
 
 
 <p>
-- 📫 How to reach me: ...<br>
+📫 How to reach me:<br>
 Email: abhijoshi2k@gmail.com &#x1F4E7;<br>
 Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 </p>
@@ -13,7 +13,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 - 🌱 Currently learning React!
 - 👯 I’m looking to collaborate on anything related to Web Development.
 
-<p>- &#x1F4BB; <b>My knowledge expanse:</b><br>
+<p>&#x1F4BB; <b>My knowledge expanse:</b><br>
 JavaScript<br>
 HTML<br>
 CSS<br>
