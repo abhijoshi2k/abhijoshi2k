@@ -1,6 +1,4 @@
-<!--
-![Header](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/readme_header.png "Header")
--->
+![Header](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/header.png "Header")
 
 # Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
