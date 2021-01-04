@@ -1,7 +1,15 @@
-### Hi there 👋
 
-<p>I'm <b>Abhishek Joshi</b> &#x1F60E;<br></p>
+![Header](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/readme_header.png "Header")
 
+# Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijoshi2k&hide=issues&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijoshi2k&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <p>
 📫 How to reach me:<br>
@@ -13,7 +21,19 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 - 🌱 Currently learning React!
 - 👯 I’m looking to collaborate on anything related to Web Development.
 
-<p>&#x1F4BB; <b>My knowledge expanse:</b><br>
+![Years Badge](https://badges.pufler.dev/years/abhijoshi2k)
+![Repos Badge](https://badges.pufler.dev/repos/abhijoshi2k)
+![Profile views](https://gpvc.arturio.dev/abhijoshi2k)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijoshi2k&theme=algolia)
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=abhijoshi2k&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+
+
+
+
+<p>&#x1F4BB; <b>Tech Stack:</b><br>
 JavaScript<br>
 HTML<br>
 CSS<br>
