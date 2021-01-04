@@ -6,25 +6,22 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;</p>
 
 <p>&#x1F4BB; <b>My knowledge expanse:</b><br>
 JavaScript<br>
-Java<br>
-Python<br>
-Robotic Process Automation<br>
 HTML<br>
 CSS<br>
 Bootstrap<br>
-C Programming<br>
-C++ Programming<br>
 jQuery<br>
-JSON<br>
 Node.js<br>
 PHP<br>
 SQL<br>
-AJAX<br>
-MariaDB<br>
 Google Apps Script<br>
+C Programming<br>
+C++ Programming<br>
+Java (basic)<br>
+Python (basic)<br>
+Robotic Process Automation<br>
 Microcontroller 8085 & 8086</p>
 
-<p>⚡ My primary areas of interests: Web Development and RPA!</p>
+<p>⚡ My primary areas of interests: Web Development!</p>
 
 <p>Ready to take up any temporary job in above sector. ✨</p>
 
