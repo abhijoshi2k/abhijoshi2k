@@ -30,7 +30,7 @@ Python (basic)<br>
 Robotic Process Automation<br>
 Microcontroller 8085 & 8086</p>
 
-<p>⚡ My primary areas of interests: Web Development!</p>
+<p>⚡ My primary area of interest: Web Development!</p>
 
 <p>Ready to take up any temporary job in above sector. ✨</p>
 
