@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Name: <b>Abhishek Joshi</b> &#x1F60E;<br></p>
+<p>I'm <b>Abhishek Joshi</b> &#x1F60E;<br></p>
 
 
 <p>
