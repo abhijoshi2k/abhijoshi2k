@@ -38,14 +38,14 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
   
 <h1><b>⚡ Recent Activity:</b></h1>
 
-<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true}-->
+
+```
+<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true, "exclude": ["PushEvent"]}-->
+```
 
 ---
 
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>
-</p>
+<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/3) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
