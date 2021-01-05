@@ -36,11 +36,14 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 
 <h1><b>Projects:</b><br></h1>
-<a href="https://github.com/abhijoshi2k/video-calling-web-app-node.js">Video Calling  App with Chat and Admin features</a><br>
-<a href="https://github.com/abhijoshi2k/pizza-delivery">Pizza Delivery Prototype</a><br>
-<a href="https://github.com/ieeesiesgst">IEEE SIES GST GitHub organization maintenance and upgrade</a><br>
-<a href="https://github.com/Prerana-Enterprises/website">Website for Prerana Enterprises</a><br>
-<a href="https://github.com/abhijoshi2k/urja_farms">Website for Urja Farm Eats</a>
+<ul>
+  <li><a href="https://github.com/abhijoshi2k/video-calling-web-app-node.js">Video Calling  App with Chat and Admin features</a></li>
+  <li>Invoice Automation Project as intern at <b>Jacobs Engineering (Now Worley Engineering)</b></li>
+  <li><a href="https://github.com/abhijoshi2k/pizza-delivery">Pizza Delivery Prototype</a></li>
+  <li><a href="https://github.com/ieeesiesgst">IEEE SIES GST GitHub organization maintenance and upgrade</a></li>
+  <li><a href="https://github.com/Prerana-Enterprises/website">Website for Prerana Enterprises</a></li>
+  <li><a href="https://github.com/abhijoshi2k/urja_farms">Website for Urja Farm Eats</a></li>
+</ul>
 
 <h1><b>Experience:</b><br></h1>
 <ul>
@@ -49,6 +52,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <li>Technical Head at <b>IEEE Student Branch of SIES Graduate School of Technology</b><br><small>January 2020 - present</small></li>
 <li>Technical Co-ordinator at <b>CSI Campus Chapter of SIES Graduate School of Technology</b><br><small>January 2020 - present</small></li>
 <li>Part of website team at <b>SIESGSTarena - CodeChef chapter</b><br><small>January 2020 - present</small></li>
+<li>Internship at <b>Jacobs Engineering (Now Worley Engineering)</b><br><small>December 2020</small></li>
 <li>Website Developer for the event <b>TEDxSIESGST</b><br><small>December 2019 - October 2020</small></li>
 </ul>
 
