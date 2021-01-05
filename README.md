@@ -53,7 +53,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <p align="center">
   Last refresh: 
-  <b>2021-01-05T10:27:32Z</b>
+  <b>Tuesday, January 5th 2021, 10:31:55 am UTC</b>
 </p>
 
 <!--START_SECTION:activity-->
