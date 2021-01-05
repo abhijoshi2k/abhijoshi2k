@@ -89,6 +89,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <li>Website Developer for the event <b>TEDxSIESGST</b><br><small>December 2019 - October 2020</small></li>
 
+<li>Technical Volunteer at <b>IEEE Student Branch of SIES Graduate School of Technology</b><br><small>July 2019 - January 2020</small></li>
+
 </ul>
 
   
