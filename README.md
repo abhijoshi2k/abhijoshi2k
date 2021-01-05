@@ -33,7 +33,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <h1><b>Stats:</b></h1>
 
 
-![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/nord_dark/0-profile-details.svg) ![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/nord_dark/3-stats.svg) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijoshi2k&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=abhijoshi2k&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/nord_dark/0-profile-details.svg) ![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/nord_dark/3-stats.svg) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijoshi2k&theme=algolia)](https://github-readme-streak-stats.herokuapp.com/?user=abhijoshi2k&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=abhijoshi2k&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
   
 <h1><b>⚡ Recent Activity:</b></h1>
@@ -52,14 +52,14 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-* 🍴 Forked abhijoshi2k/qu4k from qu4k/qu4k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
+* 🍴 Forked abhijoshi2k/qu4k from qu4k/qu4k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, January 5th 2021, 12:02:16 pm UTC</b>
+<p align="center">Last refresh: <b>Tuesday, January 5th 2021, 12:13:42 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
