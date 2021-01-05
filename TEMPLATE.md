@@ -33,7 +33,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <h1><b>Stats:</b></h1>
 
 
-![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/nord_dark/0-profile-details.svg) ![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/nord_dark/3-stats.svg) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijoshi2k&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=abhijoshi2k&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
+![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/nord_dark/0-profile-details.svg) ![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/nord_dark/3-stats.svg) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijoshi2k&theme=algolia)](https://github-readme-streak-stats.herokuapp.com/?user=abhijoshi2k&theme=algolia) ![trophy](https://github-profile-trophy.vercel.app/?username=abhijoshi2k&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
   
 <h1><b>⚡ Recent Activity:</b></h1>
