@@ -1,3 +1,10 @@
+name: Update README recent
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
 jobs:
   publish:
     runs-on: ubuntu-latest
