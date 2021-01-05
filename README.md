@@ -41,7 +41,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 1 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | Readme for my profile! |
-| 📦 | 1 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | null |
+| 📦 | 1 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 
 
 ```
@@ -59,15 +59,9 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, January 5th 2021, 11:43:03 am UTC</b>
+<p align="center">Last refresh: <b>Tuesday, January 5th 2021, 11:58:38 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/3) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-2. 💪 Opened PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/3) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-3. 🎉 Merged PR [#2](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/2) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-4. 💪 Opened PR [#2](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/2) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-5. 🎉 Merged PR [#1](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/1) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
