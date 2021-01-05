@@ -59,15 +59,9 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, January 5th 2021, 12:36:13 pm UTC</b>
+<p align="center">Last refresh: <b>Tuesday, January 5th 2021, 1:05:14 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/3) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-2. 💪 Opened PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/3) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-3. 🎉 Merged PR [#2](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/2) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-4. 💪 Opened PR [#2](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/2) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-5. 🎉 Merged PR [#1](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/1) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
@@ -106,6 +100,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <li>Internship at <b>Jacobs Engineering (Now Worley Engineering)</b><br><small>December 2020</small></li>
 
 <li>Website Developer for the event <b>TEDxSIESGST</b><br><small>December 2019 - October 2020</small></li>
+
+<li>Technical Volunteer at <b>IEEE Student Branch of SIES Graduate School of Technology</b><br><small>July 2019 - January 2020</small></li>
 
 </ul>
 
