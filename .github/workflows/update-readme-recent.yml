@@ -1,23 +1,29 @@
-name: Update README recent
+name: Recent Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: "*/30 * * * *"
+  push:
+    branches:
+      - master
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout sources
+        uses: actions/checkout@v2
         with:
           persist-credentials: false
           fetch-depth: 0
-      - name: Create README.md
+
+      - name: Generate README.md
         uses: actions-js/profile-readme@master
         with:
-          username: abhijoshi2k
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: abhijoshi2k
+          template: "TEMPLATE.md"
+
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
