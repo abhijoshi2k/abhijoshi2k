@@ -120,7 +120,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img src="https://img.shields.io/badge/AMD-RADEON_530-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 
-<br><br>
+<br>
 
 <p>⚡ My primary area of interest: Web Development!</p>
 
