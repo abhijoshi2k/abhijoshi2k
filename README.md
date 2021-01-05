@@ -38,23 +38,22 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
   
 <h1><b>⚡ Recent Activity:</b></h1>
 
-⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
+
+```
+🍴 Forked abhijoshi2k/qu4k from qu4k/qu4k
+🎉 Merged PR #3 in ieeesiesgst/IEEE-SIESGST-website
+💪 Opened PR #3 in ieeesiesgst/IEEE-SIESGST-website
+🎉 Merged PR #2 in ieeesiesgst/IEEE-SIESGST-website
+💪 Opened PR #2 in ieeesiesgst/IEEE-SIESGST-website
+🎉 Merged PR #1 in ieeesiesgst/IEEE-SIESGST-website
+💪 Opened PR #1 in ieeesiesgst/IEEE-SIESGST-website
+🍴 Forked abhijoshi2k/IEEE-SIESGST-website from ieeesiesgst/IEEE-SIESGST-website
+🗣 Commented on #882 in microsoft/vscode-cpptools
+```
 
 ---
 
-<p align="center">
-  Last refresh: 
-  <b>Tuesday, January 5th 2021, 10:31:55 am UTC</b>
-</p>
+<p align="center">Last refresh: <b>Tuesday, January 5th 2021, 10:38:56 am UTC</b>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/3) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
