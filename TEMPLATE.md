@@ -185,7 +185,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
   
 
-<br><br>
+<br>
 
   
 
