@@ -1,142 +1,274 @@
 
+  
+
 ![Header](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/header.png  "Header")
+
+  
 
 # Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijoshi2k&hide=issues&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijoshi2k&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+  
 
 <p>
-📫 How to reach me:<br>
-Email: abhijoshi2k@gmail.com &#x1F4E7;<br>
-Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
-</p>
-<a href="https://wa.me/919757468857"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://instagram.com/abhi.joshi2k/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/abhijoshi2k/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:abhijoshi2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- 🔭 Currently working on a competition hosting platform for <a href="https://github.com/CSI-SIESGST">CSI SIESGST</a> and a certification platform for <a href="https://github.com/ieeesiesgst">IEEE SIESGST</a>.
+📫 How to reach me:<br>
+
+Email: abhijoshi2k@gmail.com &#x1F4E7;<br>
+
+Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
+
+</p>
+
+<a  href="https://wa.me/919757468857"><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+<a  href="https://instagram.com/abhi.joshi2k/"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<a  href="https://github.com/abhijoshi2k/"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<a  href="mailto:abhijoshi2k@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+  
+
+- 🔭 Currently working on a competition hosting platform for <a  href="https://github.com/CSI-SIESGST">CSI SIESGST</a> and a certification platform for <a  href="https://github.com/ieeesiesgst">IEEE SIESGST</a>.
+
 - 🌱 Currently learning React!
+
 - 👯 I’m looking to collaborate on anything related to Web Development.
 
-![Years Badge](https://badges.pufler.dev/years/abhijoshi2k)
+  
+
+
 ![Repos Badge](https://badges.pufler.dev/repos/abhijoshi2k)
+
 ![Profile views](https://gpvc.arturio.dev/abhijoshi2k)
+
+<h1><b>Stats:</b></h1>
+
+
+![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
+
+
+![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/nord_dark/3-stats.svg)
+
+
+  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijoshi2k&theme=algolia)
 
+  
+  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=abhijoshi2k&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub)
 
+  
 
-<h1><b>Projects:</b><br></h1>
+
+<h1><b>Projects:</b></h1>
+
 <ul>
-  <li><a href="https://github.com/abhijoshi2k/video-calling-web-app-node.js">Video Calling  App with Chat and Admin features</a></li>
-  <li>Invoice Automation Project as intern at <b>Jacobs Engineering (Now Worley Engineering)</b></li>
-  <li><a href="https://github.com/abhijoshi2k/pizza-delivery">Pizza Delivery Prototype</a></li>
-  <li><a href="https://github.com/ieeesiesgst">IEEE SIES GST GitHub organization maintenance and upgrade</a></li>
-  <li><a href="https://github.com/Prerana-Enterprises/website">Website for Prerana Enterprises</a></li>
-  <li><a href="https://github.com/abhijoshi2k/urja_farms">Website for Urja Farm Eats</a></li>
+
+<li><a  href="https://github.com/abhijoshi2k/video-calling-web-app-node.js">Video Calling App with Chat and Admin features</a></li>
+
+<li>Invoice Automation Project as intern at <b>Jacobs Engineering (Now Worley Engineering)</b></li>
+
+<li><a  href="https://github.com/abhijoshi2k/pizza-delivery">Pizza Delivery Prototype</a></li>
+
+<li><a  href="https://github.com/ieeesiesgst">IEEE SIES GST GitHub organization maintenance and upgrade</a></li>
+
+<li><a  href="https://github.com/Prerana-Enterprises/website">Website for Prerana Enterprises</a></li>
+
+<li><a  href="https://github.com/abhijoshi2k/urja_farms">Website for Urja Farm Eats</a></li>
+
 </ul>
+
+  
 
 <h1><b>Experience:</b><br></h1>
+
 <ul>
+
 <li>Worked for a production company <b>Prerana Enterprises</b> as Website Developer<br><small>July 2020 - November 2020</small></li>
+
 <li>Worked for a startup <b>360 Digital Solutions</b> as Web Developer<br><small>May 2020 - June 2020</small></li>
+
 <li>Technical Head at <b>IEEE Student Branch of SIES Graduate School of Technology</b><br><small>January 2020 - present</small></li>
+
 <li>Technical Co-ordinator at <b>CSI Campus Chapter of SIES Graduate School of Technology</b><br><small>January 2020 - present</small></li>
+
 <li>Part of website team at <b>SIESGSTarena - CodeChef chapter</b><br><small>January 2020 - present</small></li>
+
 <li>Internship at <b>Jacobs Engineering (Now Worley Engineering)</b><br><small>December 2020</small></li>
+
 <li>Website Developer for the event <b>TEDxSIESGST</b><br><small>December 2019 - October 2020</small></li>
+
 </ul>
 
-<h1>&#x1F4BB; <b>Tech Stack:</b><br></h1>
+  
+
+<h1>&#x1F4BB;  <b>Tech Stack:</b><br></h1>
+
+  
 
 <!-- Taken from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
 <h2><b>Front-End</b></h2>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 <p><b>Frameworks</b></p>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+<img  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+
+<img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+  
 
 <h2><b>Back-End</b></h2>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
+<img  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
 <p><b>Frameworks</b></p>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+
+<img  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+
+  
 
 <h2><b>Database</b></h2>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+<img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+  
 
 <h2><b>Other Scripting Languages</b></h2>
-<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=Google&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=Google&logoColor=white">
+
+  
 
 <h2><b>Robotic Process Automation</b></h2>
-<img src="https://img.shields.io/badge/UiPath-0066ff?style=for-the-badge">
+
+<img  src="https://img.shields.io/badge/UiPath-0066ff?style=for-the-badge">
+
+  
 
 <h2><b>Other Programming Languages</b></h2>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00596C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+<img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+<img  src="https://img.shields.io/badge/C%2B%2B-00596C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+  
 
 <h2><b>Basic Knowledge</b></h2>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+
+  
 
 <h2><b>Hardware</b></h2>
-<img src="https://img.shields.io/badge/MicroController-8085-55aa00?style=for-the-badge">
-<img src="https://img.shields.io/badge/MicroProcessor-8086-55aa00?style=for-the-badge">
+
+<img  src="https://img.shields.io/badge/MicroController-8085-55aa00?style=for-the-badge">
+
+<img  src="https://img.shields.io/badge/MicroProcessor-8086-55aa00?style=for-the-badge">
+
+  
 
 <h2><b>Version Control</b></h2>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+
+<img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+  
 
 <h2><b>Dev Tools</b></h2>
-<img src="https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white">
-<img src="https://img.shields.io/badge/Google Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+
+<img  src="https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Google Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+
+  
 
 <h2><b>Deployment Platforms</b></h2>
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+
+  
 
 <h2><b>Text Editors</b></h2>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Sublime Text 3-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Sublime Text 3-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white">
+
+  
 
 <h2><b>Workspace</b></h2>
-<img src="https://img.shields.io/badge/Windows-LENOVO_ideapad_330-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-LENOVO_ideapad_330-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-<img src="https://img.shields.io/badge/AMD-RADEON_530-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 
-<br>
+<img  src="https://img.shields.io/badge/Windows-LENOVO_ideapad_330-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Ubuntu-LENOVO_ideapad_330-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+<img  src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+
+<img  src="https://img.shields.io/badge/AMD-RADEON_530-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+
+  
+
+<br><br>
+
+  
 
 <p>⚡ My primary area of interest: Web Development!</p>
 
+  
+
 <p>Ready to take up any temporary job in above sector. ✨</p>
 
+  
+
 <!--
+
 **abhijoshi2k/abhijoshi2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  
 
 Here are some ideas to get you started:
 
+  
+
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
+
 -->
