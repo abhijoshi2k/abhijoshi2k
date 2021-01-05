@@ -44,7 +44,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <p align="center">
   Last refresh: 
-  <b><!--TIMESTAMP--></b>
+  <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>
 </p>
 
 <!--START_SECTION:activity-->
