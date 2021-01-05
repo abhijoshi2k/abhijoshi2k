@@ -2,13 +2,13 @@
 
 # Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijoshi2k&hide=issues&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" alt="My GitHub Stats" />
-</a>
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijoshi2k&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijoshi2k&hide=issues&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" alt="My GitHub Stats" />
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijoshi2k&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
 
 <p>
 📫 How to reach me:<br>
