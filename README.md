@@ -59,15 +59,9 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, January 7th 2021, 11:48:08 pm UTC</b>
+<p align="center">Last refresh: <b>Friday, January 8th 2021, 12:11:07 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/3) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-2. 💪 Opened PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/3) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-3. 🎉 Merged PR [#2](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/2) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-4. 💪 Opened PR [#2](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/2) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-5. 🎉 Merged PR [#1](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/1) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
