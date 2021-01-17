@@ -45,6 +45,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 
 ```
+* ⬆️ Pushed 3 commits to ieeesiesgst/IEEE-SIESGST-website
+* 🎉 Merged PR #6 in ieeesiesgst/IEEE-SIESGST-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -53,13 +55,11 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 4 commits to ieeesiesgst/IEEE-SIESGST-website
-* 🎉 Merged PR #4 in ieeesiesgst/IEEE-SIESGST-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, January 17th 2021, 3:10:46 pm UTC</b>
+<p align="center">Last refresh: <b>Sunday, January 17th 2021, 3:49:15 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
