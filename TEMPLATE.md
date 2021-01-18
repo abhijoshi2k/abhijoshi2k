@@ -195,7 +195,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
   
 
-<p>Ready to take up any temporary job in above sector. ✨</p>
+<p>✨ Please star <a href="https://github.com/abhijoshi2k/abhijoshi2k">this readme repository</a> if you liked it!</p>
 
   
 
