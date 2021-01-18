@@ -40,17 +40,17 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | Readme for my profile! |
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
+| 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | Readme for my profile! |
 
 
 ```
+* 💪 Opened PR #2 in CSI-SIESGST/innovations-website
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 3 commits to ieeesiesgst/IEEE-SIESGST-website
 * 🎉 Merged PR #6 in ieeesiesgst/IEEE-SIESGST-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -59,7 +59,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Monday, January 18th 2021, 11:53:40 am UTC</b>
+<p align="center">Last refresh: <b>Monday, January 18th 2021, 12:16:45 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
