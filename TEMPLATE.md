@@ -38,7 +38,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
   
 <h1><b>⚡ Recent Activity:</b></h1>
 
-<!--GITHUB_REPOS:{"rows": 2, "sort": "updated"}-->
+<!--GITHUB_REPOS:{"rows": 3, "sort": "updated"}-->
 
 
 ```
