@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: GitHub-Profile-Summary-Cards 
 
 on:
   schedule: # execute every 5 mins
