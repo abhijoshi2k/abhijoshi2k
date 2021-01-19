@@ -41,8 +41,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 0 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | null |
-| 📦 | 3 | [abhijoshi2k/abhijoshi2k-archive](https://github.com/abhijoshi2k/abhijoshi2k-archive) | Readme for my profile! |
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
+| 📦 | 1 | [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course) | Node,js course from Udemy |
 
 
 ```
@@ -60,15 +60,9 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, January 19th 2021, 5:42:43 pm UTC</b>
+<p align="center">Last refresh: <b>Tuesday, January 19th 2021, 6:38:06 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/CSI-SIESGST/innovations-website/pull/9) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#4](https://github.com/CSI-SIESGST/innovations-website/pull/4) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#5](https://github.com/CSI-SIESGST/innovations-website/pull/5) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#6](https://github.com/CSI-SIESGST/innovations-website/pull/6) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#7](https://github.com/CSI-SIESGST/innovations-website/pull/7) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
