@@ -60,15 +60,9 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, January 20th 2021, 9:13:57 am UTC</b>
+<p align="center">Last refresh: <b>Wednesday, January 20th 2021, 10:13:14 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/CSI-SIESGST/innovations-website/pull/9) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#4](https://github.com/CSI-SIESGST/innovations-website/pull/4) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#5](https://github.com/CSI-SIESGST/innovations-website/pull/5) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#6](https://github.com/CSI-SIESGST/innovations-website/pull/6) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#7](https://github.com/CSI-SIESGST/innovations-website/pull/7) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
