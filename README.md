@@ -40,12 +40,14 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 0 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | null |
+| 📦 | 1 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 | 📦 | 1 | [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course) | Node,js course from Udemy |
 
 
 ```
+* ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
+* 🎉 Merged PR #10 in CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
@@ -54,21 +56,13 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * 🎉 Merged PR #9 in CSI-SIESGST/innovations-website
 * ⬆️ Pushed 663 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 675 commits to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website
-* ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, January 21st 2021, 4:02:38 pm UTC</b>
+<p align="center">Last refresh: <b>Thursday, January 21st 2021, 5:26:40 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/CSI-SIESGST/innovations-website/pull/10) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#9](https://github.com/CSI-SIESGST/innovations-website/pull/9) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#4](https://github.com/CSI-SIESGST/innovations-website/pull/4) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#5](https://github.com/CSI-SIESGST/innovations-website/pull/5) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#6](https://github.com/CSI-SIESGST/innovations-website/pull/6) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
