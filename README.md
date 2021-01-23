@@ -46,6 +46,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 
 ```
+* ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website
+* ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website
 * ⬆️ Pushed 7 commits to ieeesiesgst/IEEE-SIESGST-website
 * 🎉 Merged PR #7 in ieeesiesgst/IEEE-SIESGST-website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
@@ -54,21 +56,13 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 663 commits to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
-* 🎉 Merged PR #9 in CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, January 23rd 2021, 4:17:13 pm UTC</b>
+<p align="center">Last refresh: <b>Saturday, January 23rd 2021, 5:47:21 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/7) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-2. 🎉 Merged PR [#10](https://github.com/CSI-SIESGST/innovations-website/pull/10) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#9](https://github.com/CSI-SIESGST/innovations-website/pull/9) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#4](https://github.com/CSI-SIESGST/innovations-website/pull/4) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#5](https://github.com/CSI-SIESGST/innovations-website/pull/5) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
