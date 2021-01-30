@@ -49,15 +49,9 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, January 30th 2021, 10:15:03 am UTC</b>
+<p align="center">Last refresh: <b>Saturday, January 30th 2021, 10:40:54 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/CSI-SIESGST/innovations-website/pull/11) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#9](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/9) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-3. 🎉 Merged PR [#8](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/8) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-4. 🎉 Merged PR [#7](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/7) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-5. 🎉 Merged PR [#10](https://github.com/CSI-SIESGST/innovations-website/pull/10) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
