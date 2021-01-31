@@ -52,6 +52,12 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b>Sunday, January 31st 2021, 12:24:30 pm UTC</b>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/abhijoshi2k/pull/1) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+2. 💪 Opened PR [#1](https://github.com/abhijoshi2k/abhijoshi2k/pull/1) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+3. 🎉 Merged PR [#11](https://github.com/CSI-SIESGST/innovations-website/pull/11) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+4. 🎉 Merged PR [#9](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/9) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
+5. 🎉 Merged PR [#8](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/8) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
+<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
