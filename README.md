@@ -35,6 +35,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/keeper-app-react](https://github.com/abhijoshi2k/keeper-app-react) | Keeper App using React and Material UI. |
 
 ```
+* ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/keeper-app-react
 * ⬆️ Pushed 1 commit to abhijoshi2k/keeper-app-react
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
@@ -44,20 +45,13 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 3 commits to ieeesiesgst/IEEE-SIESGST-website
 * 🎉 Merged PR #8 in ieeesiesgst/IEEE-SIESGST-website
-* ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, January 31st 2021, 6:59:18 am UTC</b>
+<p align="center">Last refresh: <b>Sunday, January 31st 2021, 7:24:17 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/CSI-SIESGST/innovations-website/pull/11) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#9](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/9) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-3. 🎉 Merged PR [#8](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/8) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-4. 🎉 Merged PR [#7](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/7) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-5. 🎉 Merged PR [#10](https://github.com/CSI-SIESGST/innovations-website/pull/10) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
