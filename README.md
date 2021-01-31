@@ -35,6 +35,9 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/keeper-app-react](https://github.com/abhijoshi2k/keeper-app-react) | Keeper App using React and Material UI. |
 
 ```
+* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
+* 🎉 Merged PR #1 in abhijoshi2k/abhijoshi2k
+* 💪 Opened PR #1 in abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/keeper-app-react
 * ⬆️ Pushed 1 commit to abhijoshi2k/keeper-app-react
@@ -42,14 +45,11 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * 🎉 Merged PR #11 in CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website
 * 🎉 Merged PR #9 in ieeesiesgst/IEEE-SIESGST-website
-* ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 3 commits to ieeesiesgst/IEEE-SIESGST-website
-* 🎉 Merged PR #8 in ieeesiesgst/IEEE-SIESGST-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, January 31st 2021, 7:24:17 am UTC</b>
+<p align="center">Last refresh: <b>Sunday, January 31st 2021, 7:27:10 am UTC</b>
 
 <!--START_SECTION:activity-->
 
