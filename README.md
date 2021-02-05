@@ -36,6 +36,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ```
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
+* ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -44,14 +45,19 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, February 5th 2021, 10:25:40 am UTC</b>
+<p align="center">Last refresh: <b>Friday, February 5th 2021, 10:58:56 am UTC</b>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#13](https://github.com/CSI-SIESGST/innovations-website/pull/13) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+2. 🎉 Merged PR [#14](https://github.com/CSI-SIESGST/innovations-website/pull/14) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+3. ❗️ Opened issue [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🎉 Merged PR [#12](https://github.com/CSI-SIESGST/innovations-website/pull/12) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+5. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/abhijoshi2k/pull/1) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
@@ -66,6 +72,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <li><a  href="https://github.com/abhijoshi2k/pizza-delivery">Pizza Delivery Prototype</a></li>
 
 <li><a  href="https://github.com/ieeesiesgst">IEEE SIES GST GitHub organization maintenance and upgrade</a></li>
+
+<li><a  href="https://github.com/TEDxSIESGST/website">Website for TEDxSIESGST 2021</a></li>
 
 <li><a  href="https://github.com/Prerana-Enterprises/website">Website for Prerana Enterprises</a></li>
 
