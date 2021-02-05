@@ -35,6 +35,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/keeper-app-react](https://github.com/abhijoshi2k/keeper-app-react) | Keeper App using React and Material UI. |
 
 ```
+* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -44,20 +45,13 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, February 5th 2021, 10:58:56 am UTC</b>
+<p align="center">Last refresh: <b>Friday, February 5th 2021, 11:58:01 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/CSI-SIESGST/innovations-website/pull/13) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#14](https://github.com/CSI-SIESGST/innovations-website/pull/14) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. ❗️ Opened issue [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🎉 Merged PR [#12](https://github.com/CSI-SIESGST/innovations-website/pull/12) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/abhijoshi2k/pull/1) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
@@ -143,7 +137,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <h2><b>Basic Knowledge</b></h2>
 
-<img  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/SEO-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white"> <img  src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 
 <h2><b>Hardware</b></h2>
 
