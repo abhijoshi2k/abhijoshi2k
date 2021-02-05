@@ -36,6 +36,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ```
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
+* ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -44,12 +45,11 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, February 5th 2021, 10:25:40 am UTC</b>
+<p align="center">Last refresh: <b>Friday, February 5th 2021, 10:33:19 am UTC</b>
 
 <!--START_SECTION:activity-->
 
@@ -66,6 +66,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <li><a  href="https://github.com/abhijoshi2k/pizza-delivery">Pizza Delivery Prototype</a></li>
 
 <li><a  href="https://github.com/ieeesiesgst">IEEE SIES GST GitHub organization maintenance and upgrade</a></li>
+
+<li><a  href="https://github.com/TEDxSIESGST/website">Website for TEDxSIESGST 2021</a></li>
 
 <li><a  href="https://github.com/Prerana-Enterprises/website">Website for Prerana Enterprises</a></li>
 
