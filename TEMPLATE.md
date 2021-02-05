@@ -120,11 +120,11 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <h2><b>Other Programming Languages</b></h2>
 
-<img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img  src="https://img.shields.io/badge/C%2B%2B-00596C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img  src="https://img.shields.io/badge/C%2B%2B-00596C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 <h2><b>Basic Knowledge</b></h2>
 
-<img  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/SEO-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white"> <img  src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img  src="https://img.shields.io/badge/SEO-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white"> <img  src="https://img.shields.io/badge/AutoCAD-BA2327?style=for-the-badge&logo=autodesk&logoColor=white"> <img  src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 
 <h2><b>Hardware</b></h2>
 
