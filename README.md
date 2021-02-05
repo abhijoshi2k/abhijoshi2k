@@ -36,6 +36,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ```
 * ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
+* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -44,12 +45,11 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, February 5th 2021, 11:58:01 am UTC</b>
+<p align="center">Last refresh: <b>Friday, February 5th 2021, 12:03:43 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
@@ -91,7 +91,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <li>Part of website team at <b>SIESGSTarena - CodeChef chapter</b><br><small>January 2020 - Present</small></li>
 
-<li>Internship at <b>Jacobs Engineering (Now Worley Engineering)</b><br><small>December 2020</small></li>
+<li>Internship at <b>Jacobs Engineering (Now Worley Engineering)</b><br><small>December 2019</small></li>
 
 <li>Website Developer for the event <b>TEDxSIESGST</b><br><small>December 2019 - October 2020</small></li>
 
