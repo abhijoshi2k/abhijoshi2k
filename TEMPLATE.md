@@ -54,6 +54,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <li><a  href="https://github.com/ieeesiesgst">IEEE SIES GST GitHub organization maintenance and upgrade</a></li>
 
+<li><a  href="https://github.com/TEDxSIESGST/website">Website for TEDxSIESGST 2021</a></li>
+
 <li><a  href="https://github.com/Prerana-Enterprises/website">Website for Prerana Enterprises</a></li>
 
 <li><a  href="https://github.com/abhijoshi2k/urja_farms">Website for Urja Farm Eats</a></li>
