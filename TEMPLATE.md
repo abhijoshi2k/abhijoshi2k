@@ -78,7 +78,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <li>Part of website team at <b>SIESGSTarena - CodeChef chapter</b><br><small>January 2020 - Present</small></li>
 
-<li>Internship at <b>Jacobs Engineering (Now Worley Engineering)</b><br><small>December 2020</small></li>
+<li>Internship at <b>Jacobs Engineering (Now Worley Engineering)</b><br><small>December 2019</small></li>
 
 <li>Website Developer for the event <b>TEDxSIESGST</b><br><small>December 2019 - October 2020</small></li>
 
