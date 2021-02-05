@@ -44,6 +44,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <ul>
 
+<li><a  href="https://github.com/abhijoshi2k/keeper-app-react">Keeper App Using React.js</a></li>
+
 <li><a  href="https://github.com/abhijoshi2k/video-calling-web-app-node.js">Video Calling App with Chat and Admin features</a></li>
 
 <li>Invoice Automation Project as intern at <b>Jacobs Engineering (Now Worley Engineering)</b></li>
@@ -62,15 +64,17 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <ul>
 
+<li>Technical Mentor at <b>IEEE Student Branch of SIES Graduate School of Technology</b><br><small>February 2020 - Present</small></li>
+
 <li>Worked for a production company <b>Prerana Enterprises</b> as Website Developer<br><small>July 2020 - November 2020</small></li>
 
 <li>Worked for a startup <b>360 Digital Solutions</b> as Web Developer<br><small>May 2020 - June 2020</small></li>
 
-<li>Technical Head at <b>IEEE Student Branch of SIES Graduate School of Technology</b><br><small>January 2020 - present</small></li>
+<li>Technical Head at <b>IEEE Student Branch of SIES Graduate School of Technology</b><br><small>January 2020 - January 2021</small></li>
 
-<li>Technical Co-ordinator at <b>CSI Campus Chapter of SIES Graduate School of Technology</b><br><small>January 2020 - present</small></li>
+<li>Technical Co-ordinator at <b>CSI Campus Chapter of SIES Graduate School of Technology</b><br><small>January 2020 - Present</small></li>
 
-<li>Part of website team at <b>SIESGSTarena - CodeChef chapter</b><br><small>January 2020 - present</small></li>
+<li>Part of website team at <b>SIESGSTarena - CodeChef chapter</b><br><small>January 2020 - Present</small></li>
 
 <li>Internship at <b>Jacobs Engineering (Now Worley Engineering)</b><br><small>December 2020</small></li>
 
