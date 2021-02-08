@@ -30,11 +30,12 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 2 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
+| 📦 | 2 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 1 | [abhijoshi2k/keeper-app-react](https://github.com/abhijoshi2k/keeper-app-react) | Keeper App using React and Material UI. |
 
 ```
+* ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * 🎉 Merged PR #15 in CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -44,20 +45,13 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, February 8th 2021, 6:50:12 pm UTC</b>
+<p align="center">Last refresh: <b>Monday, February 8th 2021, 6:58:59 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/CSI-SIESGST/innovations-website/pull/15) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#13](https://github.com/CSI-SIESGST/innovations-website/pull/13) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#14](https://github.com/CSI-SIESGST/innovations-website/pull/14) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. ❗️ Opened issue [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#12](https://github.com/CSI-SIESGST/innovations-website/pull/12) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
