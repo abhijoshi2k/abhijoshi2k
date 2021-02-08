@@ -30,8 +30,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 | 📦 | 2 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 | 📦 | 1 | [abhijoshi2k/keeper-app-react](https://github.com/abhijoshi2k/keeper-app-react) | Keeper App using React and Material UI. |
 
 ```
@@ -49,15 +49,9 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Monday, February 8th 2021, 8:00:25 am UTC</b>
+<p align="center">Last refresh: <b>Monday, February 8th 2021, 8:38:52 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/CSI-SIESGST/innovations-website/pull/13) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#14](https://github.com/CSI-SIESGST/innovations-website/pull/14) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. ❗️ Opened issue [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🎉 Merged PR [#12](https://github.com/CSI-SIESGST/innovations-website/pull/12) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/abhijoshi2k/pull/1) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
