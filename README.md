@@ -52,6 +52,12 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b>Monday, February 15th 2021, 3:50:43 pm UTC</b>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#18](https://github.com/CSI-SIESGST/innovations-website/pull/18) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+2. 🎉 Merged PR [#19](https://github.com/CSI-SIESGST/innovations-website/pull/19) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+3. 🎉 Merged PR [#17](https://github.com/CSI-SIESGST/innovations-website/pull/17) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+4. 🎉 Merged PR [#16](https://github.com/CSI-SIESGST/innovations-website/pull/16) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+5. 🎉 Merged PR [#15](https://github.com/CSI-SIESGST/innovations-website/pull/15) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
