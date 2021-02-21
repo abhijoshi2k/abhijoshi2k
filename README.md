@@ -37,27 +37,21 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ```
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
-* 🎉 Merged PR #20 in CSI-SIESGST/innovations-website
+* ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, February 21st 2021, 3:32:15 pm UTC</b>
+<p align="center">Last refresh: <b>Sunday, February 21st 2021, 3:47:42 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/CSI-SIESGST/innovations-website/pull/20) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#21](https://github.com/CSI-SIESGST/innovations-website/pull/21) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#18](https://github.com/CSI-SIESGST/innovations-website/pull/18) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#19](https://github.com/CSI-SIESGST/innovations-website/pull/19) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#17](https://github.com/CSI-SIESGST/innovations-website/pull/17) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
