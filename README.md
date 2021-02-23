@@ -49,15 +49,9 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, February 23rd 2021, 11:12:03 pm UTC</b>
+<p align="center">Last refresh: <b>Tuesday, February 23rd 2021, 11:33:59 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2825](https://github.com/axios/axios/issues/2825) in [axios/axios](https://github.com/axios/axios)
-2. 🗣 Commented on [#2825](https://github.com/axios/axios/issues/2825) in [axios/axios](https://github.com/axios/axios)
-3. 🎉 Merged PR [#22](https://github.com/CSI-SIESGST/innovations-website/pull/22) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#20](https://github.com/CSI-SIESGST/innovations-website/pull/20) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#21](https://github.com/CSI-SIESGST/innovations-website/pull/21) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
