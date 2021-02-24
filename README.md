@@ -39,25 +39,19 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * 🗣 Commented on #2825 in axios/axios
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* 🗣 Commented on #2825 in axios/axios
-* ⬆️ Pushed 3 commits to CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, February 24th 2021, 6:20:58 am UTC</b>
+<p align="center">Last refresh: <b>Wednesday, February 24th 2021, 6:40:51 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2825](https://github.com/axios/axios/issues/2825) in [axios/axios](https://github.com/axios/axios)
-2. 🗣 Commented on [#2825](https://github.com/axios/axios/issues/2825) in [axios/axios](https://github.com/axios/axios)
-3. 🎉 Merged PR [#22](https://github.com/CSI-SIESGST/innovations-website/pull/22) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#20](https://github.com/CSI-SIESGST/innovations-website/pull/20) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#21](https://github.com/CSI-SIESGST/innovations-website/pull/21) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
