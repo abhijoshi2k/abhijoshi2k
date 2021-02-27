@@ -30,11 +30,12 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [abhijoshi2k/Assignment-Submission-VSIT-hackathon](https://github.com/abhijoshi2k/Assignment-Submission-VSIT-hackathon) | VSIT hackathon project |
+| 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 
 ```
+* ⬆️ Pushed 1 commit to abhijoshi2k/Assignment-Submission-VSIT-hackathon
 * ⬆️ Pushed 1 commit to abhijoshi2k/Assignment-Submission-VSIT-hackathon
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * 🎉 Merged PR #25 in CSI-SIESGST/innovations-website
@@ -44,20 +45,13 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * 🎉 Merged PR #24 in CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, February 27th 2021, 2:58:03 pm UTC</b>
+<p align="center">Last refresh: <b>Saturday, February 27th 2021, 3:23:43 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/CSI-SIESGST/innovations-website/pull/25) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#24](https://github.com/CSI-SIESGST/innovations-website/pull/24) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#23](https://github.com/CSI-SIESGST/innovations-website/pull/23) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🗣 Commented on [#2825](https://github.com/axios/axios/issues/2825) in [axios/axios](https://github.com/axios/axios)
-5. 🗣 Commented on [#2825](https://github.com/axios/axios/issues/2825) in [axios/axios](https://github.com/axios/axios)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
