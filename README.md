@@ -30,8 +30,8 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 0 | [abhijoshi2k/Assignment-Submission-VSIT-hackathon](https://github.com/abhijoshi2k/Assignment-Submission-VSIT-hackathon) | VSIT hackathon project |
 | 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/Assignment-Submission-VSIT-hackathon](https://github.com/abhijoshi2k/Assignment-Submission-VSIT-hackathon) | VSIT hackathon project |
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 
 ```
@@ -49,7 +49,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, February 27th 2021, 10:22:41 pm UTC</b>
+<p align="center">Last refresh: <b>Saturday, February 27th 2021, 10:40:47 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
