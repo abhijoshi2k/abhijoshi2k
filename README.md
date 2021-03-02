@@ -35,6 +35,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon](https://github.com/abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon) | VSIT hackathon project |
 
 ```
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -44,20 +45,13 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * 🎉 Merged PR #27 in CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
-* 🎉 Merged PR #26 in CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, March 2nd 2021, 4:56:48 pm UTC</b>
+<p align="center">Last refresh: <b>Tuesday, March 2nd 2021, 5:22:22 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/CSI-SIESGST/innovations-website/pull/27) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#26](https://github.com/CSI-SIESGST/innovations-website/pull/26) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#25](https://github.com/CSI-SIESGST/innovations-website/pull/25) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#24](https://github.com/CSI-SIESGST/innovations-website/pull/24) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#23](https://github.com/CSI-SIESGST/innovations-website/pull/23) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
