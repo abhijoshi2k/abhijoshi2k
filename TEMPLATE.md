@@ -8,7 +8,7 @@
 
 Email: abhijoshi2k@gmail.com &#x1F4E7;<br>
 
-Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
+Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 </p>
 
