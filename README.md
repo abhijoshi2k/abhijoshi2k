@@ -8,7 +8,7 @@
 
 Email: abhijoshi2k@gmail.com &#x1F4E7;<br>
 
-Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
+Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 </p>
 
@@ -35,6 +35,7 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 2 | [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io) | The official website of CSI-SIESGST |
 
 ```
+* ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * 🎉 Merged PR #30 in CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -44,12 +45,11 @@ Phone: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to Prerana-Enterprises/website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
-* 🎉 Merged PR #28 in CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, March 14th 2021, 10:55:40 am UTC</b>
+<p align="center">Last refresh: <b>Sunday, March 14th 2021, 11:02:08 am UTC</b>
 
 <!--START_SECTION:activity-->
 
