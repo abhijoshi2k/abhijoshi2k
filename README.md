@@ -30,8 +30,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1 | [abhijoshi2k/Machine-Learning_from-scratch](https://github.com/abhijoshi2k/Machine-Learning_from-scratch) | This is a full machine learning course from scratch!! |
 | 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/Machine-Learning_from-scratch](https://github.com/abhijoshi2k/Machine-Learning_from-scratch) | This is a full machine learning course from scratch!! |
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 
 ```
@@ -49,15 +49,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Monday, March 15th 2021, 12:44:32 pm UTC</b>
+<p align="center">Last refresh: <b>Monday, March 15th 2021, 1:03:16 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/CSI-SIESGST/innovations-website/pull/31) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#30](https://github.com/CSI-SIESGST/innovations-website/pull/30) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#29](https://github.com/CSI-SIESGST/innovations-website/pull/29) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#28](https://github.com/CSI-SIESGST/innovations-website/pull/28) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#27](https://github.com/CSI-SIESGST/innovations-website/pull/27) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
