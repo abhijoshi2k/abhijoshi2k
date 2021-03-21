@@ -31,10 +31,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 | 📦 | 0 | [abhijoshi2k/spam-email-classifier](https://github.com/abhijoshi2k/spam-email-classifier) | Classify Spam Mails with Machine Learning |
-| 📦 | 1 | [abhijoshi2k/Machine-Learning_from-scratch](https://github.com/abhijoshi2k/Machine-Learning_from-scratch) | This is a full machine learning course from scratch!! |
 
 ```
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 1 commit to abhijoshi2k/Machine-Learning_from-scratch
 * ⬆️ Pushed 1 commit to abhijoshi2k/Machine-Learning_from-scratch
@@ -44,20 +45,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 1 commit to abhijoshi2k/Machine-Learning_from-scratch
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
-* ⬆️ Pushed 1 commit to abhijoshi2k/Machine-Learning_from-scratch
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, March 21st 2021, 3:58:47 pm UTC</b>
+<p align="center">Last refresh: <b>Sunday, March 21st 2021, 4:45:11 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/CSI-SIESGST/innovations-website/pull/33) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#31](https://github.com/CSI-SIESGST/innovations-website/pull/31) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#30](https://github.com/CSI-SIESGST/innovations-website/pull/30) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#29](https://github.com/CSI-SIESGST/innovations-website/pull/29) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#28](https://github.com/CSI-SIESGST/innovations-website/pull/28) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
