@@ -49,14 +49,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, March 24th 2021, 8:37:03 pm UTC</b>
+<p align="center">Last refresh: <b>Wednesday, March 24th 2021, 8:46:23 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/CSI-SIESGST/innovations-website/pull/35) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#34](https://github.com/CSI-SIESGST/innovations-website/pull/34) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#33](https://github.com/CSI-SIESGST/innovations-website/pull/33) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#31](https://github.com/CSI-SIESGST/innovations-website/pull/31) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
