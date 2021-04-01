@@ -37,6 +37,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ```
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
+* ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * 🎉 Merged PR #39 in CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
@@ -44,12 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
-* ⬆️ Pushed 1 commit to abhijoshi2k/Machine-Learning_from-scratch
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, April 1st 2021, 9:29:24 am UTC</b>
+<p align="center">Last refresh: <b>Thursday, April 1st 2021, 9:43:23 am UTC</b>
 
 <!--START_SECTION:activity-->
 
