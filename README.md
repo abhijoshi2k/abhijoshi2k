@@ -30,8 +30,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1 | [abhijoshi2k/spam-email-classifier](https://github.com/abhijoshi2k/spam-email-classifier) | Classify Spam Mails with Machine Learning |
 | 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/spam-email-classifier](https://github.com/abhijoshi2k/spam-email-classifier) | Classify Spam Mails with Machine Learning |
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 
 ```
@@ -49,15 +49,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, April 1st 2021, 9:43:23 am UTC</b>
+<p align="center">Last refresh: <b>Thursday, April 1st 2021, 9:55:56 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/CSI-SIESGST/innovations-website/pull/39) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#38](https://github.com/CSI-SIESGST/innovations-website/pull/38) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#37](https://github.com/CSI-SIESGST/innovations-website/pull/37) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#36](https://github.com/CSI-SIESGST/innovations-website/pull/36) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#35](https://github.com/CSI-SIESGST/innovations-website/pull/35) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
