@@ -30,17 +30,17 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
+| 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 
 ```
+* ⬆️ Pushed 1 commit to abhijoshi2k/react-tutorials-basics
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
-* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -49,7 +49,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Friday, April 9th 2021, 12:08:06 pm UTC</b>
+<p align="center">Last refresh: <b>Friday, April 9th 2021, 12:23:07 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
