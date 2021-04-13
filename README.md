@@ -52,6 +52,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b>Tuesday, April 13th 2021, 4:12:18 am UTC</b>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/abhijoshi2k/react-tutorials-basics/pull/2) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+2. 🎉 Merged PR [#41](https://github.com/CSI-SIESGST/innovations-website/pull/41) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+3. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/react-tutorials-basics/pull/1) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+4. 🎉 Merged PR [#39](https://github.com/CSI-SIESGST/innovations-website/pull/39) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+5. 🎉 Merged PR [#38](https://github.com/CSI-SIESGST/innovations-website/pull/38) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
+<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
