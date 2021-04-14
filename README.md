@@ -35,6 +35,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 
 ```
+* ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
+* 🎉 Merged PR #1 in ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
@@ -43,21 +45,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
 * 🎉 Merged PR #2 in abhijoshi2k/react-tutorials-basics
-* ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
-* ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, April 14th 2021, 11:33:37 am UTC</b>
+<p align="center">Last refresh: <b>Wednesday, April 14th 2021, 11:44:15 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/abhijoshi2k/react-tutorials-basics/pull/2) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-2. 🎉 Merged PR [#41](https://github.com/CSI-SIESGST/innovations-website/pull/41) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/react-tutorials-basics/pull/1) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-4. 🎉 Merged PR [#39](https://github.com/CSI-SIESGST/innovations-website/pull/39) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#38](https://github.com/CSI-SIESGST/innovations-website/pull/38) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
