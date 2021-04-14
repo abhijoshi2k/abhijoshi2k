@@ -31,10 +31,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
+| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ```
+* ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
 * 🎉 Merged PR #1 in ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
@@ -44,20 +45,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
-* 🎉 Merged PR #2 in abhijoshi2k/react-tutorials-basics
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, April 14th 2021, 4:49:24 pm UTC</b>
+<p align="center">Last refresh: <b>Wednesday, April 14th 2021, 5:12:59 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/1) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. 🎉 Merged PR [#2](https://github.com/abhijoshi2k/react-tutorials-basics/pull/2) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-3. 🎉 Merged PR [#41](https://github.com/CSI-SIESGST/innovations-website/pull/41) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-4. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/react-tutorials-basics/pull/1) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. 🎉 Merged PR [#39](https://github.com/CSI-SIESGST/innovations-website/pull/39) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
