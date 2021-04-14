@@ -35,6 +35,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ```
+* ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
+* 🎉 Merged PR #42 in CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
 * 🎉 Merged PR #1 in ieeesiesgst/IEEE-SIESGST-website-2.0
@@ -43,21 +45,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
-* ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
-* ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, April 14th 2021, 5:31:15 pm UTC</b>
+<p align="center">Last refresh: <b>Wednesday, April 14th 2021, 5:50:22 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/CSI-SIESGST/innovations-website/pull/42) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#1](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/1) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. 🎉 Merged PR [#2](https://github.com/abhijoshi2k/react-tutorials-basics/pull/2) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-4. 🎉 Merged PR [#41](https://github.com/CSI-SIESGST/innovations-website/pull/41) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/react-tutorials-basics/pull/1) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
