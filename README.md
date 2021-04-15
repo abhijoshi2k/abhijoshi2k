@@ -49,15 +49,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, April 15th 2021, 8:35:35 pm UTC</b>
+<p align="center">Last refresh: <b>Thursday, April 15th 2021, 8:45:55 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/navbar-sample/pull/1) in [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample)
-2. 💪 Opened PR [#1](https://github.com/abhijoshi2k/navbar-sample/pull/1) in [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample)
-3. 🎉 Merged PR [#3](https://github.com/abhijoshi2k/react-tutorials-basics/pull/3) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-4. 🎉 Merged PR [#42](https://github.com/CSI-SIESGST/innovations-website/pull/42) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#1](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/1) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
