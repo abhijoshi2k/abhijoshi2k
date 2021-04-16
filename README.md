@@ -30,11 +30,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
+| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample) | Highly responsive and dynamic navbar sample with dropdown |
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ```
+* ⬆️ Pushed 1 commit to abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 1 commit to abhijoshi2k/navbar-sample
 * ⬆️ Pushed 1 commit to abhijoshi2k/navbar-sample
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
@@ -44,20 +45,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to abhijoshi2k/navbar-sample
 * 🎉 Merged PR #1 in abhijoshi2k/navbar-sample
 * 💪 Opened PR #1 in abhijoshi2k/navbar-sample
-* ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, April 16th 2021, 5:15:33 pm UTC</b>
+<p align="center">Last refresh: <b>Friday, April 16th 2021, 5:34:56 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/2) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/1) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/navbar-sample/pull/1) in [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample)
-4. 💪 Opened PR [#1](https://github.com/abhijoshi2k/navbar-sample/pull/1) in [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample)
-5. 🎉 Merged PR [#3](https://github.com/abhijoshi2k/react-tutorials-basics/pull/3) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
