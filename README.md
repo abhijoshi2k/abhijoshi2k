@@ -35,6 +35,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 
 ```
+* ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
+* 🎉 Merged PR #2 in ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 2 commits to abhijoshi2k/passport-auth-google-microsoft
 * 🎉 Merged PR #1 in abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 2 commits to abhijoshi2k/navbar-sample
@@ -43,21 +45,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
 * 🎉 Merged PR #3 in abhijoshi2k/react-tutorials-basics
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
-* ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
-* 🎉 Merged PR #42 in CSI-SIESGST/innovations-website
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, April 16th 2021, 8:17:59 am UTC</b>
+<p align="center">Last refresh: <b>Friday, April 16th 2021, 8:34:37 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/1) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/navbar-sample/pull/1) in [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample)
-3. 💪 Opened PR [#1](https://github.com/abhijoshi2k/navbar-sample/pull/1) in [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample)
-4. 🎉 Merged PR [#3](https://github.com/abhijoshi2k/react-tutorials-basics/pull/3) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. 🎉 Merged PR [#42](https://github.com/CSI-SIESGST/innovations-website/pull/42) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
