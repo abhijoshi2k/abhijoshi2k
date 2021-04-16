@@ -30,8 +30,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 | 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 | 📦 | 0 | [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample) | Highly responsive and dynamic navbar sample with dropdown |
 
 ```
@@ -49,15 +49,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Friday, April 16th 2021, 6:56:07 am UTC</b>
+<p align="center">Last refresh: <b>Friday, April 16th 2021, 7:08:03 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/navbar-sample/pull/1) in [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample)
-2. 💪 Opened PR [#1](https://github.com/abhijoshi2k/navbar-sample/pull/1) in [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample)
-3. 🎉 Merged PR [#3](https://github.com/abhijoshi2k/react-tutorials-basics/pull/3) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-4. 🎉 Merged PR [#42](https://github.com/CSI-SIESGST/innovations-website/pull/42) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#1](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/1) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
