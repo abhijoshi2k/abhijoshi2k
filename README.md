@@ -31,11 +31,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 | 📦 | 0 | [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample) | Highly responsive and dynamic navbar sample with dropdown |
-| 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 
 ```
-* ⬆️ Pushed 1 commit to abhijoshi2k/navbar-sample
+* ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
 * ⬆️ Pushed 1 commit to abhijoshi2k/navbar-sample
 * ⬆️ Pushed 1 commit to abhijoshi2k/navbar-sample
 * ⬆️ Pushed 1 commit to abhijoshi2k/navbar-sample
@@ -49,15 +49,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Monday, April 19th 2021, 7:24:43 am UTC</b>
+<p align="center">Last refresh: <b>Monday, April 19th 2021, 7:37:55 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/CSI-SIESGST/innovations-website/pull/43) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-2. 🎉 Merged PR [#2](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/2) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/1) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-4. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/navbar-sample/pull/1) in [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample)
-5. 💪 Opened PR [#1](https://github.com/abhijoshi2k/navbar-sample/pull/1) in [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
