@@ -30,9 +30,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
+| 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
 | 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ```
 * ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
@@ -49,15 +49,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, April 21st 2021, 6:35:54 am UTC</b>
+<p align="center">Last refresh: <b>Wednesday, April 21st 2021, 6:50:06 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/abhijoshi2k/react-tutorials-basics/pull/4) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-2. 🎉 Merged PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/3) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. 🎉 Merged PR [#2](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/2) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-4. 🎉 Merged PR [#44](https://github.com/CSI-SIESGST/innovations-website/pull/44) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-5. 🎉 Merged PR [#43](https://github.com/CSI-SIESGST/innovations-website/pull/43) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
