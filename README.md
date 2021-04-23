@@ -31,10 +31,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 3 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
-| 📦 | 3 | [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website) | Official website for national level project competition - Innovations  |
+| 📦 | 2 | [abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon](https://github.com/abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon) | VSIT hackathon project |
+| 📦 | 0 | [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample) | Highly responsive and dynamic navbar sample with dropdown |
 
 ```
+* ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
+* ⬆️ Pushed 2 commits to abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon
+* ⬆️ Pushed 1 commit to abhijoshi2k/navbar-sample
 * ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
 * 🎉 Merged PR #5 in abhijoshi2k/react-tutorials-basics
 * ⬆️ Pushed 1 commit to CSI-SIESGST/innovations-website
@@ -42,22 +45,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to CSI-SIESGST/innovations-website
 * 🎉 Merged PR #45 in CSI-SIESGST/innovations-website
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
-* ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
-* ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
-* 🎉 Merged PR #4 in ieeesiesgst/IEEE-SIESGST-website-2.0
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, April 23rd 2021, 5:07:20 pm UTC</b>
+<p align="center">Last refresh: <b>Friday, April 23rd 2021, 5:32:42 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/abhijoshi2k/react-tutorials-basics/pull/5) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-2. 🎉 Merged PR [#45](https://github.com/CSI-SIESGST/innovations-website/pull/45) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#4](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/4) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. 🎉 Merged PR [#4](https://github.com/abhijoshi2k/react-tutorials-basics/pull/4) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. 🎉 Merged PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/3) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
