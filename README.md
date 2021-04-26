@@ -52,6 +52,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b>Monday, April 26th 2021, 10:04:17 pm UTC</b>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/5) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+2. 🎉 Merged PR [#6](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/6) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+3. ❗️ Closed issue [#1](https://github.com/abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon/issues/1) in [abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon](https://github.com/abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon)
+4. 🗣 Commented on [#1](https://github.com/abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon/issues/1) in [abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon](https://github.com/abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon)
+5. 🎉 Merged PR [#5](https://github.com/abhijoshi2k/react-tutorials-basics/pull/5) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
