@@ -35,29 +35,23 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 0 | [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample) | Highly responsive and dynamic navbar sample with dropdown |
 
 ```
+* ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
+* 🎉 Merged PR #6 in ieeesiesgst/IEEE-SIESGST-website-2.0
+* ❗️ Closed issue #1 in abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon
+* 🗣 Commented on #1 in abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon
 * ⬆️ Pushed 1 commit to abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 1 commit to abhijoshi2k/navbar-sample
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
-* ⬆️ Pushed 2 commits to abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon
-* ⬆️ Pushed 1 commit to abhijoshi2k/navbar-sample
-* ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
-* 🎉 Merged PR #5 in abhijoshi2k/react-tutorials-basics
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, April 26th 2021, 10:06:39 am UTC</b>
+<p align="center">Last refresh: <b>Monday, April 26th 2021, 10:20:39 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/abhijoshi2k/react-tutorials-basics/pull/5) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-2. 🎉 Merged PR [#45](https://github.com/CSI-SIESGST/innovations-website/pull/45) in [CSI-SIESGST/innovations-website](https://github.com/CSI-SIESGST/innovations-website)
-3. 🎉 Merged PR [#4](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/4) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. 🎉 Merged PR [#4](https://github.com/abhijoshi2k/react-tutorials-basics/pull/4) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. 🎉 Merged PR [#3](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/3) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
