@@ -35,29 +35,23 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 0 | [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample) | Highly responsive and dynamic navbar sample with dropdown |
 
 ```
+* ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
+* 🎉 Merged PR #7 in ieeesiesgst/IEEE-SIESGST-website-2.0
+* 🎉 Merged PR #3 in abhijoshi2k/passport-auth-google-microsoft
+* ⬆️ Pushed 2 commits to abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 1 commit to abhijoshi2k/navbar-sample
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 3 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
 * 🎉 Merged PR #5 in ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 3 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
-* 🎉 Merged PR #6 in ieeesiesgst/IEEE-SIESGST-website-2.0
-* ❗️ Closed issue #1 in abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon
-* 🗣 Commented on #1 in abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon
-* ⬆️ Pushed 1 commit to abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, April 28th 2021, 12:29:45 pm UTC</b>
+<p align="center">Last refresh: <b>Wednesday, April 28th 2021, 12:49:20 pm UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/7) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. 🎉 Merged PR [#3](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/3) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. 🎉 Merged PR [#5](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/5) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. 🎉 Merged PR [#6](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/6) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. ❗️ Closed issue [#1](https://github.com/abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon/issues/1) in [abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon](https://github.com/abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
