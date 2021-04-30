@@ -30,9 +30,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
+| 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [abhijoshi2k/react-ecommerce](https://github.com/abhijoshi2k/react-ecommerce) | null |
-| 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 
 ```
 * ⬆️ Pushed 1 commit to abhijoshi2k/react-ecommerce
@@ -49,15 +49,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Friday, April 30th 2021, 7:43:46 am UTC</b>
+<p align="center">Last refresh: <b>Friday, April 30th 2021, 7:51:59 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/abhijoshi2k/react-tutorials-basics/pull/6) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-2. 🎉 Merged PR [#7](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/7) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. 🎉 Merged PR [#3](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/3) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-4. 🎉 Merged PR [#5](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/5) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. 🎉 Merged PR [#6](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/6) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
