@@ -52,6 +52,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b>Friday, April 30th 2021, 10:26:46 am UTC</b>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/8) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+2. 🎉 Merged PR [#4](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/4) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. 🎉 Merged PR [#7](https://github.com/abhijoshi2k/react-tutorials-basics/pull/7) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+4. 🎉 Merged PR [#6](https://github.com/abhijoshi2k/react-tutorials-basics/pull/6) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+5. 🎉 Merged PR [#7](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/7) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
