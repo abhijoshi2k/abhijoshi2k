@@ -30,9 +30,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
+| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 1 | [abhijoshi2k/react-ecommerce](https://github.com/abhijoshi2k/react-ecommerce) | null |
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ```
 * ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
@@ -49,15 +49,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, May 5th 2021, 7:53:14 am UTC</b>
+<p align="center">Last refresh: <b>Wednesday, May 5th 2021, 8:07:03 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/9) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. 🎉 Merged PR [#8](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/8) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. 🎉 Merged PR [#4](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/4) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-4. 🎉 Merged PR [#7](https://github.com/abhijoshi2k/react-tutorials-basics/pull/7) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. 🎉 Merged PR [#6](https://github.com/abhijoshi2k/react-tutorials-basics/pull/6) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
