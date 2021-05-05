@@ -30,8 +30,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 1 | [abhijoshi2k/react-ecommerce](https://github.com/abhijoshi2k/react-ecommerce) | null |
 
 ```
@@ -49,15 +49,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, May 5th 2021, 8:52:34 am UTC</b>
+<p align="center">Last refresh: <b>Wednesday, May 5th 2021, 9:02:29 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/5) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. 🎉 Merged PR [#10](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/10) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ❌ Closed PR [#9](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/9) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. 🎉 Merged PR [#8](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/8) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. 🎉 Merged PR [#4](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/4) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
