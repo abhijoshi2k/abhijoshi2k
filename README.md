@@ -36,28 +36,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ```
 * ⬆️ Pushed 2 commits to abhijoshi2k/passport-auth-google-microsoft
+* 🎉 Merged PR #6 in abhijoshi2k/passport-auth-google-microsoft
+* ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
+* 🎉 Merged PR #11 in ieeesiesgst/IEEE-SIESGST-website-2.0
+* ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
+* 🎉 Merged PR #8 in abhijoshi2k/react-tutorials-basics
+* ⬆️ Pushed 2 commits to abhijoshi2k/passport-auth-google-microsoft
 * 🎉 Merged PR #5 in abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
 * 🎉 Merged PR #10 in ieeesiesgst/IEEE-SIESGST-website-2.0
-* ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
-* ❌ Closed PR #9 in ieeesiesgst/IEEE-SIESGST-website-2.0
-* ⬆️ Pushed 1 commit to abhijoshi2k/react-ecommerce
-* ⬆️ Pushed 1 commit to abhijoshi2k/react-ecommerce
-* ⬆️ Pushed 1 commit to ieeesiesgst/IEEE-SIESGST-website-2.0
-* ⬆️ Pushed 2 commits to abhijoshi2k/react-ecommerce
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, May 6th 2021, 8:04:33 am UTC</b>
+<p align="center">Last refresh: <b>Thursday, May 6th 2021, 8:33:09 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/5) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. 🎉 Merged PR [#10](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/10) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ❌ Closed PR [#9](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/9) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. 🎉 Merged PR [#8](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/8) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. 🎉 Merged PR [#4](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/4) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
