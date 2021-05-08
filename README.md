@@ -36,6 +36,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ```
 * 🗣 Commented on #8 in Readme-Workflows/recent-activity
+* 🗣 Commented on #8 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 3 commits to Readme-Workflows/recent-activity
 * 🎉 Merged PR #6 in Readme-Workflows/recent-activity
 * 📦 Released "Recent Activity updater for your profile README" in Readme-Workflows/recent-activity
@@ -44,12 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * 📦 Released "Recent Activity updater for your profile README" in Readme-Workflows/recent-activity
-* ⬆️ Pushed 1 commit to PuneetGopinath/github-activity-readme
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, May 8th 2021, 2:56:54 pm UTC</b>
+<p align="center">Last refresh: <b>Saturday, May 8th 2021, 3:27:44 pm UTC</b>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/Readme-Workflows/recent-activity/issues/8) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
