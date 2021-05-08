@@ -35,6 +35,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course) | Node,js course from Udemy |
 
 ```
+* ⬆️ Pushed 2 commits to PuneetGopinath/github-activity-readme
+* 🗣 Commented on #2 in PuneetGopinath/github-activity-readme
 * 🗣 Commented on #2 in PuneetGopinath/github-activity-readme
 * 🗣 Commented on #2 in PuneetGopinath/github-activity-readme
 * 💪 Opened PR #2 in PuneetGopinath/github-activity-readme
@@ -43,21 +45,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * 🗣 Commented on #48 in jamesgeorge007/github-activity-readme
 * ⬆️ Pushed 2 commits to abhijoshi2k/full-nodejs-course
 * 🎉 Merged PR #1 in abhijoshi2k/full-nodejs-course
-* ⬆️ Pushed 2 commits to abhijoshi2k/passport-auth-google-microsoft
-* 🎉 Merged PR #6 in abhijoshi2k/passport-auth-google-microsoft
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, May 8th 2021, 7:46:43 am UTC</b>
+<p align="center">Last refresh: <b>Saturday, May 8th 2021, 7:54:51 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/PuneetGopinath/github-activity-readme/issues/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-2. 🗣 Commented on [#2](https://github.com/PuneetGopinath/github-activity-readme/issues/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-3. 🗣 Commented on [#2](https://github.com/PuneetGopinath/github-activity-readme/issues/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-4. 💪 Opened PR [#2](https://github.com/PuneetGopinath/github-activity-readme/pull/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-5. 🗣 Commented on [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
