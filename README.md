@@ -35,6 +35,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ```
+* 🗣 Commented on #48 in jamesgeorge007/github-activity-readme
+* ⬆️ Pushed 2 commits to abhijoshi2k/full-nodejs-course
+* 🎉 Merged PR #1 in abhijoshi2k/full-nodejs-course
 * ⬆️ Pushed 2 commits to abhijoshi2k/passport-auth-google-microsoft
 * 🎉 Merged PR #6 in abhijoshi2k/passport-auth-google-microsoft
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
@@ -42,22 +45,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
 * 🎉 Merged PR #8 in abhijoshi2k/react-tutorials-basics
 * ⬆️ Pushed 2 commits to abhijoshi2k/passport-auth-google-microsoft
-* 🎉 Merged PR #5 in abhijoshi2k/passport-auth-google-microsoft
-* ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
-* 🎉 Merged PR #10 in ieeesiesgst/IEEE-SIESGST-website-2.0
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, May 8th 2021, 6:18:13 am UTC</b>
+<p align="center">Last refresh: <b>Saturday, May 8th 2021, 6:46:52 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/full-nodejs-course/pull/1) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
-2. 🎉 Merged PR [#6](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/6) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. 🎉 Merged PR [#11](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/11) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. 🎉 Merged PR [#8](https://github.com/abhijoshi2k/react-tutorials-basics/pull/8) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. 🎉 Merged PR [#5](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/5) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
