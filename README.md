@@ -35,6 +35,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course) | Node,js course from Udemy |
 
 ```
+* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * 📦 Released "Recent Activity updater for your profile README" in Readme-Workflows/recent-activity
 * ⬆️ Pushed 1 commit to PuneetGopinath/github-activity-readme
@@ -44,12 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * 🗣 Commented on #6 in PuneetGopinath/github-activity-readme
 * 💪 Opened PR #6 in PuneetGopinath/github-activity-readme
 * ⬆️ Pushed 2 commits to PuneetGopinath/github-activity-readme
-* ⬆️ Pushed 3 commits to PuneetGopinath/github-activity-readme
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, May 8th 2021, 12:33:13 pm UTC</b>
+<p align="center">Last refresh: <b>Saturday, May 8th 2021, 12:36:28 pm UTC</b>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/PuneetGopinath/github-activity-readme/issues/6) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
