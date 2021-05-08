@@ -31,8 +31,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 1 | [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme) | Updates README with the recent GitHub activity of a user |
 | 📦 | 0 | [abhijoshi2k/readme-activity-check](https://github.com/abhijoshi2k/readme-activity-check) | null |
+| 📦 | 1 | [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme) | Updates README with the recent GitHub activity of a user |
 
 ```
 * ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
@@ -49,7 +49,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, May 8th 2021, 11:13:23 am UTC</b>
+<p align="center">Last refresh: <b>Saturday, May 8th 2021, 11:31:47 am UTC</b>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/PuneetGopinath/github-activity-readme/issues/6) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
