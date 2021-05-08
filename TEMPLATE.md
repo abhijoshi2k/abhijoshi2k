@@ -39,6 +39,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#6](https://github.com/PuneetGopinath/github-activity-readme/issues/6) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+2. 💪 Opened PR [#6](https://github.com/PuneetGopinath/github-activity-readme/pull/6) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+3. 🎉 Merged PR [#4](https://github.com/PuneetGopinath/github-activity-readme/pull/4) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+4. 🗣 Commented on [#2](https://github.com/PuneetGopinath/github-activity-readme/issues/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+5. 🗣 Commented on [#2](https://github.com/PuneetGopinath/github-activity-readme/issues/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
