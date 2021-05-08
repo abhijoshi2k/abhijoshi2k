@@ -30,11 +30,14 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1 | [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme) | Updates README with the recent GitHub activity of a user |
-| 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [abhijoshi2k/readme-activity-check](https://github.com/abhijoshi2k/readme-activity-check) | null |
+| 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme) | Updates README with the recent GitHub activity of a user |
 
 ```
+* 🗣 Commented on #6 in PuneetGopinath/github-activity-readme
+* 💪 Opened PR #6 in PuneetGopinath/github-activity-readme
+* ⬆️ Pushed 2 commits to PuneetGopinath/github-activity-readme
 * ⬆️ Pushed 3 commits to PuneetGopinath/github-activity-readme
 * 🎉 Merged PR #4 in PuneetGopinath/github-activity-readme
 * ⬆️ Pushed 1 commit to PuneetGopinath/github-activity-readme
@@ -42,22 +45,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to PuneetGopinath/github-activity-readme
 * ⬆️ Pushed 1 commit to PuneetGopinath/github-activity-readme
 * 📦 Released "Create Profile readme for your account" in PuneetGopinath/github-activity-readme
-* ⬆️ Pushed 2 commits to PuneetGopinath/github-activity-readme
-* 🗣 Commented on #2 in PuneetGopinath/github-activity-readme
-* 🗣 Commented on #2 in PuneetGopinath/github-activity-readme
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, May 8th 2021, 10:19:47 am UTC</b>
+<p align="center">Last refresh: <b>Saturday, May 8th 2021, 10:40:17 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/PuneetGopinath/github-activity-readme/issues/6) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-2. 💪 Opened PR [#6](https://github.com/PuneetGopinath/github-activity-readme/pull/6) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-3. 🎉 Merged PR [#4](https://github.com/PuneetGopinath/github-activity-readme/pull/4) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-4. 🗣 Commented on [#2](https://github.com/PuneetGopinath/github-activity-readme/issues/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-5. 🗣 Commented on [#2](https://github.com/PuneetGopinath/github-activity-readme/issues/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
