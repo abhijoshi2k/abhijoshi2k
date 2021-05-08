@@ -52,6 +52,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b>Saturday, May 8th 2021, 7:05:11 am UTC</b>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/PuneetGopinath/github-activity-readme/pull/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+2. 🗣 Commented on [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🎉 Merged PR [#1](https://github.com/abhijoshi2k/full-nodejs-course/pull/1) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
+4. 🎉 Merged PR [#6](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/6) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+5. 🎉 Merged PR [#11](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/11) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
