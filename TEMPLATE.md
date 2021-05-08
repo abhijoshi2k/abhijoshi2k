@@ -40,10 +40,10 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/Readme-Workflows/recent-activity/issues/8) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 🎉 Merged PR [#6](https://github.com/Readme-Workflows/recent-activity/pull/6) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 🗣 Commented on [#6](https://github.com/PuneetGopinath/github-activity-readme/issues/6) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-4. 💪 Opened PR [#6](https://github.com/PuneetGopinath/github-activity-readme/pull/6) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
-5. 🎉 Merged PR [#4](https://github.com/PuneetGopinath/github-activity-readme/pull/4) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+2. 🗣 Commented on [#8](https://github.com/Readme-Workflows/recent-activity/issues/8) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. 🎉 Merged PR [#6](https://github.com/Readme-Workflows/recent-activity/pull/6) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. 🗣 Commented on [#6](https://github.com/PuneetGopinath/github-activity-readme/issues/6) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+5. 💪 Opened PR [#6](https://github.com/PuneetGopinath/github-activity-readme/pull/6) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
 <!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
