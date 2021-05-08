@@ -52,6 +52,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b>Saturday, May 8th 2021, 8:55:47 am UTC</b>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/PuneetGopinath/github-activity-readme/pull/4) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+2. 🗣 Commented on [#2](https://github.com/PuneetGopinath/github-activity-readme/issues/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+3. 🗣 Commented on [#2](https://github.com/PuneetGopinath/github-activity-readme/issues/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+4. 🗣 Commented on [#2](https://github.com/PuneetGopinath/github-activity-readme/issues/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+5. 💪 Opened PR [#2](https://github.com/PuneetGopinath/github-activity-readme/pull/2) in [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme)
+<!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
 
