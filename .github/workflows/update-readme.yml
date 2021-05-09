@@ -16,3 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           README_FILE: ./TEMPLATE.md
+          COMMENTS_ACTIVITY: 'test {ID} in {REPO}'
