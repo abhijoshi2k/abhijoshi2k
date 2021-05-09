@@ -39,11 +39,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Readme-Workflows/recent-activity/issues/11) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 💪 Opened PR [#11](https://github.com/Readme-Workflows/recent-activity/pull/11) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 🗣 Commented on [#10](https://github.com/Readme-Workflows/recent-activity/issues/10) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 🗣 Commented on [#10](https://github.com/Readme-Workflows/recent-activity/issues/10) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🎉 Merged PR [#9](https://github.com/Readme-Workflows/recent-activity/pull/9) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. 🗣 Commented on [#12](https://github.com/Readme-Workflows/recent-activity/issues/12) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. 🗣 Commented on [#11](https://github.com/Readme-Workflows/recent-activity/issues/11) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. 🗣 Commented on [#11](https://github.com/Readme-Workflows/recent-activity/issues/11) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. 💪 Opened PR [#11](https://github.com/Readme-Workflows/recent-activity/pull/11) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 🗣 Commented on [#10](https://github.com/Readme-Workflows/recent-activity/issues/10) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
