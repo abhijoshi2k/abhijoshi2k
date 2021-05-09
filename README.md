@@ -35,6 +35,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course) | Node,js course from Udemy |
 
 ```
+* ⬆️ Pushed 17 commits to Readme-Workflows/recent-activity
+* 🎉 Merged PR #13 in Readme-Workflows/recent-activity
+* ❗️ Closed issue #4 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
 * ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
@@ -42,21 +45,18 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
 * 🗣 Commented on #13 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
-* ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
-* ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
-* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Sunday, May 9th 2021, 9:40:49 am UTC</b>
+<p align="center">Last refresh: <b>Sunday, May 9th 2021, 9:59:12 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Readme-Workflows/recent-activity/issues/13) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 🗣 Commented on [#13](https://github.com/Readme-Workflows/recent-activity/issues/13) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 🗣 Commented on [#13](https://github.com/Readme-Workflows/recent-activity/issues/13) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 🗣 Commented on [#13](https://github.com/Readme-Workflows/recent-activity/issues/13) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🗣 Commented on [#13](https://github.com/Readme-Workflows/recent-activity/issues/13) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ❌ Closed PR [#13](https://github.com/Readme-Workflows/recent-activity/pull/13) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ❗️ Closed issue [#4](https://github.com/Readme-Workflows/recent-activity/issues/4) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. 💪 Opened PR [#11](https://github.com/Readme-Workflows/recent-activity/pull/11) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ❌ Closed PR [#9](https://github.com/Readme-Workflows/recent-activity/pull/9) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ❌ Closed PR [#6](https://github.com/Readme-Workflows/recent-activity/pull/6) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
