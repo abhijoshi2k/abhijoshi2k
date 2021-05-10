@@ -39,11 +39,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/Readme-Workflows/recent-activity/pull/17) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ❌ Closed PR [#15](https://github.com/Readme-Workflows/recent-activity/pull/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 💪 Opened PR [#15](https://github.com/Readme-Workflows/recent-activity/pull/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ❌ Closed PR [#13](https://github.com/Readme-Workflows/recent-activity/pull/13) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ❗️ Closed issue [#4](https://github.com/Readme-Workflows/recent-activity/issues/4) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ❌ Closed PR [#12](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/12) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+2. ❌ Closed PR [#7](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/7) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. 💪 Opened PR [#17](https://github.com/Readme-Workflows/recent-activity/pull/17) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ❌ Closed PR [#15](https://github.com/Readme-Workflows/recent-activity/pull/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 💪 Opened PR [#15](https://github.com/Readme-Workflows/recent-activity/pull/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
