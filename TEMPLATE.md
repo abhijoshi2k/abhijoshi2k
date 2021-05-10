@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/header.png 'Header')
+![Header](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/header.png "Header")
 
 # Hello Folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -14,11 +14,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <a href="https://wa.me/919757468857"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="https://instagram.com/abhi.joshi2k/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://github.com/abhijoshi2k/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:abhijoshi2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
--   🔭 Currently working on a competition hosting platform for <a href="https://github.com/CSI-SIESGST">CSI SIESGST</a> and a certification platform for <a href="https://github.com/ieeesiesgst">IEEE SIESGST</a>.
+- 🔭 Currently working on a competition hosting platform for <a href="https://github.com/CSI-SIESGST">CSI SIESGST</a> and a certification platform for <a href="https://github.com/ieeesiesgst">IEEE SIESGST</a>.
 
--   🌱 Currently learning React!
+- 🌱 Currently learning React!
 
--   👯 I’m looking to collaborate on anything related to Web Development.
+- 👯 I’m looking to collaborate on anything related to Web Development.
 
 ![Repos Badge](https://badges.pufler.dev/repos/abhijoshi2k) ![Profile views](https://gpvc.arturio.dev/abhijoshi2k)
 
@@ -39,6 +39,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>
 
 <!--START_SECTION:activity-->
+
 1. ❌ Closed PR [#15](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/15) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 2. 🎉 Merged PR [#14](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/14) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 3. 🎉 Merged PR [#13](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/13) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
@@ -163,6 +164,15 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 <p>⚡ My primary area of interest: Full Stack Development!</p>
 
 <p>✨ Please star <a href="https://github.com/abhijoshi2k/abhijoshi2k">this readme repository</a> if you liked it!</p>
+
+<!-- Badges -->
+
+[issueopened]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/IssueOpened.svg
+[issueclosed]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/IssueClosed.svg
+[pullrequestopened]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestOpened.svg
+[pullrequestclosed]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestClosed.svg
+[pullrequestmerged]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestMerged.svg
+[comment]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/Comment.svg
 
 <!--
 
