@@ -167,12 +167,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <!-- Badges -->
 
-[issueopened]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/IssueOpened.svg
-[issueclosed]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/IssueClosed.svg
-[pullrequestopened]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestOpened.svg
-[pullrequestclosed]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestClosed.svg
-[pullrequestmerged]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestMerged.svg
-[comment]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/Comment.svg
+[issueopened]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/IssueOpened.svg
+[issueclosed]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/IssueClosed.svg
+[pullrequestopened]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestOpened.svg
+[pullrequestclosed]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestClosed.svg
+[pullrequestmerged]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestMerged.svg
+[comment]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/Comment.svg
 
 <!--
 
