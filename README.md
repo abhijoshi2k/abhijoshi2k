@@ -49,10 +49,10 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Monday, May 10th 2021, 7:46:55 am UTC</b>
+<p align="center">Last refresh: <b>Monday, May 10th 2021, 7:53:05 am UTC</b>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/Readme-Workflows/recent-activity/pull/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ❗️ Closed issue [#4](https://github.com/Readme-Workflows/recent-activity/issues/4) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 2. 💪 Opened PR [#15](https://github.com/Readme-Workflows/recent-activity/pull/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 3. ❌ Closed PR [#13](https://github.com/Readme-Workflows/recent-activity/pull/13) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 4. ❗️ Closed issue [#4](https://github.com/Readme-Workflows/recent-activity/issues/4) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
