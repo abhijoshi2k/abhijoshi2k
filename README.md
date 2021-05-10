@@ -36,6 +36,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ```
 * ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
+* ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
 * ❌ Closed PR #15 in ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
 * 🎉 Merged PR #14 in ieeesiesgst/IEEE-SIESGST-website-2.0
@@ -44,12 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
 * 🎉 Merged PR #12 in ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 2 commits to abhijoshi2k/passport-auth-google-microsoft
-* 🎉 Merged PR #7 in abhijoshi2k/passport-auth-google-microsoft
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, May 10th 2021, 3:28:08 pm UTC</b>
+<p align="center">Last refresh: <b>Monday, May 10th 2021, 3:51:07 pm UTC</b>
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#15](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/15) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
