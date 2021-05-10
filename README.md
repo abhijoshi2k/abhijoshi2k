@@ -35,6 +35,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme) | Updates README with the recent GitHub activity of a user |
 
 ```
+* 🗣 Commented on #17 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 3 commits to abhijoshi2k/abhijoshi2k
 * 🗣 Commented on #17 in Readme-Workflows/recent-activity
@@ -44,12 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
 * ❌ Closed PR #15 in ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
-* 🎉 Merged PR #14 in ieeesiesgst/IEEE-SIESGST-website-2.0
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, May 10th 2021, 7:30:28 pm UTC</b>
+<p align="center">Last refresh: <b>Monday, May 10th 2021, 7:43:31 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
