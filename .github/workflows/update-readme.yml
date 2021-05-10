@@ -16,4 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           README_FILE: ./TEMPLATE.md
-          DISABLE_EVENTS: "comments, pr"
+          DISABLE_EVENTS: "comments"
