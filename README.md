@@ -35,6 +35,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme) | Updates README with the recent GitHub activity of a user |
 
 ```
+* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 3 commits to abhijoshi2k/abhijoshi2k
 * 🗣 Commented on #17 in Readme-Workflows/recent-activity
 * 🍴 Forked abhijoshi2k/Andre601 from Andre601/Andre601
@@ -44,12 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ❌ Closed PR #15 in ieeesiesgst/IEEE-SIESGST-website-2.0
 * ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
 * 🎉 Merged PR #14 in ieeesiesgst/IEEE-SIESGST-website-2.0
-* ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, May 10th 2021, 4:45:03 pm UTC</b>
+<p align="center">Last refresh: <b>Monday, May 10th 2021, 4:46:36 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
@@ -180,12 +180,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <!-- Badges -->
 
-[issueopened]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/IssueOpened.svg
-[issueclosed]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/IssueClosed.svg
-[pullrequestopened]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestOpened.svg
-[pullrequestclosed]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestClosed.svg
-[pullrequestmerged]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestMerged.svg
-[comment]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/Comment.svg
+[issueopened]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/IssueOpened.svg
+[issueclosed]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/IssueClosed.svg
+[pullrequestopened]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestOpened.svg
+[pullrequestclosed]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestClosed.svg
+[pullrequestmerged]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestMerged.svg
+[comment]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/Comment.svg
 
 <!--
 
