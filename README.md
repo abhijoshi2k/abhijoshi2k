@@ -49,7 +49,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Monday, May 10th 2021, 12:30:50 pm UTC</b>
+<p align="center">Last refresh: <b>Monday, May 10th 2021, 1:05:36 pm UTC</b>
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#15](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/15) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
