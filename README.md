@@ -30,26 +30,26 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course) | Node,js course from Udemy |
+| 📦 | 1 | [abhijoshi2k/qu4k](https://github.com/abhijoshi2k/qu4k) | ✨ uwa, special ✨ |
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
-| 📦 | 1 | [PuneetGopinath/github-activity-readme](https://github.com/PuneetGopinath/github-activity-readme) | Updates README with the recent GitHub activity of a user |
 
 ```
-* 🗣 Commented on #17 in Readme-Workflows/recent-activity
-* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 3 commits to abhijoshi2k/abhijoshi2k
-* 🗣 Commented on #17 in Readme-Workflows/recent-activity
-* 🍴 Forked abhijoshi2k/Andre601 from Andre601/Andre601
-* 🗣 Commented on #17 in Readme-Workflows/recent-activity
-* ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
-* ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
-* ❌ Closed PR #15 in ieeesiesgst/IEEE-SIESGST-website-2.0
-* ⬆️ Pushed 2 commits to ieeesiesgst/IEEE-SIESGST-website-2.0
+* ⬆️ Pushed 2 commits to abhijoshi2k/full-nodejs-course
+* 🎉 Merged PR #7 in abhijoshi2k/full-nodejs-course
+* ⬆️ Pushed 2 commits to abhijoshi2k/full-nodejs-course
+* 🎉 Merged PR #8 in abhijoshi2k/full-nodejs-course
+* ⬆️ Pushed 2 commits to abhijoshi2k/full-nodejs-course
+* 🎉 Merged PR #3 in abhijoshi2k/full-nodejs-course
+* ⬆️ Pushed 2 commits to abhijoshi2k/full-nodejs-course
+* 🎉 Merged PR #2 in abhijoshi2k/full-nodejs-course
+* 💪 Opened PR #1 in filipporeds/filipporeds
+* ⬆️ Pushed 2 commits to abhijoshi2k/qu4k
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Tuesday, May 11th 2021, 5:56:26 am UTC</b>
+<p align="center">Last refresh: <b>Tuesday, May 11th 2021, 6:30:39 am UTC</b>
 
 <!--START_SECTION:activity-->
 
