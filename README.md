@@ -31,10 +31,13 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/spam-email-classifier](https://github.com/abhijoshi2k/spam-email-classifier) | Classify Spam Mails with Machine Learning |
 | 📦 | 2 | [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io) | The official website of CSI-SIESGST |
-| 📦 | 1 | [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course) | Node,js course from Udemy |
 
 ```
+* ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
+* ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
+* ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 6 commits to Readme-Workflows/recent-activity
 * 🗣 Commented on #25 in Readme-Workflows/recent-activity
 * 🗣 Commented on #23 in Readme-Workflows/recent-activity
@@ -42,14 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * 🎉 Merged PR #22 in Readme-Workflows/recent-activity
 * 🗣 Commented on #22 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 26 commits to Readme-Workflows/recent-activity
-* 🎉 Merged PR #17 in Readme-Workflows/recent-activity
-* 🗣 Commented on #17 in Readme-Workflows/recent-activity
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Wednesday, May 12th 2021, 5:34:55 pm UTC</b>
+<p align="center">Last refresh: <b>Wednesday, May 12th 2021, 6:12:41 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
