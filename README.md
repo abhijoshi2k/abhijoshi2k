@@ -31,8 +31,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template) | null |
 | 📦 | 1 | [abhijoshi2k/spam-email-classification](https://github.com/abhijoshi2k/spam-email-classification) | Classify Spam Mails with Machine Learning |
-| 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 
 ```
 * ⬆️ Pushed 42 commits to abhijoshi2k/spam-email-classifier
@@ -49,7 +49,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, May 13th 2021, 12:13:35 pm UTC</b>
+<p align="center">Last refresh: <b>Thursday, May 13th 2021, 12:55:36 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
