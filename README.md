@@ -30,11 +30,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
+| 📦 | 1 | [abhijoshi2k/spam-email-classifier](https://github.com/abhijoshi2k/spam-email-classifier) | Classify Spam Mails with Machine Learning |
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
-| 📦 | 1 | [abhijoshi2k/spam-email-classifier](https://github.com/abhijoshi2k/spam-email-classifier) | Classify Spam Mails with Machine Learning |
 
 ```
+* ⬆️ Pushed 42 commits to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
 * 🎉 Merged PR #9 in abhijoshi2k/react-tutorials-basics
 * 🗣 Commented on #23 in Readme-Workflows/recent-activity
@@ -44,12 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 6 commits to Readme-Workflows/recent-activity
 * 🗣 Commented on #25 in Readme-Workflows/recent-activity
-* 🗣 Commented on #23 in Readme-Workflows/recent-activity
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, May 13th 2021, 9:39:31 am UTC</b>
+<p align="center">Last refresh: <b>Thursday, May 13th 2021, 9:57:41 am UTC</b>
 
 <!--START_SECTION:activity-->
 
