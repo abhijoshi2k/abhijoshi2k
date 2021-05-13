@@ -35,6 +35,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/spam-email-classifier](https://github.com/abhijoshi2k/spam-email-classifier) | Classify Spam Mails with Machine Learning |
 
 ```
+* ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
+* 🎉 Merged PR #9 in abhijoshi2k/react-tutorials-basics
+* 🗣 Commented on #23 in Readme-Workflows/recent-activity
 * 🗣 Commented on #23 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
@@ -42,22 +45,19 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 6 commits to Readme-Workflows/recent-activity
 * 🗣 Commented on #25 in Readme-Workflows/recent-activity
 * 🗣 Commented on #23 in Readme-Workflows/recent-activity
-* ⬆️ Pushed 5 commits to Readme-Workflows/recent-activity
-* 🎉 Merged PR #22 in Readme-Workflows/recent-activity
-* 🗣 Commented on #22 in Readme-Workflows/recent-activity
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, May 13th 2021, 9:11:37 am UTC</b>
+<p align="center">Last refresh: <b>Thursday, May 13th 2021, 9:39:31 am UTC</b>
 
 <!--START_SECTION:activity-->
 
-1. ![pullRequestMerged] Merged PR [#22](https://github.com/Readme-Workflows/recent-activity/pull/22) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![pullRequestMerged] Merged PR [#17](https://github.com/Readme-Workflows/recent-activity/pull/17) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullRequestMerged] Merged PR [#19](https://github.com/Readme-Workflows/recent-activity/pull/19) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullRequestMerged] Merged PR [#22](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/22) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
-5. ![pullRequestMerged] Merged PR [#9](https://github.com/abhijoshi2k/full-nodejs-course/pull/9) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
+1. ![pullRequestMerged] Merged PR [#9](https://github.com/abhijoshi2k/react-tutorials-basics/pull/9) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+2. ![pullRequestMerged] Merged PR [#22](https://github.com/Readme-Workflows/recent-activity/pull/22) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullRequestMerged] Merged PR [#17](https://github.com/Readme-Workflows/recent-activity/pull/17) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullRequestMerged] Merged PR [#19](https://github.com/Readme-Workflows/recent-activity/pull/19) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullRequestMerged] Merged PR [#22](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/22) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
 <!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
