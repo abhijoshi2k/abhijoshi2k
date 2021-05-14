@@ -49,7 +49,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Thursday, May 13th 2021, 11:58:15 pm UTC</b>
+<p align="center">Last refresh: <b>Friday, May 14th 2021, 1:23:49 am UTC</b>
 
 <!--START_SECTION:activity-->
 
