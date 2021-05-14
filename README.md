@@ -30,11 +30,14 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
+| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template) | null |
-| 📦 | 1 | [abhijoshi2k/spam-email-classification](https://github.com/abhijoshi2k/spam-email-classification) | Classify Spam Mails with Machine Learning |
 
 ```
+* 🗣 Commented on #27 in Readme-Workflows/recent-activity
+* ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
+* 🗣 Commented on #27 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 42 commits to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
 * 🎉 Merged PR #9 in abhijoshi2k/react-tutorials-basics
@@ -42,14 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * 🗣 Commented on #23 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
 * ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
-* ⬆️ Pushed 1 commit to abhijoshi2k/spam-email-classifier
-* ⬆️ Pushed 6 commits to Readme-Workflows/recent-activity
-* 🗣 Commented on #25 in Readme-Workflows/recent-activity
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, May 14th 2021, 5:57:16 am UTC</b>
+<p align="center">Last refresh: <b>Friday, May 14th 2021, 6:34:02 am UTC</b>
 
 <!--START_SECTION:activity-->
 
