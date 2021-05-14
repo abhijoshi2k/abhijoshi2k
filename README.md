@@ -37,6 +37,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ```
 * 🗣 Commented on #29 in Readme-Workflows/recent-activity
 * 🗣 Commented on #29 in Readme-Workflows/recent-activity
+* 🗣 Commented on #29 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
 * 🎉 Merged PR #29 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 4 commits to Readme-Workflows/recent-activity
@@ -44,12 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ❗️ Closed issue #27 in Readme-Workflows/recent-activity
 * 🗣 Commented on #28 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 2 commits to abhijoshi2k/passport-auth-google-microsoft
-* 🎉 Merged PR #10 in abhijoshi2k/passport-auth-google-microsoft
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Friday, May 14th 2021, 10:56:25 am UTC</b>
+<p align="center">Last refresh: <b>Friday, May 14th 2021, 11:21:52 am UTC</b>
 
 <!--START_SECTION:activity-->
 
