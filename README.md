@@ -30,8 +30,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 0 | [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template) | null |
 
 ```
@@ -49,15 +49,15 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Friday, May 14th 2021, 7:02:42 am UTC</b>
+<p align="center">Last refresh: <b>Friday, May 14th 2021, 7:32:34 am UTC</b>
 
 <!--START_SECTION:activity-->
 
-1. ![pullRequestMerged] Merged PR [#9](https://github.com/abhijoshi2k/react-tutorials-basics/pull/9) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-2. ![pullRequestMerged] Merged PR [#22](https://github.com/Readme-Workflows/recent-activity/pull/22) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullRequestMerged] Merged PR [#17](https://github.com/Readme-Workflows/recent-activity/pull/17) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullRequestMerged] Merged PR [#19](https://github.com/Readme-Workflows/recent-activity/pull/19) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullRequestMerged] Merged PR [#22](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/22) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
+1. ![pullRequestMerged] Merged PR [#10](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/10) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![pullRequestMerged] Merged PR [#18](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/18) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+3. ![pullRequestOpened] Opened PR [#28](https://github.com/Readme-Workflows/recent-activity/pull/28) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullRequestMerged] Merged PR [#9](https://github.com/abhijoshi2k/react-tutorials-basics/pull/9) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+5. ![pullRequestMerged] Merged PR [#22](https://github.com/Readme-Workflows/recent-activity/pull/22) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
