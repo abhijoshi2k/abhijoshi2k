@@ -35,29 +35,29 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ```
+* 🗣 Commented on #1 in PuneetGopinath/recent-activity-template
+* 🗣 Commented on #34 in Readme-Workflows/recent-activity
+* ⬆️ Pushed 15 commits to Readme-Workflows/recent-activity
+* 🎉 Merged PR #34 in Readme-Workflows/recent-activity
 * 💪 Opened PR #33 in Readme-Workflows/recent-activity
 * 🗣 Commented on #32 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
 * 🗣 Commented on #32 in Readme-Workflows/recent-activity
-* 🗣 Commented on #32 in Readme-Workflows/recent-activity
-* 🗣 Commented on #29 in Readme-Workflows/recent-activity
-* 🗣 Commented on #29 in Readme-Workflows/recent-activity
-* 🗣 Commented on #29 in Readme-Workflows/recent-activity
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Saturday, May 15th 2021, 3:30:15 pm UTC</b>
+<p align="center">Last refresh: <b>Saturday, May 15th 2021, 3:57:30 pm UTC</b>
 
 <!--START_SECTION:activity-->
 
-1. ![pullRequestOpened] Opened PR [#33](https://github.com/Readme-Workflows/recent-activity/pull/33) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![pullRequestMerged] Merged PR [#29](https://github.com/Readme-Workflows/recent-activity/pull/29) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullRequestMerged] Merged PR [#28](https://github.com/Readme-Workflows/recent-activity/pull/28) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![issueClosed] Closed issue [#27](https://github.com/Readme-Workflows/recent-activity/issues/27) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullRequestMerged] Merged PR [#10](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/10) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![pullRequestMerged] Merged PR [#34](https://github.com/Readme-Workflows/recent-activity/pull/34) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![pullRequestOpened] Opened PR [#33](https://github.com/Readme-Workflows/recent-activity/pull/33) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullRequestMerged] Merged PR [#29](https://github.com/Readme-Workflows/recent-activity/pull/29) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullRequestMerged] Merged PR [#28](https://github.com/Readme-Workflows/recent-activity/pull/28) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![issueClosed] Closed issue [#27](https://github.com/Readme-Workflows/recent-activity/issues/27) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--END_SECTION:activity-->
 
 <h1><b>Projects:</b></h1>
