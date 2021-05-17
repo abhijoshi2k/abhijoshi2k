@@ -40,18 +40,18 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ![pullRequestOpened] Opened PR [#40](https://github.com/Readme-Workflows/recent-activity/pull/40) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![pullRequestMerged] Merged PR [#34](https://github.com/Readme-Workflows/recent-activity/pull/34) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullRequestOpened] Opened PR [#33](https://github.com/Readme-Workflows/recent-activity/pull/33) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullRequestMerged] Merged PR [#29](https://github.com/Readme-Workflows/recent-activity/pull/29) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullRequestMerged] Merged PR [#28](https://github.com/Readme-Workflows/recent-activity/pull/28) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![pullRequestMerged] Merged PR [#10](https://github.com/abhijoshi2k/react-tutorials-basics/pull/10) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+2. ![pullRequestOpened] Opened PR [#40](https://github.com/Readme-Workflows/recent-activity/pull/40) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullRequestMerged] Merged PR [#34](https://github.com/Readme-Workflows/recent-activity/pull/34) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullRequestOpened] Opened PR [#33](https://github.com/Readme-Workflows/recent-activity/pull/33) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullRequestMerged] Merged PR [#29](https://github.com/Readme-Workflows/recent-activity/pull/29) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 17th, 2021, 1:06:05 PM
+Last Updated: Monday, May 17th, 2021, 1:21:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>

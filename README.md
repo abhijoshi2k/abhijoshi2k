@@ -30,11 +30,14 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
+| 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 1 | [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template) | null |
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ```
+* ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
+* 🎉 Merged PR #10 in abhijoshi2k/react-tutorials-basics
+* ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
 * ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
@@ -42,14 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
 * ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
 * ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
-* 💪 Opened PR #40 in Readme-Workflows/recent-activity
-* ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, May 17th 2021, 7:34:32 am UTC</b>
+<p align="center">Last refresh: <b>Monday, May 17th 2021, 7:50:42 am UTC</b>
 
 <!--RECENT_ACTIVITY:start-->
 
@@ -61,7 +61,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 17th, 2021, 12:53:22 PM
+Last Updated: Monday, May 17th, 2021, 1:06:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
