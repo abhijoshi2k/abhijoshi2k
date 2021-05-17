@@ -32,8 +32,6 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b><!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss a [UTC]"}--></b>
-
 <!--RECENT_ACTIVITY:start-->
 
 1. ![pullRequestMerged] Merged PR [#10](https://github.com/abhijoshi2k/react-tutorials-basics/pull/10) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
