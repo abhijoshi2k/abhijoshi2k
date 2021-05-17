@@ -35,6 +35,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ```
+* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
+* ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
 * 💪 Opened PR #40 in Readme-Workflows/recent-activity
 * ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
 * ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
@@ -43,22 +45,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * 🗣 Commented on #1 in PuneetGopinath/recent-activity-template
 * 🗣 Commented on #1 in PuneetGopinath/recent-activity-template
 * 🗣 Commented on #1 in PuneetGopinath/recent-activity-template
-* 🗣 Commented on #34 in Readme-Workflows/recent-activity
-* ⬆️ Pushed 15 commits to Readme-Workflows/recent-activity
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, May 17th 2021, 6:40:07 am UTC</b>
+<p align="center">Last refresh: <b>Monday, May 17th 2021, 6:55:32 am UTC</b>
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 1. ![pullRequestOpened] Opened PR [#40](https://github.com/Readme-Workflows/recent-activity/pull/40) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 2. ![pullRequestMerged] Merged PR [#34](https://github.com/Readme-Workflows/recent-activity/pull/34) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 3. ![pullRequestOpened] Opened PR [#33](https://github.com/Readme-Workflows/recent-activity/pull/33) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 4. ![pullRequestMerged] Merged PR [#29](https://github.com/Readme-Workflows/recent-activity/pull/29) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 5. ![pullRequestMerged] Merged PR [#28](https://github.com/Readme-Workflows/recent-activity/pull/28) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <h1><b>Projects:</b></h1>
 
