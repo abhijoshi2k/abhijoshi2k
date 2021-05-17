@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@updation-time
+      - uses: Readme-Workflows/recent-activity@v1.2.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -23,4 +23,3 @@ jobs:
           PR_OPENED: "![pullRequestOpened] Opened PR {ID} in {REPO}"
           PR_CLOSED: "![pullRequestClosed] Closed PR {ID} in {REPO}"
           PR_MERGED: "![pullRequestMerged] Merged PR {ID} in {REPO}"
-          TIMEZONE_OFFSET: "GMT+5:30"
