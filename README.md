@@ -35,6 +35,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 1 | [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template) | null |
 
 ```
+* ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
 * 🎉 Merged PR #10 in abhijoshi2k/react-tutorials-basics
@@ -44,12 +45,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 * ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
 * ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
 * ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
-* ⬆️ Pushed 1 commit to Readme-Workflows/recent-activity
 ```
 
 ---
 
-<p align="center">Last refresh: <b>Monday, May 17th 2021, 7:53:43 am UTC</b>
+<p align="center">Last refresh: <b>Monday, May 17th 2021, 7:55:53 am UTC</b>
 
 <!--RECENT_ACTIVITY:start-->
 
