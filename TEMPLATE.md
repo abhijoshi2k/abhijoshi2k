@@ -47,6 +47,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 5. ![pullRequestMerged] Merged PR [#28](https://github.com/Readme-Workflows/recent-activity/pull/28) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 
 <!--RECENT_ACTIVITY:end-->
+
+---
+
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Monday, May 17th, 2021, 1:06:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->

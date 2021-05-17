@@ -24,3 +24,4 @@ jobs:
           PR_CLOSED: "![pullRequestClosed] Closed PR {ID} in {REPO}"
           PR_MERGED: "![pullRequestMerged] Merged PR {ID} in {REPO}"
           TIMEZONE_OFFSET: "GMT+5:30"
+          DATE_STRING: '<p align="center">Last refresh: <b>{DATE}</b>''
