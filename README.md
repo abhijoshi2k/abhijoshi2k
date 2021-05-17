@@ -38,8 +38,6 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 ---
 
-<p align="center">Last refresh: <b>Monday, May 17th 2021, 8:02:23 am UTC</b>
-
 <!--RECENT_ACTIVITY:start-->
 
 1. ![pullRequestMerged] Merged PR [#10](https://github.com/abhijoshi2k/react-tutorials-basics/pull/10) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
@@ -53,7 +51,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 17th, 2021, 1:26:23 PM</b>
+<p align="center">Last refresh: <b>Monday, May 17th, 2021, 1:35:26 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
