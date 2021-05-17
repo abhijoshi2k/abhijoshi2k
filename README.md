@@ -33,23 +33,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 | 📦 | 1 | [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template) | null |
-
-```
-* ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 2 commits to abhijoshi2k/react-tutorials-basics
-* 🎉 Merged PR #10 in abhijoshi2k/react-tutorials-basics
-* ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
-* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 1 commit to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
-* ⬆️ Pushed 2 commits to abhijoshi2k/abhijoshi2k
-* ⬆️ Pushed 2 commits to Readme-Workflows/recent-activity
-```
+| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
+| 📦 | 1 | [abhijoshi2k/spam-email-classification](https://github.com/abhijoshi2k/spam-email-classification) | Classify Spam Mails with Machine Learning |
 
 ---
 
-<p align="center">Last refresh: <b>Monday, May 17th 2021, 7:58:50 am UTC</b>
+<p align="center">Last refresh: <b>Monday, May 17th 2021, 8:01:42 am UTC</b>
 
 <!--RECENT_ACTIVITY:start-->
 
