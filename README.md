@@ -39,14 +39,14 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] Merged PR [#12](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/12) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. ![pullRequestMerged] Merged PR [#20](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/20) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![pullRequestMerged] Merged PR [#19](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/19) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![pullRequestMerged] Merged PR [#11](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/11) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-5. ![pullRequestMerged] Merged PR [#10](https://github.com/abhijoshi2k/react-tutorials-basics/pull/10) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-6. ![pullRequestOpened] Opened PR [#40](https://github.com/Readme-Workflows/recent-activity/pull/40) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![pullRequestMerged] Merged PR [#34](https://github.com/Readme-Workflows/recent-activity/pull/34) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullRequestMerged] Merged PR [#10](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/10) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![pullRequestMerged] Merged PR [#2](https://github.com/abhijoshi2k/abhijoshi2k/pull/2) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+2. ![pullRequestOpened] Opened PR [#2](https://github.com/abhijoshi2k/abhijoshi2k/pull/2) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+3. ![pullRequestMerged] Merged PR [#12](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/12) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+4. ![pullRequestMerged] Merged PR [#20](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/20) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![pullRequestMerged] Merged PR [#19](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/19) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![pullRequestMerged] Merged PR [#11](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/11) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+7. ![pullRequestMerged] Merged PR [#10](https://github.com/abhijoshi2k/react-tutorials-basics/pull/10) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+8. ![pullRequestOpened] Opened PR [#40](https://github.com/Readme-Workflows/recent-activity/pull/40) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 9. ![pullRequestMerged] Merged PR [#18](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/18) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 10. ![pullRequestOpened] Opened PR [#28](https://github.com/Readme-Workflows/recent-activity/pull/28) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
@@ -54,7 +54,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, May 20th, 2021, 5:41:15 PM IST</b>
+<p align="center">Last refresh: <b>Thursday, May 20th, 2021, 5:46:27 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
