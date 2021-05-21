@@ -26,3 +26,21 @@ jobs:
           TIMEZONE_OFFSET: "GMT+5:30"
           DATE_STRING: '<p align="center">Last refresh: <b>{DATE} IST</b>'
           MAX_LINES: 10
+
+      - name: Checkout sources
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Generate README.md
+        uses: actions-js/profile-readme@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: abhijoshi2k
+          template: "TEMPLATE.md"
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
