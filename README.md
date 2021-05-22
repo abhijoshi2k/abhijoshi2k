@@ -39,7 +39,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki [Home](https://github.com/abhijoshi2k/abhijoshi2k/wiki/Home) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+1. 📖 Created new wiki page [Home](https://github.com/abhijoshi2k/abhijoshi2k/wiki/Home) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
 2. 📔 Created new repository [abhijoshi2k/test](https://github.com/abhijoshi2k/test)
 3. 🔱 Forked [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 4. ![pullRequestMerged] Merged PR [#46](https://github.com/Readme-Workflows/recent-activity/pull/46) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
@@ -54,7 +54,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, May 22nd, 2021, 1:26:31 PM IST</b>
+<p align="center">Last refresh: <b>Saturday, May 22nd, 2021, 1:41:24 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
