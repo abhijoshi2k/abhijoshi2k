@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Home](https://github.com/abhijoshi2k/abhijoshi2k/wiki/Home) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-2. 📔 Created new repository [abhijoshi2k/test](https://github.com/abhijoshi2k/test)
-3. 👍 Approved [#48](https://github.com/Readme-Workflows/recent-activity/pull/48#pullrequestreview-665116921) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 🔴 Requested changes in [#48](https://github.com/Readme-Workflows/recent-activity/pull/48#pullrequestreview-665107960) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🔴 Requested changes in [#48](https://github.com/Readme-Workflows/recent-activity/pull/48#pullrequestreview-665107960) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. 🔱 Forked [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![pullRequestMerged] Merged PR [#46](https://github.com/Readme-Workflows/recent-activity/pull/46) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. 👍 Approved [#47](https://github.com/Readme-Workflows/recent-activity/pull/47#pullrequestreview-664517933) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. 👍 Approved [#46](https://github.com/Readme-Workflows/recent-activity/pull/46#pullrequestreview-664516570) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. 👍 Approved [#45](https://github.com/Readme-Workflows/recent-activity/pull/45#pullrequestreview-664304624) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ⭐ Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+2. ⭐ Starred [Readme-Workflows/readme-workflows.github.io](https://github.com/Readme-Workflows/readme-workflows.github.io)
+3. 📖 Created new wiki page [Home](https://github.com/abhijoshi2k/abhijoshi2k/wiki/Home) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+4. 📔 Created new repository [abhijoshi2k/test](https://github.com/abhijoshi2k/test)
+5. 👍 Approved [#48](https://github.com/Readme-Workflows/recent-activity/pull/48#pullrequestreview-665116921) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. 🔴 Requested changes in [#48](https://github.com/Readme-Workflows/recent-activity/pull/48#pullrequestreview-665107960) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. 🔴 Requested changes in [#48](https://github.com/Readme-Workflows/recent-activity/pull/48#pullrequestreview-665107960) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. 🔱 Forked [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![pullRequestMerged] Merged PR [#46](https://github.com/Readme-Workflows/recent-activity/pull/46) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. 👍 Approved [#47](https://github.com/Readme-Workflows/recent-activity/pull/47#pullrequestreview-664517933) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, May 22nd, 2021, 4:15:35 PM IST</b>
+<p align="center">Last refresh: <b>Saturday, May 22nd, 2021, 4:19:29 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
