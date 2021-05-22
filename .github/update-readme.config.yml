@@ -1,0 +1,15 @@
+settings:
+  readme_file: "./TEMPLATE.md"
+  disabled_events:
+    - "comments"
+  date:
+    timezone: "Asia/Kolkata"
+    text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
+    max_lines: 10
+messages:
+  comments: "![comment] Commented on {ID} in {REPO}"
+  issue_opened: "![issueOpened] Opened issue {ID} in {REPO}"
+  issue_closed: "![issueClosed] Closed issue {ID} in {REPO}"
+  pr_opened: "![pullRequestOpened] Opened PR {ID} in {REPO}"
+  pr_closed: "![pullRequestClosed] Closed PR {ID} in {REPO}"
+  pr_merged: "![pullRequestMerged] Merged PR {ID} in {REPO}"

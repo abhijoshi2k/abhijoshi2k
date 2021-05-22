@@ -15,17 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          README_FILE: ./TEMPLATE.md
-          DISABLE_EVENTS: "comments"
-          COMMENTS_ACTIVITY: "![comment] Commented on {ID} in {REPO}"
-          ISSUE_OPENED: "![issueOpened] Opened issue {ID} in {REPO}"
-          ISSUE_CLOSED: "![issueClosed] Closed issue {ID} in {REPO}"
-          PR_OPENED: "![pullRequestOpened] Opened PR {ID} in {REPO}"
-          PR_CLOSED: "![pullRequestClosed] Closed PR {ID} in {REPO}"
-          PR_MERGED: "![pullRequestMerged] Merged PR {ID} in {REPO}"
-          TIMEZONE: "Asia/Kolkata"
-          DATE_STRING: '<p align="center">Last refresh: <b>{DATE} IST</b>'
-          MAX_LINES: 10
+          CONFIG_FILE: "./.github/update-readme.config.yml"
 
       - uses: actions-js/profile-readme@master
         with:
