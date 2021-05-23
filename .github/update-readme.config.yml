@@ -1,11 +1,11 @@
 settings:
   readme_file: "./TEMPLATE.md"
+  max_lines: 10
   disabled_events:
     - "comments"
   date:
     timezone: "Asia/Kolkata"
     text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
-    max_lines: 10
 messages:
   comments: "![comment] Commented on {ID} in {REPO}"
   issue_opened: "![issueOpened] Opened issue {ID} in {REPO}"
