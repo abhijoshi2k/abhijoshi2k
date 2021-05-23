@@ -171,12 +171,24 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <!-- Badges -->
 
-[issueopened]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/IssueOpened.svg
-[issueclosed]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/IssueClosed.svg
-[pullrequestopened]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestOpened.svg
-[pullrequestclosed]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestClosed.svg
-[pullrequestmerged]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestMerged.svg
-[comment]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/Comment.svg
+[issueopened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
+[issueclosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg
+
+[pullrequestopened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
+[pullrequestclosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
+[pullrequestmerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg
+
+[comment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
+
+[changesrequested]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg
+[approved]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
+
+[repocreated]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg
+[release]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg
+[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
+[wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
+[fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
+
 
 <!--
 
