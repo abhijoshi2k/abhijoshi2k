@@ -39,11 +39,11 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] Opened PR [#6](https://github.com/Readme-Workflows/Readme-Icons/pull/6) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-2. 👍 Approved [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#pullrequestreview-666243745) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 👍 Approved [#57](https://github.com/Readme-Workflows/recent-activity/pull/57#pullrequestreview-666235970) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullRequestMerged] Merged PR [#56](https://github.com/Readme-Workflows/recent-activity/pull/56) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 👍 Approved [#56](https://github.com/Readme-Workflows/recent-activity/pull/56#pullrequestreview-666230770) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![prMerged] Merged PR [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+2. ![approved] Approved [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3#pullrequestreview-666256365) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+3. ![prOpened] Opened PR [#6](https://github.com/Readme-Workflows/Readme-Icons/pull/6) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+4. ![approved] Approved [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#pullrequestreview-666243745) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![approved] Approved [#57](https://github.com/Readme-Workflows/recent-activity/pull/57#pullrequestreview-666235970) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 6. ⭐ Starred [Readme-Workflows/readme-workflows.github.io](https://github.com/Readme-Workflows/readme-workflows.github.io)
 7. 📖 Created new wiki page [Home](https://github.com/abhijoshi2k/abhijoshi2k/wiki/Home) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
 8. 📔 Created new repository [abhijoshi2k/test](https://github.com/abhijoshi2k/test)
@@ -54,7 +54,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 23rd, 2021, 4:27:38 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, May 23rd, 2021, 4:47:16 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
@@ -177,12 +177,24 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 <!-- Badges -->
 
-[issueopened]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/IssueOpened.svg
-[issueclosed]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/IssueClosed.svg
-[pullrequestopened]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestOpened.svg
-[pullrequestclosed]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestClosed.svg
-[pullrequestmerged]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/PullRequestMerged.svg
-[comment]: https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/images/Comment.svg
+[issueopened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
+[issueclosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg
+
+[pullrequestopened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
+[pullrequestclosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
+[pullrequestmerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg
+
+[comment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
+
+[changesrequested]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg
+[approved]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
+
+[repocreated]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg
+[release]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg
+[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
+[wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
+[fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
+
 
 <!--
 
