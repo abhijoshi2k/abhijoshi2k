@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@add-config-file
+      - uses: Readme-Workflows/recent-activity@v2.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
