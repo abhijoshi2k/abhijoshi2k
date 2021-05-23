@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestopened] Opened PR [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-2. ![pullrequestmerged] Merged PR [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-3. ![approved] Approved [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3#pullrequestreview-666256365) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-4. ![pullrequestopened] Opened PR [#6](https://github.com/Readme-Workflows/Readme-Icons/pull/6) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-5. ![approved] Approved [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#pullrequestreview-666243745) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![approved] Approved [#57](https://github.com/Readme-Workflows/recent-activity/pull/57#pullrequestreview-666235970) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![pullrequestmerged] Merged PR [#56](https://github.com/Readme-Workflows/recent-activity/pull/56) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#56](https://github.com/Readme-Workflows/recent-activity/pull/56#pullrequestreview-666230770) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![pullrequestmerged] Merged PR [#54](https://github.com/Readme-Workflows/recent-activity/pull/54) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![issueClosed] Closed issue [#49](https://github.com/Readme-Workflows/recent-activity/issues/49) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![approved] Approved [#10](https://github.com/Readme-Workflows/Readme-Icons/pull/10#pullrequestreview-666268762) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+2. ![pullrequestopened] Opened PR [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+3. ![pullrequestmerged] Merged PR [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+4. ![approved] Approved [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3#pullrequestreview-666256365) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+5. ![pullrequestopened] Opened PR [#6](https://github.com/Readme-Workflows/Readme-Icons/pull/6) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+6. ![approved] Approved [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#pullrequestreview-666243745) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![approved] Approved [#57](https://github.com/Readme-Workflows/recent-activity/pull/57#pullrequestreview-666235970) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![pullrequestmerged] Merged PR [#56](https://github.com/Readme-Workflows/recent-activity/pull/56) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#56](https://github.com/Readme-Workflows/recent-activity/pull/56#pullrequestreview-666230770) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![pullrequestmerged] Merged PR [#54](https://github.com/Readme-Workflows/recent-activity/pull/54) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 23rd, 2021, 6:47:25 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, May 23rd, 2021, 7:17:47 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
