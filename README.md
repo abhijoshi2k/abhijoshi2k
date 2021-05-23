@@ -44,17 +44,12 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 3. ![pullrequestopened] Opened PR [#6](https://github.com/Readme-Workflows/Readme-Icons/pull/6) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
 4. ![approved] Approved [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#pullrequestreview-666243745) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 5. ![approved] Approved [#57](https://github.com/Readme-Workflows/recent-activity/pull/57#pullrequestreview-666235970) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ⭐ Starred [Readme-Workflows/readme-workflows.github.io](https://github.com/Readme-Workflows/readme-workflows.github.io)
-7. 📖 Created new wiki page [Home](https://github.com/abhijoshi2k/abhijoshi2k/wiki/Home) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-8. 📔 Created new repository [abhijoshi2k/test](https://github.com/abhijoshi2k/test)
-9. 👍 Approved [#48](https://github.com/Readme-Workflows/recent-activity/pull/48#pullrequestreview-665116921) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. 🔴 Requested changes in [#48](https://github.com/Readme-Workflows/recent-activity/pull/48#pullrequestreview-665107960) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 23rd, 2021, 4:57:25 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, May 23rd, 2021, 4:59:13 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
