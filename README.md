@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#59](https://github.com/Readme-Workflows/recent-activity/pull/59#pullrequestreview-666420540) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![pullrequestmerged] Merged PR [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-3. ![approved] Approved [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4#pullrequestreview-666397848) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-4. ![approved] Approved [#1](https://github.com/Readme-Workflows/.github/pull/1#pullrequestreview-666389059) in [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
-5. ![approved] Approved [#10](https://github.com/Readme-Workflows/Readme-Icons/pull/10#pullrequestreview-666268762) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-6. ![pullrequestopened] Opened PR [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-7. ![pullrequestmerged] Merged PR [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-8. ![approved] Approved [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3#pullrequestreview-666256365) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-9. ![pullrequestopened] Opened PR [#6](https://github.com/Readme-Workflows/Readme-Icons/pull/6) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-10. ![approved] Approved [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#pullrequestreview-666243745) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![issueClosed] Closed issue [#61](https://github.com/Readme-Workflows/recent-activity/issues/61) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![issueOpened] Opened issue [#61](https://github.com/Readme-Workflows/recent-activity/issues/61) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![approved] Approved [#59](https://github.com/Readme-Workflows/recent-activity/pull/59#pullrequestreview-666420540) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullrequestmerged] Merged PR [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+5. ![approved] Approved [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4#pullrequestreview-666397848) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+6. ![approved] Approved [#1](https://github.com/Readme-Workflows/.github/pull/1#pullrequestreview-666389059) in [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
+7. ![approved] Approved [#10](https://github.com/Readme-Workflows/Readme-Icons/pull/10#pullrequestreview-666268762) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+8. ![pullrequestopened] Opened PR [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+9. ![pullrequestmerged] Merged PR [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+10. ![approved] Approved [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3#pullrequestreview-666256365) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 24th, 2021, 12:36:42 PM IST</b>
+<p align="center">Last refresh: <b>Monday, May 24th, 2021, 1:09:01 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
