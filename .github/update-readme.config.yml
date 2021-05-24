@@ -20,4 +20,4 @@ messages:
   changes_requested: "![changesRequested] Requested changes in {ID} in {REPO}"
   new_release: "![release] Released {ID} in {REPO}"
   new_star: "![star] Starred {REPO}"
-  added_member: "🤝 Became collaborator on {REPO}"
+  added_member: "![people] Became collaborator on {REPO}"
