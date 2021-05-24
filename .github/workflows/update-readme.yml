@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@src-folder
+      - uses: Readme-Workflows/recent-activity@github-secret
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
