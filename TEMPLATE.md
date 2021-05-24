@@ -188,6 +188,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 [star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
 [wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
 [fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
+[people]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg
 
 
 <!--
