@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#62](https://github.com/Readme-Workflows/recent-activity/pull/62#pullrequestreview-666862749) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![pullrequestmerged] Merged PR [#21](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/21) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![approved] Approved [#21](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/21#pullrequestreview-666486401) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![approved] Approved [#22](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/22#pullrequestreview-666486203) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. ![pullrequestmerged] Merged PR [#13](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/13) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-6. ![approved] Approved [#13](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/13#pullrequestreview-666485297) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-7. ![issueClosed] Closed issue [#61](https://github.com/Readme-Workflows/recent-activity/issues/61) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![issueOpened] Opened issue [#61](https://github.com/Readme-Workflows/recent-activity/issues/61) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#59](https://github.com/Readme-Workflows/recent-activity/pull/59#pullrequestreview-666420540) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![pullrequestmerged] Merged PR [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+1. ![pullrequestmerged] Merged PR [#23](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/23) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+2. ![approved] Approved [#23](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/23#pullrequestreview-667996382) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+3. ![pullrequestmerged] Merged PR [#11](https://github.com/abhijoshi2k/react-tutorials-basics/pull/11) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+4. ![approved] Approved [#11](https://github.com/abhijoshi2k/react-tutorials-basics/pull/11#pullrequestreview-667996043) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+5. ![pullrequestmerged] Merged PR [#14](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/14) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+6. ![approved] Approved [#14](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/14#pullrequestreview-667995710) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+7. ![approved] Approved [#62](https://github.com/Readme-Workflows/recent-activity/pull/62#pullrequestreview-666862749) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![pullrequestmerged] Merged PR [#21](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/21) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![approved] Approved [#21](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/21#pullrequestreview-666486401) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+10. ![approved] Approved [#22](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/22#pullrequestreview-666486203) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, May 25th, 2021, 9:00:29 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, May 25th, 2021, 9:32:45 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
