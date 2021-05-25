@@ -31,9 +31,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [PuneetGopinath/activity-template](https://github.com/PuneetGopinath/activity-template) | A example template repo for Recent Activity action. |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
-| 📦 | 1 | [PuneetGopinath/activity-template](https://github.com/PuneetGopinath/activity-template) | A example template repo for Recent Activity action. |
 | 📦 | 1 | [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test) | null |
 
 ---
@@ -54,7 +54,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, May 25th, 2021, 5:27:09 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, May 25th, 2021, 6:15:33 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
