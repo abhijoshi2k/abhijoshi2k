@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#21](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/21) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. ![approved] Approved [#21](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/21#pullrequestreview-666486401) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![approved] Approved [#22](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/22#pullrequestreview-666486203) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![pullrequestmerged] Merged PR [#13](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/13) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-5. ![approved] Approved [#13](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/13#pullrequestreview-666485297) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-6. ![issueClosed] Closed issue [#61](https://github.com/Readme-Workflows/recent-activity/issues/61) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![issueOpened] Opened issue [#61](https://github.com/Readme-Workflows/recent-activity/issues/61) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#59](https://github.com/Readme-Workflows/recent-activity/pull/59#pullrequestreview-666420540) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![pullrequestmerged] Merged PR [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-10. ![approved] Approved [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4#pullrequestreview-666397848) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+1. ![approved] Approved [#62](https://github.com/Readme-Workflows/recent-activity/pull/62#pullrequestreview-666862749) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![pullrequestmerged] Merged PR [#21](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/21) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+3. ![approved] Approved [#21](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/21#pullrequestreview-666486401) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+4. ![approved] Approved [#22](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/22#pullrequestreview-666486203) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![pullrequestmerged] Merged PR [#13](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/13) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+6. ![approved] Approved [#13](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/13#pullrequestreview-666485297) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+7. ![issueClosed] Closed issue [#61](https://github.com/Readme-Workflows/recent-activity/issues/61) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![issueOpened] Opened issue [#61](https://github.com/Readme-Workflows/recent-activity/issues/61) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#59](https://github.com/Readme-Workflows/recent-activity/pull/59#pullrequestreview-666420540) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![pullrequestmerged] Merged PR [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 24th, 2021, 3:17:05 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, May 25th, 2021, 12:40:47 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
