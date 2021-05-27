@@ -11,13 +11,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@github-secret
+      - uses: Readme-Workflows/recent-activity@pr/63
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TEST_A: ${{ secrets.TEST_SECRET }}
         with:
           CONFIG_FILE: "./.github/update-readme.config.yml"
-          TEST: ${{ secrets.TEST_SECRET }}
 
       - uses: actions-js/profile-readme@master
         with:
