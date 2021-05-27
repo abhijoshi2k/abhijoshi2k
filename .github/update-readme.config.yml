@@ -1,6 +1,8 @@
 settings:
   readme_file: "./TEMPLATE.md"
   max_lines: 10
+  commit_username: "abhijoshi2k"
+  commit_email: "abhijoshi2k@gmail.com"
   disabled_events:
     - "comments"
   date:
