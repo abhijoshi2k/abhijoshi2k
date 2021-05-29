@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 2 | [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io) | The official website of CSI-SIESGST |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
+| 📦 | 2 | [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io) | The official website of CSI-SIESGST |
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 1 | [PuneetGopinath/activity-template](https://github.com/PuneetGopinath/activity-template) | A example template repo for Recent Activity action. |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#65](https://github.com/Readme-Workflows/recent-activity/pull/65#pullrequestreview-671000070) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![approved] Approved [#64](https://github.com/Readme-Workflows/recent-activity/pull/64#pullrequestreview-670561189) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullrequestmerged] Merged PR [#63](https://github.com/Readme-Workflows/recent-activity/pull/63) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![approved] Approved [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-670382033) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669852301) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![pullrequestmerged] Merged PR [#23](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/23) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-7. ![approved] Approved [#23](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/23#pullrequestreview-667996382) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-8. ![pullrequestmerged] Merged PR [#11](https://github.com/abhijoshi2k/react-tutorials-basics/pull/11) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-9. ![approved] Approved [#11](https://github.com/abhijoshi2k/react-tutorials-basics/pull/11#pullrequestreview-667996043) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-10. ![pullrequestmerged] Merged PR [#14](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/14) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![pullrequestmerged] Merged PR [#12](https://github.com/abhijoshi2k/react-tutorials-basics/pull/12) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+2. ![approved] Approved [#12](https://github.com/abhijoshi2k/react-tutorials-basics/pull/12#pullrequestreview-671718287) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+3. ![approved] Approved [#65](https://github.com/Readme-Workflows/recent-activity/pull/65#pullrequestreview-671000070) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#64](https://github.com/Readme-Workflows/recent-activity/pull/64#pullrequestreview-670561189) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#63](https://github.com/Readme-Workflows/recent-activity/pull/63) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-670382033) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669852301) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![pullrequestmerged] Merged PR [#23](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/23) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![approved] Approved [#23](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/23#pullrequestreview-667996382) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+10. ![pullrequestmerged] Merged PR [#11](https://github.com/abhijoshi2k/react-tutorials-basics/pull/11) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, May 29th, 2021, 11:07:46 AM IST</b>
+<p align="center">Last refresh: <b>Saturday, May 29th, 2021, 12:40:52 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
