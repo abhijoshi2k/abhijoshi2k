@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#66](https://github.com/Readme-Workflows/recent-activity/pull/66#pullrequestreview-671755473) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![pullrequestmerged] Merged PR [#12](https://github.com/abhijoshi2k/react-tutorials-basics/pull/12) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-3. ![approved] Approved [#12](https://github.com/abhijoshi2k/react-tutorials-basics/pull/12#pullrequestreview-671718287) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-4. ![approved] Approved [#65](https://github.com/Readme-Workflows/recent-activity/pull/65#pullrequestreview-671000070) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#64](https://github.com/Readme-Workflows/recent-activity/pull/64#pullrequestreview-670561189) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![pullrequestmerged] Merged PR [#63](https://github.com/Readme-Workflows/recent-activity/pull/63) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![approved] Approved [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-670382033) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669852301) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![pullrequestmerged] Merged PR [#23](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/23) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-10. ![approved] Approved [#23](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/23#pullrequestreview-667996382) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+1. ![pullrequestopened] Opened PR [#67](https://github.com/Readme-Workflows/recent-activity/pull/67) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![approved] Approved [#66](https://github.com/Readme-Workflows/recent-activity/pull/66#pullrequestreview-671755473) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullrequestmerged] Merged PR [#12](https://github.com/abhijoshi2k/react-tutorials-basics/pull/12) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+4. ![approved] Approved [#12](https://github.com/abhijoshi2k/react-tutorials-basics/pull/12#pullrequestreview-671718287) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+5. ![approved] Approved [#65](https://github.com/Readme-Workflows/recent-activity/pull/65#pullrequestreview-671000070) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#64](https://github.com/Readme-Workflows/recent-activity/pull/64#pullrequestreview-670561189) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![pullrequestmerged] Merged PR [#63](https://github.com/Readme-Workflows/recent-activity/pull/63) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![approved] Approved [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-670382033) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669852301) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![pullrequestmerged] Merged PR [#23](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/23) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 30th, 2021, 12:14:15 AM IST</b>
+<p align="center">Last refresh: <b>Sunday, May 30th, 2021, 1:28:45 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
