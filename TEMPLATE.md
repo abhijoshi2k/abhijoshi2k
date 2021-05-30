@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [abhijoshi2k/data-collection-api](https://github.com/abhijoshi2k/data-collection-api)
-2. ![pullrequestopened] Opened PR [#67](https://github.com/Readme-Workflows/recent-activity/pull/67) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![approved] Approved [#66](https://github.com/Readme-Workflows/recent-activity/pull/66#pullrequestreview-671755473) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullrequestmerged] Merged PR [#12](https://github.com/abhijoshi2k/react-tutorials-basics/pull/12) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. ![approved] Approved [#12](https://github.com/abhijoshi2k/react-tutorials-basics/pull/12#pullrequestreview-671718287) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-6. ![approved] Approved [#65](https://github.com/Readme-Workflows/recent-activity/pull/65#pullrequestreview-671000070) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![approved] Approved [#64](https://github.com/Readme-Workflows/recent-activity/pull/64#pullrequestreview-670561189) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#63](https://github.com/Readme-Workflows/recent-activity/pull/63) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-670382033) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669852301) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![repoCreated] Created new repository [abhijoshi2k/data-collection-api-readme-workflows](https://github.com/abhijoshi2k/data-collection-api-readme-workflows)
+2. ![repoCreated] Created new repository [abhijoshi2k/data-collection-api](https://github.com/abhijoshi2k/data-collection-api)
+3. ![pullrequestopened] Opened PR [#67](https://github.com/Readme-Workflows/recent-activity/pull/67) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#66](https://github.com/Readme-Workflows/recent-activity/pull/66#pullrequestreview-671755473) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#12](https://github.com/abhijoshi2k/react-tutorials-basics/pull/12) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+6. ![approved] Approved [#12](https://github.com/abhijoshi2k/react-tutorials-basics/pull/12#pullrequestreview-671718287) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+7. ![approved] Approved [#65](https://github.com/Readme-Workflows/recent-activity/pull/65#pullrequestreview-671000070) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![approved] Approved [#64](https://github.com/Readme-Workflows/recent-activity/pull/64#pullrequestreview-670561189) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![pullrequestmerged] Merged PR [#63](https://github.com/Readme-Workflows/recent-activity/pull/63) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![approved] Approved [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-670382033) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, May 30th, 2021, 11:55:48 PM IST</b>
+<p align="center">Last refresh: <b>Monday, May 31st, 2021, 1:25:48 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
