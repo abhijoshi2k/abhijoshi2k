@@ -31,7 +31,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 1 | [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome) | A discord.js bot to welcome users |
+| 📦 | 2 | [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome) | A discord.js bot to welcome users |
 | 📦 | 0 | [abhijoshi2k/welcome-bot-discord](https://github.com/abhijoshi2k/welcome-bot-discord) | A discord.js bot to welcome users |
 | 📦 | 1 | [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test) | null |
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
@@ -54,7 +54,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, May 31st, 2021, 11:46:32 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, June 1st, 2021, 1:40:13 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
