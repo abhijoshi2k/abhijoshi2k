@@ -31,7 +31,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 2 | [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome) | A discord.js bot to welcome users |
+| 📦 | 3 | [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome) | A discord.js bot to welcome users |
 | 📦 | 0 | [abhijoshi2k/welcome-bot-discord](https://github.com/abhijoshi2k/welcome-bot-discord) | A discord.js bot to welcome users |
 | 📦 | 1 | [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test) | null |
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestopened] Opened PR [#3](https://github.com/PuneetGopinath/welcome/pull/3) in [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
-2. ![fork] Forked [abhijoshi2k/welcome](https://github.com/abhijoshi2k/welcome) from [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
-3. ![pullrequestopened] Opened PR [#68](https://github.com/Readme-Workflows/recent-activity/pull/68) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullrequestmerged] Merged PR [#24](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/24) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. ![approved] Approved [#24](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/24#pullrequestreview-672111330) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-6. ![pullrequestmerged] Merged PR [#15](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/15) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-7. ![approved] Approved [#15](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/15#pullrequestreview-672111016) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-8. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/video-calling-web-app-node.js/pull/1) in [abhijoshi2k/video-calling-web-app-node.js](https://github.com/abhijoshi2k/video-calling-web-app-node.js)
-9. ![approved] Approved [#1](https://github.com/abhijoshi2k/video-calling-web-app-node.js/pull/1#pullrequestreview-671967602) in [abhijoshi2k/video-calling-web-app-node.js](https://github.com/abhijoshi2k/video-calling-web-app-node.js)
-10. ![repoCreated] Created new repository [abhijoshi2k/data-collection-api-readme-workflows](https://github.com/abhijoshi2k/data-collection-api-readme-workflows)
+1. ![star] Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+2. ![pullrequestopened] Opened PR [#3](https://github.com/PuneetGopinath/welcome/pull/3) in [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+3. ![fork] Forked [abhijoshi2k/welcome](https://github.com/abhijoshi2k/welcome) from [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+4. ![pullrequestopened] Opened PR [#68](https://github.com/Readme-Workflows/recent-activity/pull/68) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#24](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/24) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![approved] Approved [#24](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/24#pullrequestreview-672111330) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+7. ![pullrequestmerged] Merged PR [#15](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/15) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+8. ![approved] Approved [#15](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/15#pullrequestreview-672111016) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+9. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/video-calling-web-app-node.js/pull/1) in [abhijoshi2k/video-calling-web-app-node.js](https://github.com/abhijoshi2k/video-calling-web-app-node.js)
+10. ![approved] Approved [#1](https://github.com/abhijoshi2k/video-calling-web-app-node.js/pull/1#pullrequestreview-671967602) in [abhijoshi2k/video-calling-web-app-node.js](https://github.com/abhijoshi2k/video-calling-web-app-node.js)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, June 1st, 2021, 9:36:40 AM IST</b>
+<p align="center">Last refresh: <b>Tuesday, June 1st, 2021, 12:03:13 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
