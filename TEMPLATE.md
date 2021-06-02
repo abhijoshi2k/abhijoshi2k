@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#3](https://github.com/BaalKrshna/welcome-bot/pull/3#pullrequestreview-674229904) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-2. ![issueClosed] Closed issue [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ![pullrequestmerged] Merged PR [#13](https://github.com/abhijoshi2k/react-tutorials-basics/pull/13) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-4. ![approved] Approved [#13](https://github.com/abhijoshi2k/react-tutorials-basics/pull/13#pullrequestreview-674222934) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. ![star] Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
-6. ![pullrequestopened] Opened PR [#3](https://github.com/PuneetGopinath/welcome/pull/3) in [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
-7. ![fork] Forked [abhijoshi2k/welcome](https://github.com/abhijoshi2k/welcome) from [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
-8. ![pullrequestopened] Opened PR [#68](https://github.com/Readme-Workflows/recent-activity/pull/68) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![pullrequestmerged] Merged PR [#24](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/24) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-10. ![approved] Approved [#24](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/24#pullrequestreview-672111330) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+1. ![star] Starred [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+2. ![pullrequestmerged] Merged PR [#5](https://github.com/BaalKrshna/welcome-bot/pull/5) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+3. ![issueClosed] Closed issue [#4](https://github.com/BaalKrshna/welcome-bot/issues/4) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+4. ![approved] Approved [#5](https://github.com/BaalKrshna/welcome-bot/pull/5#pullrequestreview-674387851) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+5. ![approved] Approved [#3](https://github.com/BaalKrshna/welcome-bot/pull/3#pullrequestreview-674229904) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+6. ![issueClosed] Closed issue [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+7. ![pullrequestmerged] Merged PR [#13](https://github.com/abhijoshi2k/react-tutorials-basics/pull/13) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+8. ![approved] Approved [#13](https://github.com/abhijoshi2k/react-tutorials-basics/pull/13#pullrequestreview-674222934) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+9. ![star] Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+10. ![pullrequestopened] Opened PR [#3](https://github.com/PuneetGopinath/welcome/pull/3) in [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, June 2nd, 2021, 8:51:51 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, June 2nd, 2021, 9:27:38 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
