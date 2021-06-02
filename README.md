@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
-2. ![pullrequestopened] Opened PR [#3](https://github.com/PuneetGopinath/welcome/pull/3) in [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
-3. ![fork] Forked [abhijoshi2k/welcome](https://github.com/abhijoshi2k/welcome) from [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
-4. ![pullrequestopened] Opened PR [#68](https://github.com/Readme-Workflows/recent-activity/pull/68) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullrequestmerged] Merged PR [#24](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/24) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-6. ![approved] Approved [#24](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/24#pullrequestreview-672111330) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-7. ![pullrequestmerged] Merged PR [#15](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/15) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-8. ![approved] Approved [#15](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/15#pullrequestreview-672111016) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-9. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/video-calling-web-app-node.js/pull/1) in [abhijoshi2k/video-calling-web-app-node.js](https://github.com/abhijoshi2k/video-calling-web-app-node.js)
-10. ![approved] Approved [#1](https://github.com/abhijoshi2k/video-calling-web-app-node.js/pull/1#pullrequestreview-671967602) in [abhijoshi2k/video-calling-web-app-node.js](https://github.com/abhijoshi2k/video-calling-web-app-node.js)
+1. ![approved] Approved [#3](https://github.com/BaalKrshna/welcome-bot/pull/3#pullrequestreview-674229904) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+2. ![issueClosed] Closed issue [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. ![pullrequestmerged] Merged PR [#13](https://github.com/abhijoshi2k/react-tutorials-basics/pull/13) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+4. ![approved] Approved [#13](https://github.com/abhijoshi2k/react-tutorials-basics/pull/13#pullrequestreview-674222934) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+5. ![star] Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+6. ![pullrequestopened] Opened PR [#3](https://github.com/PuneetGopinath/welcome/pull/3) in [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+7. ![fork] Forked [abhijoshi2k/welcome](https://github.com/abhijoshi2k/welcome) from [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+8. ![pullrequestopened] Opened PR [#68](https://github.com/Readme-Workflows/recent-activity/pull/68) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![pullrequestmerged] Merged PR [#24](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/24) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+10. ![approved] Approved [#24](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/24#pullrequestreview-672111330) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, June 2nd, 2021, 6:10:38 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, June 2nd, 2021, 7:51:12 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
