@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#6](https://github.com/BaalKrshna/welcome-bot/pull/6#pullrequestreview-674870223) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-2. ![star] Starred [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-3. ![pullrequestmerged] Merged PR [#5](https://github.com/BaalKrshna/welcome-bot/pull/5) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-4. ![issueClosed] Closed issue [#4](https://github.com/BaalKrshna/welcome-bot/issues/4) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-5. ![approved] Approved [#5](https://github.com/BaalKrshna/welcome-bot/pull/5#pullrequestreview-674387851) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-6. ![approved] Approved [#3](https://github.com/BaalKrshna/welcome-bot/pull/3#pullrequestreview-674229904) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-7. ![issueClosed] Closed issue [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-8. ![pullrequestmerged] Merged PR [#13](https://github.com/abhijoshi2k/react-tutorials-basics/pull/13) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-9. ![approved] Approved [#13](https://github.com/abhijoshi2k/react-tutorials-basics/pull/13#pullrequestreview-674222934) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-10. ![star] Starred [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome)
+1. ![pullrequestopened] Opened PR [#7](https://github.com/Welcome-Bot/welcome-bot/pull/7) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#6](https://github.com/BaalKrshna/welcome-bot/pull/6#pullrequestreview-674870223) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+3. ![star] Starred [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+4. ![pullrequestmerged] Merged PR [#5](https://github.com/BaalKrshna/welcome-bot/pull/5) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+5. ![issueClosed] Closed issue [#4](https://github.com/BaalKrshna/welcome-bot/issues/4) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+6. ![approved] Approved [#5](https://github.com/BaalKrshna/welcome-bot/pull/5#pullrequestreview-674387851) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+7. ![approved] Approved [#3](https://github.com/BaalKrshna/welcome-bot/pull/3#pullrequestreview-674229904) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+8. ![issueClosed] Closed issue [#48](https://github.com/jamesgeorge007/github-activity-readme/issues/48) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+9. ![pullrequestmerged] Merged PR [#13](https://github.com/abhijoshi2k/react-tutorials-basics/pull/13) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+10. ![approved] Approved [#13](https://github.com/abhijoshi2k/react-tutorials-basics/pull/13#pullrequestreview-674222934) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, June 3rd, 2021, 11:16:41 AM IST</b>
+<p align="center">Last refresh: <b>Thursday, June 3rd, 2021, 12:42:44 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
