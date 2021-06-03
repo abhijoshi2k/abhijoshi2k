@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestopened] Opened PR [#9](https://github.com/Welcome-Bot/welcome-bot/pull/9) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#8](https://github.com/Welcome-Bot/welcome-bot/pull/8#pullrequestreview-675000144) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#14](https://github.com/abhijoshi2k/react-tutorials-basics/pull/14#pullrequestreview-674957678) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-4. ![pullrequestopened] Opened PR [#7](https://github.com/Welcome-Bot/welcome-bot/pull/7) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#6](https://github.com/BaalKrshna/welcome-bot/pull/6#pullrequestreview-674870223) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-6. ![star] Starred [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-7. ![pullrequestmerged] Merged PR [#5](https://github.com/BaalKrshna/welcome-bot/pull/5) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-8. ![issueClosed] Closed issue [#4](https://github.com/BaalKrshna/welcome-bot/issues/4) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-9. ![approved] Approved [#5](https://github.com/BaalKrshna/welcome-bot/pull/5#pullrequestreview-674387851) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
-10. ![approved] Approved [#3](https://github.com/BaalKrshna/welcome-bot/pull/3#pullrequestreview-674229904) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+1. ![changesRequested] Requested changes in [#10](https://github.com/Welcome-Bot/welcome-bot/pull/10#pullrequestreview-675201486) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![changesRequested] Requested changes in [#10](https://github.com/Welcome-Bot/welcome-bot/pull/10#pullrequestreview-675201486) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![changesRequested] Requested changes in [#10](https://github.com/Welcome-Bot/welcome-bot/pull/10#pullrequestreview-675187824) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![changesRequested] Requested changes in [#10](https://github.com/Welcome-Bot/welcome-bot/pull/10#pullrequestreview-675187824) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![pullrequestopened] Opened PR [#9](https://github.com/Welcome-Bot/welcome-bot/pull/9) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#8](https://github.com/Welcome-Bot/welcome-bot/pull/8#pullrequestreview-675000144) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#14](https://github.com/abhijoshi2k/react-tutorials-basics/pull/14#pullrequestreview-674957678) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+8. ![pullrequestopened] Opened PR [#7](https://github.com/Welcome-Bot/welcome-bot/pull/7) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#6](https://github.com/BaalKrshna/welcome-bot/pull/6#pullrequestreview-674870223) in [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
+10. ![star] Starred [BaalKrshna/welcome-bot](https://github.com/BaalKrshna/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, June 3rd, 2021, 5:10:37 PM IST</b>
+<p align="center">Last refresh: <b>Thursday, June 3rd, 2021, 5:50:50 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
