@@ -31,9 +31,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 3 | [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome) | A discord.js bot to welcome users |
 | 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
-| 📦 | 3 | [PuneetGopinath/welcome](https://github.com/PuneetGopinath/welcome) | A discord.js bot to welcome users |
 | 📦 | 0 | [PuneetGopinath/activity-template](https://github.com/PuneetGopinath/activity-template) | A example template repo for Recent Activity action. |
 
 ---
@@ -54,7 +54,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, June 6th, 2021, 3:43:06 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, June 6th, 2021, 4:44:55 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
