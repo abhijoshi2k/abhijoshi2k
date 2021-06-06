@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#16](https://github.com/abhijoshi2k/react-tutorials-basics/pull/16) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-2. ![approved] Approved [#16](https://github.com/abhijoshi2k/react-tutorials-basics/pull/16#pullrequestreview-676783918) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-3. ![pullrequestmerged] Merged PR [#22](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/22) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![approved] Approved [#22](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/22#pullrequestreview-676783891) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. ![pullrequestopened] Opened PR [#12](https://github.com/Welcome-Bot/welcome-bot/pull/12) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![pullrequestmerged] Merged PR [#15](https://github.com/abhijoshi2k/react-tutorials-basics/pull/15) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-7. ![approved] Approved [#15](https://github.com/abhijoshi2k/react-tutorials-basics/pull/15#pullrequestreview-676034730) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-8. ![changesRequested] Requested changes in [#10](https://github.com/Welcome-Bot/welcome-bot/pull/10#pullrequestreview-675201486) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![approved] Approved [#13](https://github.com/Welcome-Bot/welcome-bot/pull/13#pullrequestreview-676827220) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![pullrequestmerged] Merged PR [#16](https://github.com/abhijoshi2k/react-tutorials-basics/pull/16) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+3. ![approved] Approved [#16](https://github.com/abhijoshi2k/react-tutorials-basics/pull/16#pullrequestreview-676783918) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+4. ![pullrequestmerged] Merged PR [#22](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/22) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![approved] Approved [#22](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/22#pullrequestreview-676783891) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![pullrequestopened] Opened PR [#12](https://github.com/Welcome-Bot/welcome-bot/pull/12) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![pullrequestmerged] Merged PR [#15](https://github.com/abhijoshi2k/react-tutorials-basics/pull/15) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+8. ![approved] Approved [#15](https://github.com/abhijoshi2k/react-tutorials-basics/pull/15#pullrequestreview-676034730) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
 9. ![changesRequested] Requested changes in [#10](https://github.com/Welcome-Bot/welcome-bot/pull/10#pullrequestreview-675201486) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![changesRequested] Requested changes in [#10](https://github.com/Welcome-Bot/welcome-bot/pull/10#pullrequestreview-675187824) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![changesRequested] Requested changes in [#10](https://github.com/Welcome-Bot/welcome-bot/pull/10#pullrequestreview-675201486) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, June 6th, 2021, 10:03:09 AM IST</b>
+<p align="center">Last refresh: <b>Sunday, June 6th, 2021, 11:24:02 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
