@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [abhijoshi2k/github-profile-summary-cards](https://github.com/abhijoshi2k/github-profile-summary-cards) from [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-2. ![fork] Forked [abhijoshi2k/github-profile-trophy](https://github.com/abhijoshi2k/github-profile-trophy) from [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-3. ![pullrequestmerged] Merged PR [#70](https://github.com/Readme-Workflows/recent-activity/pull/70) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullrequestopened] Opened PR [#70](https://github.com/Readme-Workflows/recent-activity/pull/70) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![fork] Forked [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) from [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#13](https://github.com/Welcome-Bot/welcome-bot/pull/13#pullrequestreview-676827220) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![pullrequestmerged] Merged PR [#16](https://github.com/abhijoshi2k/react-tutorials-basics/pull/16) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-8. ![approved] Approved [#16](https://github.com/abhijoshi2k/react-tutorials-basics/pull/16#pullrequestreview-676783918) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-9. ![pullrequestmerged] Merged PR [#22](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/22) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-10. ![approved] Approved [#22](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/22#pullrequestreview-676783891) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+1. ![approved] Approved [#16](https://github.com/Welcome-Bot/welcome-bot/pull/16#pullrequestreview-677117199) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#15](https://github.com/Welcome-Bot/welcome-bot/pull/15#pullrequestreview-677117042) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![pullrequestmerged] Merged PR [#14](https://github.com/Welcome-Bot/welcome-bot/pull/14) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#14](https://github.com/Welcome-Bot/welcome-bot/pull/14#pullrequestreview-677116745) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![pullrequestmerged] Merged PR [#27](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/27) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![approved] Approved [#27](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/27#pullrequestreview-677116494) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+7. ![pullrequestmerged] Merged PR [#26](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/26) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+8. ![approved] Approved [#26](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/26#pullrequestreview-677116144) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![pullrequestmerged] Merged PR [#25](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/25) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+10. ![approved] Approved [#25](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/25#pullrequestreview-677115876) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, June 7th, 2021, 1:41:55 PM IST</b>
+<p align="center">Last refresh: <b>Monday, June 7th, 2021, 3:14:38 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
