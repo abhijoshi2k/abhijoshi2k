@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/spam-email-classification/pull/1) in [abhijoshi2k/spam-email-classification](https://github.com/abhijoshi2k/spam-email-classification)
-2. ![pullrequestmerged] Merged PR [#1](https://github.com/Prerana-Enterprises/website/pull/1) in [Prerana-Enterprises/website](https://github.com/Prerana-Enterprises/website)
-3. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/boston-house-price-prediction/pull/1) in [abhijoshi2k/boston-house-price-prediction](https://github.com/abhijoshi2k/boston-house-price-prediction)
-4. ![pullrequestmerged] Merged PR [#11](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/11) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
-5. ![pullrequestmerged] Merged PR [#29](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/29) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-6. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/Machine-Learning_from-scratch/pull/1) in [abhijoshi2k/Machine-Learning_from-scratch](https://github.com/abhijoshi2k/Machine-Learning_from-scratch)
-7. ![pullrequestmerged] Merged PR [#8](https://github.com/ieeesiesgst/certi-frontend/pull/8) in [ieeesiesgst/certi-frontend](https://github.com/ieeesiesgst/certi-frontend)
-8. ![pullrequestmerged] Merged PR [#2](https://github.com/abhijoshi2k/pizza-delivery/pull/2) in [abhijoshi2k/pizza-delivery](https://github.com/abhijoshi2k/pizza-delivery)
-9. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/After-Earth/pull/1) in [abhijoshi2k/After-Earth](https://github.com/abhijoshi2k/After-Earth)
-10. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/arena-about/pull/1) in [abhijoshi2k/arena-about](https://github.com/abhijoshi2k/arena-about)
+1. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/pe_sample/pull/1) in [abhijoshi2k/pe_sample](https://github.com/abhijoshi2k/pe_sample)
+2. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/spam-email-classification/pull/1) in [abhijoshi2k/spam-email-classification](https://github.com/abhijoshi2k/spam-email-classification)
+3. ![pullrequestmerged] Merged PR [#1](https://github.com/Prerana-Enterprises/website/pull/1) in [Prerana-Enterprises/website](https://github.com/Prerana-Enterprises/website)
+4. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/boston-house-price-prediction/pull/1) in [abhijoshi2k/boston-house-price-prediction](https://github.com/abhijoshi2k/boston-house-price-prediction)
+5. ![pullrequestmerged] Merged PR [#11](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/11) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
+6. ![pullrequestmerged] Merged PR [#29](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/29) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+7. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/Machine-Learning_from-scratch/pull/1) in [abhijoshi2k/Machine-Learning_from-scratch](https://github.com/abhijoshi2k/Machine-Learning_from-scratch)
+8. ![pullrequestmerged] Merged PR [#8](https://github.com/ieeesiesgst/certi-frontend/pull/8) in [ieeesiesgst/certi-frontend](https://github.com/ieeesiesgst/certi-frontend)
+9. ![pullrequestmerged] Merged PR [#2](https://github.com/abhijoshi2k/pizza-delivery/pull/2) in [abhijoshi2k/pizza-delivery](https://github.com/abhijoshi2k/pizza-delivery)
+10. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/After-Earth/pull/1) in [abhijoshi2k/After-Earth](https://github.com/abhijoshi2k/After-Earth)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, June 15th, 2021, 10:08:33 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, June 15th, 2021, 10:49:31 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
