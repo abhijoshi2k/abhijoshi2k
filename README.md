@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#18](https://github.com/abhijoshi2k/react-tutorials-basics/pull/18) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-2. ![approved] Approved [#18](https://github.com/abhijoshi2k/react-tutorials-basics/pull/18#pullrequestreview-683620163) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-3. ![pullrequestmerged] Merged PR [#22](https://github.com/Welcome-Bot/welcome-bot/pull/22) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#22](https://github.com/Welcome-Bot/welcome-bot/pull/22#pullrequestreview-683588109) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![pullrequestmerged] Merged PR [#17](https://github.com/abhijoshi2k/react-tutorials-basics/pull/17) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-6. ![approved] Approved [#17](https://github.com/abhijoshi2k/react-tutorials-basics/pull/17#pullrequestreview-682618805) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-7. ![approved] Approved [#71](https://github.com/Readme-Workflows/recent-activity/pull/71#pullrequestreview-682378575) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#28](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/28) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-9. ![approved] Approved [#28](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/28#pullrequestreview-682317655) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-10. ![pullrequestopened] Opened PR [#20](https://github.com/Welcome-Bot/welcome-bot/pull/20) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![approved] Approved [#23](https://github.com/Welcome-Bot/welcome-bot/pull/23#pullrequestreview-683811360) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#23](https://github.com/Welcome-Bot/welcome-bot/pull/23#pullrequestreview-683804576) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![pullrequestmerged] Merged PR [#18](https://github.com/abhijoshi2k/react-tutorials-basics/pull/18) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+4. ![approved] Approved [#18](https://github.com/abhijoshi2k/react-tutorials-basics/pull/18#pullrequestreview-683620163) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+5. ![pullrequestmerged] Merged PR [#22](https://github.com/Welcome-Bot/welcome-bot/pull/22) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#22](https://github.com/Welcome-Bot/welcome-bot/pull/22#pullrequestreview-683588109) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![pullrequestmerged] Merged PR [#17](https://github.com/abhijoshi2k/react-tutorials-basics/pull/17) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+8. ![approved] Approved [#17](https://github.com/abhijoshi2k/react-tutorials-basics/pull/17#pullrequestreview-682618805) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+9. ![approved] Approved [#71](https://github.com/Readme-Workflows/recent-activity/pull/71#pullrequestreview-682378575) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![pullrequestmerged] Merged PR [#28](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/28) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, June 15th, 2021, 3:28:41 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, June 15th, 2021, 3:58:40 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
