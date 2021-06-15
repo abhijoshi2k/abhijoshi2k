@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#1](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/1) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-2. ![approved] Approved [#1](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/1#pullrequestreview-684126641) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-3. ![approved] Approved [#23](https://github.com/Welcome-Bot/welcome-bot/pull/23#pullrequestreview-683811360) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#23](https://github.com/Welcome-Bot/welcome-bot/pull/23#pullrequestreview-683804576) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![pullrequestmerged] Merged PR [#18](https://github.com/abhijoshi2k/react-tutorials-basics/pull/18) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-6. ![approved] Approved [#18](https://github.com/abhijoshi2k/react-tutorials-basics/pull/18#pullrequestreview-683620163) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-7. ![pullrequestmerged] Merged PR [#22](https://github.com/Welcome-Bot/welcome-bot/pull/22) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#22](https://github.com/Welcome-Bot/welcome-bot/pull/22#pullrequestreview-683588109) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![pullrequestmerged] Merged PR [#17](https://github.com/abhijoshi2k/react-tutorials-basics/pull/17) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-10. ![approved] Approved [#17](https://github.com/abhijoshi2k/react-tutorials-basics/pull/17#pullrequestreview-682618805) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+1. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/spam-email-classification/pull/1) in [abhijoshi2k/spam-email-classification](https://github.com/abhijoshi2k/spam-email-classification)
+2. ![pullrequestmerged] Merged PR [#1](https://github.com/Prerana-Enterprises/website/pull/1) in [Prerana-Enterprises/website](https://github.com/Prerana-Enterprises/website)
+3. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/boston-house-price-prediction/pull/1) in [abhijoshi2k/boston-house-price-prediction](https://github.com/abhijoshi2k/boston-house-price-prediction)
+4. ![pullrequestmerged] Merged PR [#11](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/11) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
+5. ![pullrequestmerged] Merged PR [#29](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/29) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/Machine-Learning_from-scratch/pull/1) in [abhijoshi2k/Machine-Learning_from-scratch](https://github.com/abhijoshi2k/Machine-Learning_from-scratch)
+7. ![pullrequestmerged] Merged PR [#8](https://github.com/ieeesiesgst/certi-frontend/pull/8) in [ieeesiesgst/certi-frontend](https://github.com/ieeesiesgst/certi-frontend)
+8. ![pullrequestmerged] Merged PR [#2](https://github.com/abhijoshi2k/pizza-delivery/pull/2) in [abhijoshi2k/pizza-delivery](https://github.com/abhijoshi2k/pizza-delivery)
+9. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/After-Earth/pull/1) in [abhijoshi2k/After-Earth](https://github.com/abhijoshi2k/After-Earth)
+10. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/arena-about/pull/1) in [abhijoshi2k/arena-about](https://github.com/abhijoshi2k/arena-about)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, June 15th, 2021, 8:31:26 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, June 15th, 2021, 9:00:31 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
