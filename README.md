@@ -30,9 +30,9 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
+| 📦 | 1 | [abhijoshi2k/qu4k](https://github.com/abhijoshi2k/qu4k) | ✨ uwa, special ✨ |
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
-| 📦 | 1 | [abhijoshi2k/qu4k](https://github.com/abhijoshi2k/qu4k) | ✨ uwa, special ✨ |
 | 📦 | 0 | [abhijoshi2k/welcome-bot-discord](https://github.com/abhijoshi2k/welcome-bot-discord) | A discord.js bot to welcome users |
 | 📦 | 2 | [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io) | The official website of CSI-SIESGST |
 
@@ -54,7 +54,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, June 20th, 2021, 4:08:11 AM IST</b>
+<p align="center">Last refresh: <b>Sunday, June 20th, 2021, 4:19:11 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
