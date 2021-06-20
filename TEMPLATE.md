@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#19](https://github.com/abhijoshi2k/react-tutorials-basics/pull/19) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-2. ![pullrequestmerged] Merged PR [#30](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/30) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![approved] Approved [#25](https://github.com/Welcome-Bot/welcome-bot/pull/25#pullrequestreview-684868283) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#24](https://github.com/Welcome-Bot/welcome-bot/pull/24#pullrequestreview-684814454) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![pullrequestmerged] Merged PR [#17](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/17) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-6. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/pe_sample/pull/1) in [abhijoshi2k/pe_sample](https://github.com/abhijoshi2k/pe_sample)
-7. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/spam-email-classification/pull/1) in [abhijoshi2k/spam-email-classification](https://github.com/abhijoshi2k/spam-email-classification)
-8. ![pullrequestmerged] Merged PR [#1](https://github.com/Prerana-Enterprises/website/pull/1) in [Prerana-Enterprises/website](https://github.com/Prerana-Enterprises/website)
-9. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/boston-house-price-prediction/pull/1) in [abhijoshi2k/boston-house-price-prediction](https://github.com/abhijoshi2k/boston-house-price-prediction)
-10. ![pullrequestmerged] Merged PR [#11](https://github.com/ieeesiesgst/IEEE-SIESGST-website/pull/11) in [ieeesiesgst/IEEE-SIESGST-website](https://github.com/ieeesiesgst/IEEE-SIESGST-website)
+1. ![approved] Approved [#26](https://github.com/Welcome-Bot/welcome-bot/pull/26#pullrequestreview-687869533) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![pullrequestmerged] Merged PR [#19](https://github.com/abhijoshi2k/react-tutorials-basics/pull/19) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+3. ![pullrequestmerged] Merged PR [#30](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/30) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+4. ![approved] Approved [#25](https://github.com/Welcome-Bot/welcome-bot/pull/25#pullrequestreview-684868283) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#24](https://github.com/Welcome-Bot/welcome-bot/pull/24#pullrequestreview-684814454) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![pullrequestmerged] Merged PR [#17](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/17) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+7. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/pe_sample/pull/1) in [abhijoshi2k/pe_sample](https://github.com/abhijoshi2k/pe_sample)
+8. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/spam-email-classification/pull/1) in [abhijoshi2k/spam-email-classification](https://github.com/abhijoshi2k/spam-email-classification)
+9. ![pullrequestmerged] Merged PR [#1](https://github.com/Prerana-Enterprises/website/pull/1) in [Prerana-Enterprises/website](https://github.com/Prerana-Enterprises/website)
+10. ![pullrequestmerged] Merged PR [#1](https://github.com/abhijoshi2k/boston-house-price-prediction/pull/1) in [abhijoshi2k/boston-house-price-prediction](https://github.com/abhijoshi2k/boston-house-price-prediction)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, June 20th, 2021, 11:08:43 AM IST</b>
+<p align="center">Last refresh: <b>Sunday, June 20th, 2021, 11:17:23 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
