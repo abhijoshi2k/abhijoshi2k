@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27#pullrequestreview-688005788) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![pullrequestmerged] Merged PR [#2](https://github.com/abhijoshi2k/recent-activity/pull/2) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-3. ![approved] Approved [#2](https://github.com/abhijoshi2k/recent-activity/pull/2#pullrequestreview-687905393) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-4. ![approved] Approved [#73](https://github.com/Readme-Workflows/recent-activity/pull/73#pullrequestreview-687876537) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#26](https://github.com/Welcome-Bot/welcome-bot/pull/26#pullrequestreview-687869533) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![pullrequestmerged] Merged PR [#19](https://github.com/abhijoshi2k/react-tutorials-basics/pull/19) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-7. ![pullrequestmerged] Merged PR [#30](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/30) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-8. ![approved] Approved [#25](https://github.com/Welcome-Bot/welcome-bot/pull/25#pullrequestreview-684868283) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![approved] Approved [#24](https://github.com/Welcome-Bot/welcome-bot/pull/24#pullrequestreview-684814454) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![pullrequestmerged] Merged PR [#17](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/17) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![pullrequestmerged] Merged PR [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29#pullrequestreview-688326786) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![approved] Approved [#28](https://github.com/Welcome-Bot/welcome-bot/pull/28#pullrequestreview-688326549) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27#pullrequestreview-688005788) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![pullrequestmerged] Merged PR [#2](https://github.com/abhijoshi2k/recent-activity/pull/2) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+6. ![approved] Approved [#2](https://github.com/abhijoshi2k/recent-activity/pull/2#pullrequestreview-687905393) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+7. ![approved] Approved [#73](https://github.com/Readme-Workflows/recent-activity/pull/73#pullrequestreview-687876537) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![approved] Approved [#26](https://github.com/Welcome-Bot/welcome-bot/pull/26#pullrequestreview-687869533) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![pullrequestmerged] Merged PR [#19](https://github.com/abhijoshi2k/react-tutorials-basics/pull/19) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+10. ![pullrequestmerged] Merged PR [#30](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/30) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, June 21st, 2021, 5:10:18 PM IST</b>
+<p align="center">Last refresh: <b>Monday, June 21st, 2021, 5:19:06 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
