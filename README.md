@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [abhijoshi2k/jio-internship](https://github.com/abhijoshi2k/jio-internship)
-2. ![pullrequestmerged] Merged PR [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![approved] Approved [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33#pullrequestreview-689813268) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. ![approved] Approved [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20#pullrequestreview-689793787) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-6. ![pullrequestmerged] Merged PR [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29#pullrequestreview-688326786) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#28](https://github.com/Welcome-Bot/welcome-bot/pull/28#pullrequestreview-688326549) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![approved] Approved [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27#pullrequestreview-688005788) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![pullrequestmerged] Merged PR [#2](https://github.com/abhijoshi2k/recent-activity/pull/2) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+1. ![approved] Approved [#3](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/3#pullrequestreview-690298042) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+2. ![repoCreated] Created new repository [abhijoshi2k/jio-internship](https://github.com/abhijoshi2k/jio-internship)
+3. ![pullrequestmerged] Merged PR [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+4. ![approved] Approved [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33#pullrequestreview-689813268) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+6. ![approved] Approved [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20#pullrequestreview-689793787) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+7. ![pullrequestmerged] Merged PR [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29#pullrequestreview-688326786) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#28](https://github.com/Welcome-Bot/welcome-bot/pull/28#pullrequestreview-688326549) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27#pullrequestreview-688005788) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, June 23rd, 2021, 12:24:34 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, June 23rd, 2021, 1:08:07 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
