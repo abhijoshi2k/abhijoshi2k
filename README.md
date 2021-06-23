@@ -32,29 +32,29 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
-| 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
 | 📦 | 0 | [abhijoshi2k/jio-internship](https://github.com/abhijoshi2k/jio-internship) | This repository contains code prepared for my internship at Reliance Jio |
+| 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
 | 📦 | 1 | [abhijoshi2k/qu4k](https://github.com/abhijoshi2k/qu4k) | ✨ uwa, special ✨ |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#30](https://github.com/Welcome-Bot/welcome-bot/pull/30#pullrequestreview-690859303) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#3](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/3#pullrequestreview-690298042) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-3. ![repoCreated] Created new repository [abhijoshi2k/jio-internship](https://github.com/abhijoshi2k/jio-internship)
-4. ![pullrequestmerged] Merged PR [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. ![approved] Approved [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33#pullrequestreview-689813268) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-6. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-7. ![approved] Approved [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20#pullrequestreview-689793787) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-8. ![pullrequestmerged] Merged PR [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![approved] Approved [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29#pullrequestreview-688326786) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![approved] Approved [#28](https://github.com/Welcome-Bot/welcome-bot/pull/28#pullrequestreview-688326549) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestmerged] Merged PR [#21](https://github.com/abhijoshi2k/react-tutorials-basics/pull/21) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+2. ![approved] Approved [#30](https://github.com/Welcome-Bot/welcome-bot/pull/30#pullrequestreview-690859303) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![approved] Approved [#3](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/3#pullrequestreview-690298042) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+4. ![repoCreated] Created new repository [abhijoshi2k/jio-internship](https://github.com/abhijoshi2k/jio-internship)
+5. ![pullrequestmerged] Merged PR [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![approved] Approved [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33#pullrequestreview-689813268) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+7. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+8. ![approved] Approved [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20#pullrequestreview-689793787) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+9. ![pullrequestmerged] Merged PR [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29#pullrequestreview-688326786) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, June 23rd, 2021, 10:56:12 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, June 23rd, 2021, 11:14:12 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
