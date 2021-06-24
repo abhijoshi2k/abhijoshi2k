@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/passport-local-mongoose](https://github.com/abhijoshi2k/passport-local-mongoose) | Passport-Local Mongoose is a Mongoose plugin that simplifies building username and password login with Passport |
 | 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
 | 📦 | 1 | [abhijoshi2k/qu4k](https://github.com/abhijoshi2k/qu4k) | ✨ uwa, special ✨ |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
-| 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. ![pullrequestmerged] Merged PR [#21](https://github.com/abhijoshi2k/react-tutorials-basics/pull/21) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-3. ![approved] Approved [#30](https://github.com/Welcome-Bot/welcome-bot/pull/30#pullrequestreview-690859303) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#3](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/3#pullrequestreview-690298042) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-5. ![pullrequestmerged] Merged PR [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-6. ![approved] Approved [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33#pullrequestreview-689813268) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-7. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-8. ![approved] Approved [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20#pullrequestreview-689793787) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-9. ![pullrequestmerged] Merged PR [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![approved] Approved [#29](https://github.com/Welcome-Bot/welcome-bot/pull/29#pullrequestreview-688326786) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestopened] Opened PR [#331](https://github.com/saintedlama/passport-local-mongoose/pull/331) in [saintedlama/passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose)
+2. ![fork] Forked [abhijoshi2k/passport-local-mongoose](https://github.com/abhijoshi2k/passport-local-mongoose) from [saintedlama/passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose)
+3. ![star] Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. ![pullrequestmerged] Merged PR [#21](https://github.com/abhijoshi2k/react-tutorials-basics/pull/21) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+5. ![approved] Approved [#30](https://github.com/Welcome-Bot/welcome-bot/pull/30#pullrequestreview-690859303) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#3](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/3#pullrequestreview-690298042) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+7. ![pullrequestmerged] Merged PR [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+8. ![approved] Approved [#33](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/33#pullrequestreview-689813268) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+10. ![approved] Approved [#20](https://github.com/abhijoshi2k/react-tutorials-basics/pull/20#pullrequestreview-689793787) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, June 24th, 2021, 8:02:28 PM IST</b>
+<p align="center">Last refresh: <b>Thursday, June 24th, 2021, 8:14:46 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
