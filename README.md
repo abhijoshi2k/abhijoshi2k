@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 | 📦 | 1 | [abhijoshi2k/qu4k](https://github.com/abhijoshi2k/qu4k) | ✨ uwa, special ✨ |
-| 📦 | 0 | [abhijoshi2k/passport-local-mongoose](https://github.com/abhijoshi2k/passport-local-mongoose) | Passport-Local Mongoose is a Mongoose plugin that simplifies building username and password login with Passport |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#35](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/35) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. ![pullrequestmerged] Merged PR [#34](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/34) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![pullrequestmerged] Merged PR [#74](https://github.com/Readme-Workflows/recent-activity/pull/74) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![approved] Approved [#74](https://github.com/Readme-Workflows/recent-activity/pull/74#pullrequestreview-693386208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullrequestmerged] Merged PR [#37](https://github.com/Welcome-Bot/welcome-bot/pull/37) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#37](https://github.com/Welcome-Bot/welcome-bot/pull/37#pullrequestreview-693385141) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![pullrequestopened] Opened PR [#331](https://github.com/saintedlama/passport-local-mongoose/pull/331) in [saintedlama/passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose)
-8. ![fork] Forked [abhijoshi2k/passport-local-mongoose](https://github.com/abhijoshi2k/passport-local-mongoose) from [saintedlama/passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose)
-9. ![star] Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-10. ![pullrequestmerged] Merged PR [#21](https://github.com/abhijoshi2k/react-tutorials-basics/pull/21) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+1. ![approved] Approved [#42](https://github.com/Welcome-Bot/welcome-bot/pull/42#pullrequestreview-694164706) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![pullrequestmerged] Merged PR [#35](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/35) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+3. ![pullrequestmerged] Merged PR [#34](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/34) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+4. ![pullrequestmerged] Merged PR [#74](https://github.com/Readme-Workflows/recent-activity/pull/74) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![approved] Approved [#74](https://github.com/Readme-Workflows/recent-activity/pull/74#pullrequestreview-693386208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![pullrequestmerged] Merged PR [#37](https://github.com/Welcome-Bot/welcome-bot/pull/37) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#37](https://github.com/Welcome-Bot/welcome-bot/pull/37#pullrequestreview-693385141) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![pullrequestopened] Opened PR [#331](https://github.com/saintedlama/passport-local-mongoose/pull/331) in [saintedlama/passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose)
+9. ![fork] Forked [abhijoshi2k/passport-local-mongoose](https://github.com/abhijoshi2k/passport-local-mongoose) from [saintedlama/passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose)
+10. ![star] Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, June 28th, 2021, 9:47:29 PM IST</b>
+<p align="center">Last refresh: <b>Monday, June 28th, 2021, 10:46:38 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
