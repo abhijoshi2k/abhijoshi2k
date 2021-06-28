@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#42](https://github.com/Welcome-Bot/welcome-bot/pull/42#pullrequestreview-694164706) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![pullrequestmerged] Merged PR [#35](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/35) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![pullrequestmerged] Merged PR [#34](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/34) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![pullrequestmerged] Merged PR [#74](https://github.com/Readme-Workflows/recent-activity/pull/74) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#74](https://github.com/Readme-Workflows/recent-activity/pull/74#pullrequestreview-693386208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![pullrequestmerged] Merged PR [#37](https://github.com/Welcome-Bot/welcome-bot/pull/37) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#37](https://github.com/Welcome-Bot/welcome-bot/pull/37#pullrequestreview-693385141) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![pullrequestopened] Opened PR [#331](https://github.com/saintedlama/passport-local-mongoose/pull/331) in [saintedlama/passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose)
-9. ![fork] Forked [abhijoshi2k/passport-local-mongoose](https://github.com/abhijoshi2k/passport-local-mongoose) from [saintedlama/passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose)
-10. ![star] Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. ![pullrequestmerged] Merged PR [#18](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/18) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![approved] Approved [#46](https://github.com/Welcome-Bot/welcome-bot/pull/46#pullrequestreview-694219314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![pullrequestmerged] Merged PR [#47](https://github.com/Welcome-Bot/welcome-bot/pull/47) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#47](https://github.com/Welcome-Bot/welcome-bot/pull/47#pullrequestreview-694218698) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#42](https://github.com/Welcome-Bot/welcome-bot/pull/42#pullrequestreview-694164706) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![pullrequestmerged] Merged PR [#35](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/35) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+7. ![pullrequestmerged] Merged PR [#34](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/34) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+8. ![pullrequestmerged] Merged PR [#74](https://github.com/Readme-Workflows/recent-activity/pull/74) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#74](https://github.com/Readme-Workflows/recent-activity/pull/74#pullrequestreview-693386208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![pullrequestmerged] Merged PR [#37](https://github.com/Welcome-Bot/welcome-bot/pull/37) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, June 28th, 2021, 10:46:38 PM IST</b>
+<p align="center">Last refresh: <b>Monday, June 28th, 2021, 11:32:43 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
