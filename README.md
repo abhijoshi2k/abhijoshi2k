@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#36](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/36) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. ![pullrequestmerged] Merged PR [#18](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/18) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. ![approved] Approved [#46](https://github.com/Welcome-Bot/welcome-bot/pull/46#pullrequestreview-694219314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![pullrequestmerged] Merged PR [#47](https://github.com/Welcome-Bot/welcome-bot/pull/47) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#47](https://github.com/Welcome-Bot/welcome-bot/pull/47#pullrequestreview-694218698) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#42](https://github.com/Welcome-Bot/welcome-bot/pull/42#pullrequestreview-694164706) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![pullrequestmerged] Merged PR [#35](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/35) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-8. ![pullrequestmerged] Merged PR [#34](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/34) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-9. ![pullrequestmerged] Merged PR [#74](https://github.com/Readme-Workflows/recent-activity/pull/74) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![approved] Approved [#74](https://github.com/Readme-Workflows/recent-activity/pull/74#pullrequestreview-693386208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![pullrequestmerged] Merged PR [#37](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/37) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+2. ![pullrequestmerged] Merged PR [#36](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/36) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+3. ![pullrequestmerged] Merged PR [#18](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/18) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+4. ![approved] Approved [#46](https://github.com/Welcome-Bot/welcome-bot/pull/46#pullrequestreview-694219314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![pullrequestmerged] Merged PR [#47](https://github.com/Welcome-Bot/welcome-bot/pull/47) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#47](https://github.com/Welcome-Bot/welcome-bot/pull/47#pullrequestreview-694218698) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#42](https://github.com/Welcome-Bot/welcome-bot/pull/42#pullrequestreview-694164706) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![pullrequestmerged] Merged PR [#35](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/35) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![pullrequestmerged] Merged PR [#34](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/34) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+10. ![pullrequestmerged] Merged PR [#74](https://github.com/Readme-Workflows/recent-activity/pull/74) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, June 30th, 2021, 9:17:31 AM IST</b>
+<p align="center">Last refresh: <b>Wednesday, June 30th, 2021, 9:29:56 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
