@@ -30,8 +30,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 0 | [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test) | null |
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test) | null |
 | 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 | 📦 | 1 | [abhijoshi2k/qu4k](https://github.com/abhijoshi2k/qu4k) | ✨ uwa, special ✨ |
@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestopened] Opened PR [#77](https://github.com/Readme-Workflows/recent-activity/pull/77) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![pullrequestmerged] Merged PR [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![approved] Approved [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39#pullrequestreview-697827716) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![pullrequestmerged] Merged PR [#5](https://github.com/abhijoshi2k/recent-activity/pull/5) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-5. ![pullrequestmerged] Merged PR [#75](https://github.com/Readme-Workflows/recent-activity/pull/75) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![approved] Approved [#75](https://github.com/Readme-Workflows/recent-activity/pull/75#pullrequestreview-697516912) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![pullrequestmerged] Merged PR [#37](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/37) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-8. ![pullrequestmerged] Merged PR [#36](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/36) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-9. ![pullrequestmerged] Merged PR [#18](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/18) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-10. ![approved] Approved [#46](https://github.com/Welcome-Bot/welcome-bot/pull/46#pullrequestreview-694219314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestmerged] Merged PR [#5](https://github.com/abhijoshi2k/abhijoshi2k/pull/5) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+2. ![approved] Approved [#5](https://github.com/abhijoshi2k/abhijoshi2k/pull/5#pullrequestreview-697953122) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+3. ![pullrequestopened] Opened PR [#77](https://github.com/Readme-Workflows/recent-activity/pull/77) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullrequestmerged] Merged PR [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![approved] Approved [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39#pullrequestreview-697827716) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![pullrequestmerged] Merged PR [#5](https://github.com/abhijoshi2k/recent-activity/pull/5) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+7. ![pullrequestmerged] Merged PR [#75](https://github.com/Readme-Workflows/recent-activity/pull/75) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![approved] Approved [#75](https://github.com/Readme-Workflows/recent-activity/pull/75#pullrequestreview-697516912) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![pullrequestmerged] Merged PR [#37](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/37) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+10. ![pullrequestmerged] Merged PR [#36](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/36) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, July 2nd, 2021, 1:38:23 PM IST</b>
+<p align="center">Last refresh: <b>Friday, July 2nd, 2021, 2:02:36 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
