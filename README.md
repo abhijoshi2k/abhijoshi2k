@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. ![approved] Approved [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39#pullrequestreview-697827716) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![pullrequestmerged] Merged PR [#5](https://github.com/abhijoshi2k/recent-activity/pull/5) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-4. ![pullrequestmerged] Merged PR [#75](https://github.com/Readme-Workflows/recent-activity/pull/75) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#75](https://github.com/Readme-Workflows/recent-activity/pull/75#pullrequestreview-697516912) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![pullrequestmerged] Merged PR [#37](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/37) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-7. ![pullrequestmerged] Merged PR [#36](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/36) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-8. ![pullrequestmerged] Merged PR [#18](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/18) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-9. ![approved] Approved [#46](https://github.com/Welcome-Bot/welcome-bot/pull/46#pullrequestreview-694219314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![pullrequestmerged] Merged PR [#47](https://github.com/Welcome-Bot/welcome-bot/pull/47) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestopened] Opened PR [#77](https://github.com/Readme-Workflows/recent-activity/pull/77) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![pullrequestmerged] Merged PR [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+3. ![approved] Approved [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39#pullrequestreview-697827716) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+4. ![pullrequestmerged] Merged PR [#5](https://github.com/abhijoshi2k/recent-activity/pull/5) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+5. ![pullrequestmerged] Merged PR [#75](https://github.com/Readme-Workflows/recent-activity/pull/75) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#75](https://github.com/Readme-Workflows/recent-activity/pull/75#pullrequestreview-697516912) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![pullrequestmerged] Merged PR [#37](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/37) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+8. ![pullrequestmerged] Merged PR [#36](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/36) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![pullrequestmerged] Merged PR [#18](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/18) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+10. ![approved] Approved [#46](https://github.com/Welcome-Bot/welcome-bot/pull/46#pullrequestreview-694219314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, July 2nd, 2021, 1:07:36 PM IST</b>
+<p align="center">Last refresh: <b>Friday, July 2nd, 2021, 1:20:00 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
