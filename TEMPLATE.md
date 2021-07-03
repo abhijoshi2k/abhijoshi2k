@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#78](https://github.com/Readme-Workflows/recent-activity/pull/78) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![approved] Approved [#78](https://github.com/Readme-Workflows/recent-activity/pull/78#pullrequestreview-698101298) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullrequestmerged] Merged PR [#5](https://github.com/abhijoshi2k/abhijoshi2k/pull/5) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-4. ![approved] Approved [#5](https://github.com/abhijoshi2k/abhijoshi2k/pull/5#pullrequestreview-697953122) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-5. ![pullrequestopened] Opened PR [#77](https://github.com/Readme-Workflows/recent-activity/pull/77) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![pullrequestmerged] Merged PR [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-7. ![approved] Approved [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39#pullrequestreview-697827716) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-8. ![pullrequestmerged] Merged PR [#5](https://github.com/abhijoshi2k/recent-activity/pull/5) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-9. ![pullrequestmerged] Merged PR [#75](https://github.com/Readme-Workflows/recent-activity/pull/75) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![approved] Approved [#75](https://github.com/Readme-Workflows/recent-activity/pull/75#pullrequestreview-697516912) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![pullrequestmerged] Merged PR [#22](https://github.com/abhijoshi2k/react-tutorials-basics/pull/22) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+2. ![approved] Approved [#22](https://github.com/abhijoshi2k/react-tutorials-basics/pull/22#pullrequestreview-698567957) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+3. ![pullrequestmerged] Merged PR [#6](https://github.com/abhijoshi2k/recent-activity/pull/6) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+4. ![approved] Approved [#6](https://github.com/abhijoshi2k/recent-activity/pull/6#pullrequestreview-698567924) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+5. ![pullrequestmerged] Merged PR [#78](https://github.com/Readme-Workflows/recent-activity/pull/78) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#78](https://github.com/Readme-Workflows/recent-activity/pull/78#pullrequestreview-698101298) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![pullrequestmerged] Merged PR [#5](https://github.com/abhijoshi2k/abhijoshi2k/pull/5) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+8. ![approved] Approved [#5](https://github.com/abhijoshi2k/abhijoshi2k/pull/5#pullrequestreview-697953122) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+9. ![pullrequestopened] Opened PR [#77](https://github.com/Readme-Workflows/recent-activity/pull/77) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![pullrequestmerged] Merged PR [#39](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/39) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, July 3rd, 2021, 10:56:27 AM IST</b>
+<p align="center">Last refresh: <b>Saturday, July 3rd, 2021, 11:08:47 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
