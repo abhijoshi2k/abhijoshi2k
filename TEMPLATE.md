@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#71](https://github.com/Welcome-Bot/welcome-bot/pull/71) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#71](https://github.com/Welcome-Bot/welcome-bot/pull/71#pullrequestreview-698572868) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#61](https://github.com/Welcome-Bot/welcome-bot/pull/61#pullrequestreview-698571130) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![pullrequestmerged] Merged PR [#22](https://github.com/abhijoshi2k/react-tutorials-basics/pull/22) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. ![approved] Approved [#22](https://github.com/abhijoshi2k/react-tutorials-basics/pull/22#pullrequestreview-698567957) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-6. ![pullrequestmerged] Merged PR [#6](https://github.com/abhijoshi2k/recent-activity/pull/6) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-7. ![approved] Approved [#6](https://github.com/abhijoshi2k/recent-activity/pull/6#pullrequestreview-698567924) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-8. ![pullrequestmerged] Merged PR [#78](https://github.com/Readme-Workflows/recent-activity/pull/78) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#78](https://github.com/Readme-Workflows/recent-activity/pull/78#pullrequestreview-698101298) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![pullrequestmerged] Merged PR [#5](https://github.com/abhijoshi2k/abhijoshi2k/pull/5) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+1. ![pullrequestmerged] Merged PR [#79](https://github.com/Readme-Workflows/recent-activity/pull/79) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![approved] Approved [#79](https://github.com/Readme-Workflows/recent-activity/pull/79#pullrequestreview-698645601) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullrequestmerged] Merged PR [#6](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/6) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+4. ![approved] Approved [#6](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/6#pullrequestreview-698645109) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+5. ![pullrequestmerged] Merged PR [#71](https://github.com/Welcome-Bot/welcome-bot/pull/71) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#71](https://github.com/Welcome-Bot/welcome-bot/pull/71#pullrequestreview-698572868) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#61](https://github.com/Welcome-Bot/welcome-bot/pull/61#pullrequestreview-698571130) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![pullrequestmerged] Merged PR [#22](https://github.com/abhijoshi2k/react-tutorials-basics/pull/22) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+9. ![approved] Approved [#22](https://github.com/abhijoshi2k/react-tutorials-basics/pull/22#pullrequestreview-698567957) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+10. ![pullrequestmerged] Merged PR [#6](https://github.com/abhijoshi2k/recent-activity/pull/6) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, July 4th, 2021, 12:49:28 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, July 4th, 2021, 1:01:42 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
