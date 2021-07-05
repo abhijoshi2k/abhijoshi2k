@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#6](https://github.com/PuneetGopinath/activity-template/pull/6#pullrequestreview-698841109) in [PuneetGopinath/activity-template](https://github.com/PuneetGopinath/activity-template)
-2. ![pullrequestmerged] Merged PR [#42](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/42) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![approved] Approved [#42](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/42#pullrequestreview-698789448) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![pullrequestmerged] Merged PR [#41](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/41) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. ![approved] Approved [#41](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/41#pullrequestreview-698789332) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-6. ![pullrequestmerged] Merged PR [#79](https://github.com/Readme-Workflows/recent-activity/pull/79) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![approved] Approved [#79](https://github.com/Readme-Workflows/recent-activity/pull/79#pullrequestreview-698645601) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#6](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/6) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-9. ![approved] Approved [#6](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/6#pullrequestreview-698645109) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-10. ![pullrequestmerged] Merged PR [#71](https://github.com/Welcome-Bot/welcome-bot/pull/71) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![approved] Approved [#78](https://github.com/Welcome-Bot/welcome-bot/pull/78#pullrequestreview-699071769) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#6](https://github.com/PuneetGopinath/activity-template/pull/6#pullrequestreview-698841109) in [PuneetGopinath/activity-template](https://github.com/PuneetGopinath/activity-template)
+3. ![pullrequestmerged] Merged PR [#42](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/42) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+4. ![approved] Approved [#42](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/42#pullrequestreview-698789448) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![pullrequestmerged] Merged PR [#41](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/41) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![approved] Approved [#41](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/41#pullrequestreview-698789332) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+7. ![pullrequestmerged] Merged PR [#79](https://github.com/Readme-Workflows/recent-activity/pull/79) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![approved] Approved [#79](https://github.com/Readme-Workflows/recent-activity/pull/79#pullrequestreview-698645601) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![pullrequestmerged] Merged PR [#6](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/6) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+10. ![approved] Approved [#6](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/6#pullrequestreview-698645109) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, July 5th, 2021, 4:43:59 PM IST</b>
+<p align="center">Last refresh: <b>Monday, July 5th, 2021, 4:57:29 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
