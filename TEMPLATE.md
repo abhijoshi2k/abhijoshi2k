@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#79](https://github.com/Readme-Workflows/recent-activity/pull/79) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![approved] Approved [#79](https://github.com/Readme-Workflows/recent-activity/pull/79#pullrequestreview-698645601) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullrequestmerged] Merged PR [#6](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/6) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-4. ![approved] Approved [#6](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/6#pullrequestreview-698645109) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-5. ![pullrequestmerged] Merged PR [#71](https://github.com/Welcome-Bot/welcome-bot/pull/71) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#71](https://github.com/Welcome-Bot/welcome-bot/pull/71#pullrequestreview-698572868) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#61](https://github.com/Welcome-Bot/welcome-bot/pull/61#pullrequestreview-698571130) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![pullrequestmerged] Merged PR [#22](https://github.com/abhijoshi2k/react-tutorials-basics/pull/22) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-9. ![approved] Approved [#22](https://github.com/abhijoshi2k/react-tutorials-basics/pull/22#pullrequestreview-698567957) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-10. ![pullrequestmerged] Merged PR [#6](https://github.com/abhijoshi2k/recent-activity/pull/6) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+1. ![pullrequestmerged] Merged PR [#42](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/42) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+2. ![approved] Approved [#42](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/42#pullrequestreview-698789448) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+3. ![pullrequestmerged] Merged PR [#41](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/41) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+4. ![approved] Approved [#41](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/41#pullrequestreview-698789332) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![pullrequestmerged] Merged PR [#79](https://github.com/Readme-Workflows/recent-activity/pull/79) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#79](https://github.com/Readme-Workflows/recent-activity/pull/79#pullrequestreview-698645601) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![pullrequestmerged] Merged PR [#6](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/6) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+8. ![approved] Approved [#6](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/6#pullrequestreview-698645109) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+9. ![pullrequestmerged] Merged PR [#71](https://github.com/Welcome-Bot/welcome-bot/pull/71) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#71](https://github.com/Welcome-Bot/welcome-bot/pull/71#pullrequestreview-698572868) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, July 5th, 2021, 10:02:31 AM IST</b>
+<p align="center">Last refresh: <b>Monday, July 5th, 2021, 10:24:04 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
