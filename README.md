@@ -54,7 +54,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, July 11th, 2021, 7:14:26 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, July 11th, 2021, 7:26:44 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
@@ -197,7 +197,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 [people]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg
 
 
-<!--donedonesss
+<!--{replace: DATE}
 
 **abhijoshi2k/abhijoshi2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
