@@ -13,7 +13,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          CONFIG_FILE: "./.github/update-readme.config.yml"
+          COMMIT_EMAIL: "abhijoshi2k@gmail.com"
+          COMMIT_NAME: "Abhishek Joshi"
 
       - uses: actions-js/profile-readme@master
         with:
