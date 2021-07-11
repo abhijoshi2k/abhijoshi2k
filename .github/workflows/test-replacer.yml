@@ -14,3 +14,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: "./.github/update-readme.config.yml"
+
+      - uses: actions-js/profile-readme@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: abhijoshi2k
+          template: "TEMPLATE.md"
+
+      - uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
