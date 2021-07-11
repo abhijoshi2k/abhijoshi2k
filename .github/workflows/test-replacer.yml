@@ -15,6 +15,7 @@ jobs:
         with:
           COMMIT_EMAIL: "abhijoshi2k@gmail.com"
           COMMIT_NAME: "Abhishek Joshi"
+          COMMIT_FILE: "./TEMPLATE.md"
 
       - uses: actions-js/profile-readme@master
         with:
