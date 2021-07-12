@@ -191,7 +191,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 [people]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg
 
 
-<!--{replace: DATE} {test1} {test2}
+<!--Monday, July 12th, 2021, 1:34:10 PM done 7/12/2021, 1:34:10 PM
 
 **abhijoshi2k/abhijoshi2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
