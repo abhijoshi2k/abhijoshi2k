@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-2. ![approved] Approved [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703606623) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-3. ![changesRequested] Requested changes in [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703605739) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+1. ![approved] Approved [#91](https://github.com/Welcome-Bot/welcome-bot/pull/91#pullrequestreview-703728462) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![pullrequestmerged] Merged PR [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+3. ![approved] Approved [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703606623) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
 4. ![changesRequested] Requested changes in [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703605739) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-5. ![changesRequested] Requested changes in [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703604998) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+5. ![changesRequested] Requested changes in [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703605739) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
 6. ![changesRequested] Requested changes in [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703604998) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-7. ![changesRequested] Requested changes in [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703603925) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+7. ![changesRequested] Requested changes in [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703604998) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
 8. ![changesRequested] Requested changes in [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703603925) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-9. ![approved] Approved [#80](https://github.com/Readme-Workflows/recent-activity/pull/80#pullrequestreview-703587673) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![pullrequestmerged] Merged PR [#19](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/19) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+9. ![changesRequested] Requested changes in [#1](https://github.com/Readme-Workflows/readme-replacer/pull/1#pullrequestreview-703603925) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+10. ![approved] Approved [#80](https://github.com/Readme-Workflows/recent-activity/pull/80#pullrequestreview-703587673) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, July 12th, 2021, 10:59:41 AM IST</b>
+<p align="center">Last refresh: <b>Monday, July 12th, 2021, 11:12:03 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
