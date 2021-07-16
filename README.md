@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#117](https://github.com/Welcome-Bot/welcome-bot/pull/117#pullrequestreview-706105150) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#115](https://github.com/Welcome-Bot/welcome-bot/pull/115#pullrequestreview-706102141) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#116](https://github.com/Welcome-Bot/welcome-bot/pull/116#pullrequestreview-706101376) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#113](https://github.com/Welcome-Bot/welcome-bot/pull/113#pullrequestreview-705859563) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![pullrequestmerged] Merged PR [#112](https://github.com/Welcome-Bot/welcome-bot/pull/112) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#112](https://github.com/Welcome-Bot/welcome-bot/pull/112#pullrequestreview-705851799) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#2](https://github.com/Readme-Workflows/.github/pull/2#pullrequestreview-705423201) in [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
-8. ![star] Starred [Nikhil-Kumaran/reactjs-boilerplate](https://github.com/Nikhil-Kumaran/reactjs-boilerplate)
-9. ![approved] Approved [#102](https://github.com/Welcome-Bot/welcome-bot/pull/102#pullrequestreview-704943764) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![approved] Approved [#103](https://github.com/Welcome-Bot/welcome-bot/pull/103#pullrequestreview-704942279) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![approved] Approved [#3](https://github.com/Readme-Workflows/readme-replacer/pull/3#pullrequestreview-708034123) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+2. ![approved] Approved [#9](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/9#pullrequestreview-708033706) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+3. ![approved] Approved [#117](https://github.com/Welcome-Bot/welcome-bot/pull/117#pullrequestreview-706105150) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#115](https://github.com/Welcome-Bot/welcome-bot/pull/115#pullrequestreview-706102141) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#116](https://github.com/Welcome-Bot/welcome-bot/pull/116#pullrequestreview-706101376) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#113](https://github.com/Welcome-Bot/welcome-bot/pull/113#pullrequestreview-705859563) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![pullrequestmerged] Merged PR [#112](https://github.com/Welcome-Bot/welcome-bot/pull/112) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#112](https://github.com/Welcome-Bot/welcome-bot/pull/112#pullrequestreview-705851799) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#2](https://github.com/Readme-Workflows/.github/pull/2#pullrequestreview-705423201) in [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
+10. ![star] Starred [Nikhil-Kumaran/reactjs-boilerplate](https://github.com/Nikhil-Kumaran/reactjs-boilerplate)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, July 16th, 2021, 11:19:57 AM IST</b>
+<p align="center">Last refresh: <b>Friday, July 16th, 2021, 11:38:46 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
