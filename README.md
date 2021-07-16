@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#6](https://github.com/abhijoshi2k/abhijoshi2k/pull/6) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-2. ![approved] Approved [#6](https://github.com/abhijoshi2k/abhijoshi2k/pull/6#pullrequestreview-708106857) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-3. ![approved] Approved [#3](https://github.com/Readme-Workflows/readme-replacer/pull/3#pullrequestreview-708034123) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-4. ![approved] Approved [#9](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/9#pullrequestreview-708033706) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-5. ![approved] Approved [#117](https://github.com/Welcome-Bot/welcome-bot/pull/117#pullrequestreview-706105150) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#115](https://github.com/Welcome-Bot/welcome-bot/pull/115#pullrequestreview-706102141) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#116](https://github.com/Welcome-Bot/welcome-bot/pull/116#pullrequestreview-706101376) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#113](https://github.com/Welcome-Bot/welcome-bot/pull/113#pullrequestreview-705859563) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![pullrequestmerged] Merged PR [#112](https://github.com/Welcome-Bot/welcome-bot/pull/112) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![approved] Approved [#112](https://github.com/Welcome-Bot/welcome-bot/pull/112#pullrequestreview-705851799) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestopened] Opened PR [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+2. ![pullrequestmerged] Merged PR [#6](https://github.com/abhijoshi2k/abhijoshi2k/pull/6) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+3. ![approved] Approved [#6](https://github.com/abhijoshi2k/abhijoshi2k/pull/6#pullrequestreview-708106857) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+4. ![approved] Approved [#3](https://github.com/Readme-Workflows/readme-replacer/pull/3#pullrequestreview-708034123) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+5. ![approved] Approved [#9](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/9#pullrequestreview-708033706) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+6. ![approved] Approved [#117](https://github.com/Welcome-Bot/welcome-bot/pull/117#pullrequestreview-706105150) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#115](https://github.com/Welcome-Bot/welcome-bot/pull/115#pullrequestreview-706102141) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#116](https://github.com/Welcome-Bot/welcome-bot/pull/116#pullrequestreview-706101376) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#113](https://github.com/Welcome-Bot/welcome-bot/pull/113#pullrequestreview-705859563) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![pullrequestmerged] Merged PR [#112](https://github.com/Welcome-Bot/welcome-bot/pull/112) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, July 16th, 2021, 2:26:57 PM IST</b>
+<p align="center">Last refresh: <b>Friday, July 16th, 2021, 2:54:00 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
