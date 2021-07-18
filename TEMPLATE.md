@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#129](https://github.com/Welcome-Bot/welcome-bot/pull/129#pullrequestreview-708907888) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#123](https://github.com/Welcome-Bot/welcome-bot/pull/123#pullrequestreview-708833129) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#127](https://github.com/Welcome-Bot/welcome-bot/pull/127#pullrequestreview-708833106) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![pullrequestopened] Opened PR [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-5. ![pullrequestmerged] Merged PR [#6](https://github.com/abhijoshi2k/abhijoshi2k/pull/6) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-6. ![approved] Approved [#6](https://github.com/abhijoshi2k/abhijoshi2k/pull/6#pullrequestreview-708106857) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-7. ![approved] Approved [#3](https://github.com/Readme-Workflows/readme-replacer/pull/3#pullrequestreview-708034123) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-8. ![approved] Approved [#9](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/9#pullrequestreview-708033706) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-9. ![approved] Approved [#117](https://github.com/Welcome-Bot/welcome-bot/pull/117#pullrequestreview-706105150) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![approved] Approved [#115](https://github.com/Welcome-Bot/welcome-bot/pull/115#pullrequestreview-706102141) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![approved] Approved [#134](https://github.com/Welcome-Bot/welcome-bot/pull/134#pullrequestreview-708996591) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#4](https://github.com/Welcome-Bot/stats-api/pull/4#pullrequestreview-708996495) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+3. ![pullrequestmerged] Merged PR [#83](https://github.com/Readme-Workflows/recent-activity/pull/83) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#83](https://github.com/Readme-Workflows/recent-activity/pull/83#pullrequestreview-708996238) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#82](https://github.com/Readme-Workflows/recent-activity/pull/82) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#82](https://github.com/Readme-Workflows/recent-activity/pull/82#pullrequestreview-708996186) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![approved] Approved [#129](https://github.com/Welcome-Bot/welcome-bot/pull/129#pullrequestreview-708907888) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#123](https://github.com/Welcome-Bot/welcome-bot/pull/123#pullrequestreview-708833129) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#127](https://github.com/Welcome-Bot/welcome-bot/pull/127#pullrequestreview-708833106) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![pullrequestopened] Opened PR [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, July 18th, 2021, 12:41:28 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, July 18th, 2021, 12:57:59 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
