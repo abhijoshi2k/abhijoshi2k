@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. ![approved] Approved [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20#pullrequestreview-709790932) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. ![pullrequestmerged] Merged PR [#23](https://github.com/abhijoshi2k/react-tutorials-basics/pull/23) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-4. ![approved] Approved [#23](https://github.com/abhijoshi2k/react-tutorials-basics/pull/23#pullrequestreview-709789970) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. ![approved] Approved [#144](https://github.com/Welcome-Bot/welcome-bot/pull/144#pullrequestreview-709595861) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#139](https://github.com/Welcome-Bot/welcome-bot/pull/139#pullrequestreview-709174678) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#137](https://github.com/Welcome-Bot/welcome-bot/pull/137#pullrequestreview-709140626) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#136](https://github.com/Welcome-Bot/welcome-bot/pull/136#pullrequestreview-709140400) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![approved] Approved [#138](https://github.com/Welcome-Bot/welcome-bot/pull/138#pullrequestreview-709140296) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![pullrequestmerged] Merged PR [#2](https://github.com/Readme-Workflows/readme-replacer/pull/2) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+1. ![pullrequestmerged] Merged PR [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
+2. ![approved] Approved [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2#pullrequestreview-709931136) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
+3. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+4. ![approved] Approved [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20#pullrequestreview-709790932) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+5. ![pullrequestmerged] Merged PR [#23](https://github.com/abhijoshi2k/react-tutorials-basics/pull/23) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+6. ![approved] Approved [#23](https://github.com/abhijoshi2k/react-tutorials-basics/pull/23#pullrequestreview-709789970) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+7. ![approved] Approved [#144](https://github.com/Welcome-Bot/welcome-bot/pull/144#pullrequestreview-709595861) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#139](https://github.com/Welcome-Bot/welcome-bot/pull/139#pullrequestreview-709174678) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#137](https://github.com/Welcome-Bot/welcome-bot/pull/137#pullrequestreview-709140626) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#136](https://github.com/Welcome-Bot/welcome-bot/pull/136#pullrequestreview-709140400) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, July 20th, 2021, 1:28:22 AM IST</b>
+<p align="center">Last refresh: <b>Tuesday, July 20th, 2021, 1:52:39 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
