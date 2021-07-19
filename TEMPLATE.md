@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#144](https://github.com/Welcome-Bot/welcome-bot/pull/144#pullrequestreview-709595861) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#139](https://github.com/Welcome-Bot/welcome-bot/pull/139#pullrequestreview-709174678) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#137](https://github.com/Welcome-Bot/welcome-bot/pull/137#pullrequestreview-709140626) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#136](https://github.com/Welcome-Bot/welcome-bot/pull/136#pullrequestreview-709140400) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#138](https://github.com/Welcome-Bot/welcome-bot/pull/138#pullrequestreview-709140296) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![pullrequestmerged] Merged PR [#2](https://github.com/Readme-Workflows/readme-replacer/pull/2) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-7. ![approved] Approved [#2](https://github.com/Readme-Workflows/readme-replacer/pull/2#pullrequestreview-709007249) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-8. ![approved] Approved [#134](https://github.com/Welcome-Bot/welcome-bot/pull/134#pullrequestreview-708996591) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![approved] Approved [#4](https://github.com/Welcome-Bot/stats-api/pull/4#pullrequestreview-708996495) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
-10. ![pullrequestmerged] Merged PR [#83](https://github.com/Readme-Workflows/recent-activity/pull/83) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![approved] Approved [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20#pullrequestreview-709790932) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![pullrequestmerged] Merged PR [#23](https://github.com/abhijoshi2k/react-tutorials-basics/pull/23) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+4. ![approved] Approved [#23](https://github.com/abhijoshi2k/react-tutorials-basics/pull/23#pullrequestreview-709789970) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+5. ![approved] Approved [#144](https://github.com/Welcome-Bot/welcome-bot/pull/144#pullrequestreview-709595861) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#139](https://github.com/Welcome-Bot/welcome-bot/pull/139#pullrequestreview-709174678) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#137](https://github.com/Welcome-Bot/welcome-bot/pull/137#pullrequestreview-709140626) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#136](https://github.com/Welcome-Bot/welcome-bot/pull/136#pullrequestreview-709140400) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#138](https://github.com/Welcome-Bot/welcome-bot/pull/138#pullrequestreview-709140296) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![pullrequestmerged] Merged PR [#2](https://github.com/Readme-Workflows/readme-replacer/pull/2) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, July 19th, 2021, 10:23:28 PM IST</b>
+<p align="center">Last refresh: <b>Monday, July 19th, 2021, 10:51:37 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
