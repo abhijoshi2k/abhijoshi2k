@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#150](https://github.com/Welcome-Bot/welcome-bot/pull/150#pullrequestreview-710859403) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#147](https://github.com/Welcome-Bot/welcome-bot/pull/147#pullrequestreview-710858790) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#145](https://github.com/Welcome-Bot/welcome-bot/pull/145#pullrequestreview-710337001) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#148](https://github.com/Welcome-Bot/welcome-bot/pull/148#pullrequestreview-710171111) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![pullrequestmerged] Merged PR [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
-6. ![approved] Approved [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2#pullrequestreview-709931136) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
-7. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-8. ![approved] Approved [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20#pullrequestreview-709790932) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-9. ![pullrequestmerged] Merged PR [#23](https://github.com/abhijoshi2k/react-tutorials-basics/pull/23) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-10. ![approved] Approved [#23](https://github.com/abhijoshi2k/react-tutorials-basics/pull/23#pullrequestreview-709789970) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+1. ![pullrequestmerged] Merged PR [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+2. ![approved] Approved [#150](https://github.com/Welcome-Bot/welcome-bot/pull/150#pullrequestreview-710859403) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![approved] Approved [#147](https://github.com/Welcome-Bot/welcome-bot/pull/147#pullrequestreview-710858790) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#145](https://github.com/Welcome-Bot/welcome-bot/pull/145#pullrequestreview-710337001) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#148](https://github.com/Welcome-Bot/welcome-bot/pull/148#pullrequestreview-710171111) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![pullrequestmerged] Merged PR [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
+7. ![approved] Approved [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2#pullrequestreview-709931136) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
+8. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+9. ![approved] Approved [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20#pullrequestreview-709790932) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+10. ![pullrequestmerged] Merged PR [#23](https://github.com/abhijoshi2k/react-tutorials-basics/pull/23) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, July 20th, 2021, 10:35:27 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, July 20th, 2021, 11:03:42 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
