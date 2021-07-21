@@ -30,8 +30,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test) | null |
+| 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone) | null |
 | 📦 | 0 | [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer) | Replace data from template repository with dynamic data |
 | 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone)
-2. ![approved] Approved [#153](https://github.com/Welcome-Bot/welcome-bot/pull/153#pullrequestreview-711211068) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![pullrequestmerged] Merged PR [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-4. ![approved] Approved [#150](https://github.com/Welcome-Bot/welcome-bot/pull/150#pullrequestreview-710859403) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#147](https://github.com/Welcome-Bot/welcome-bot/pull/147#pullrequestreview-710858790) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#145](https://github.com/Welcome-Bot/welcome-bot/pull/145#pullrequestreview-710337001) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#148](https://github.com/Welcome-Bot/welcome-bot/pull/148#pullrequestreview-710171111) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![pullrequestmerged] Merged PR [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
-9. ![approved] Approved [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2#pullrequestreview-709931136) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
-10. ![pullrequestmerged] Merged PR [#20](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/20) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![pullrequestclosed] Closed PR [#7](https://github.com/abhijoshi2k/abhijoshi2k/pull/7) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+2. ![repoCreated] Created new repository [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone)
+3. ![approved] Approved [#153](https://github.com/Welcome-Bot/welcome-bot/pull/153#pullrequestreview-711211068) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![pullrequestmerged] Merged PR [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+5. ![approved] Approved [#150](https://github.com/Welcome-Bot/welcome-bot/pull/150#pullrequestreview-710859403) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#147](https://github.com/Welcome-Bot/welcome-bot/pull/147#pullrequestreview-710858790) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#145](https://github.com/Welcome-Bot/welcome-bot/pull/145#pullrequestreview-710337001) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#148](https://github.com/Welcome-Bot/welcome-bot/pull/148#pullrequestreview-710171111) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![pullrequestmerged] Merged PR [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
+10. ![approved] Approved [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2#pullrequestreview-709931136) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, July 21st, 2021, 12:59:32 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, July 21st, 2021, 1:11:59 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
