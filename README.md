@@ -30,8 +30,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test) | null |
+| 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone) | null |
 | 📦 | 0 | [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer) | Replace data from template repository with dynamic data |
 | 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
