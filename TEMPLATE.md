@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [Test Release v0.1.0-rc4](https://github.com/Readme-Workflows/readme-replacer/releases/tag/v0.1.0-rc4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-2. ![pullrequestclosed] Closed PR [#7](https://github.com/abhijoshi2k/abhijoshi2k/pull/7) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-3. ![repoCreated] Created new repository [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone)
-4. ![approved] Approved [#153](https://github.com/Welcome-Bot/welcome-bot/pull/153#pullrequestreview-711211068) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![pullrequestmerged] Merged PR [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-6. ![approved] Approved [#150](https://github.com/Welcome-Bot/welcome-bot/pull/150#pullrequestreview-710859403) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#147](https://github.com/Welcome-Bot/welcome-bot/pull/147#pullrequestreview-710858790) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#145](https://github.com/Welcome-Bot/welcome-bot/pull/145#pullrequestreview-710337001) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![approved] Approved [#148](https://github.com/Welcome-Bot/welcome-bot/pull/148#pullrequestreview-710171111) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![pullrequestmerged] Merged PR [#2](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/2) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
+1. ![approved] Approved [#7](https://github.com/abhijoshi2k/readme-replacer/pull/7#pullrequestreview-713717634) in [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer)
+2. ![release] Released [Test Release v0.1.0-rc4](https://github.com/Readme-Workflows/readme-replacer/releases/tag/v0.1.0-rc4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+3. ![pullrequestclosed] Closed PR [#7](https://github.com/abhijoshi2k/abhijoshi2k/pull/7) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+4. ![repoCreated] Created new repository [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone)
+5. ![approved] Approved [#153](https://github.com/Welcome-Bot/welcome-bot/pull/153#pullrequestreview-711211068) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![pullrequestmerged] Merged PR [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+7. ![approved] Approved [#150](https://github.com/Welcome-Bot/welcome-bot/pull/150#pullrequestreview-710859403) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#147](https://github.com/Welcome-Bot/welcome-bot/pull/147#pullrequestreview-710858790) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#145](https://github.com/Welcome-Bot/welcome-bot/pull/145#pullrequestreview-710337001) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#148](https://github.com/Welcome-Bot/welcome-bot/pull/148#pullrequestreview-710171111) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, July 23rd, 2021, 6:33:13 PM IST</b>
+<p align="center">Last refresh: <b>Friday, July 23rd, 2021, 6:58:26 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
