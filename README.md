@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 | 📦 | 0 | [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample) | Highly responsive and dynamic navbar sample with dropdown |
 | 📦 | 1 | [abhijoshi2k/qu4k](https://github.com/abhijoshi2k/qu4k) | ✨ uwa, special ✨ |
-| 📦 | 0 | [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer) | Replace data from template repository with dynamic data |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#5](https://github.com/Welcome-Bot/stats-api/pull/5#pullrequestreview-714285210) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
-2. ![pullrequestmerged] Merged PR [#85](https://github.com/Readme-Workflows/recent-activity/pull/85) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![approved] Approved [#85](https://github.com/Readme-Workflows/recent-activity/pull/85#pullrequestreview-714285158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![approved] Approved [#86](https://github.com/Readme-Workflows/recent-activity/pull/86#pullrequestreview-714285060) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#162](https://github.com/Welcome-Bot/welcome-bot/pull/162#pullrequestreview-714278654) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![release] Released [Readme Replacer v1.0.1 released!](https://github.com/Readme-Workflows/readme-replacer/releases/tag/v1.0.1) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-7. ![approved] Approved [#7](https://github.com/abhijoshi2k/readme-replacer/pull/7#pullrequestreview-713717634) in [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer)
-8. ![release] Released [Test Release v0.1.0-rc4](https://github.com/Readme-Workflows/readme-replacer/releases/tag/v0.1.0-rc4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-9. ![pullrequestclosed] Closed PR [#7](https://github.com/abhijoshi2k/abhijoshi2k/pull/7) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-10. ![repoCreated] Created new repository [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone)
+1. ![approved] Approved [#165](https://github.com/Welcome-Bot/welcome-bot/pull/165#pullrequestreview-714334318) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![pullrequestmerged] Merged PR [#49](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/49) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+3. ![approved] Approved [#49](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/49#pullrequestreview-714334285) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+4. ![approved] Approved [#5](https://github.com/Welcome-Bot/stats-api/pull/5#pullrequestreview-714285210) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+5. ![pullrequestmerged] Merged PR [#85](https://github.com/Readme-Workflows/recent-activity/pull/85) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#85](https://github.com/Readme-Workflows/recent-activity/pull/85#pullrequestreview-714285158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![approved] Approved [#86](https://github.com/Readme-Workflows/recent-activity/pull/86#pullrequestreview-714285060) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![approved] Approved [#162](https://github.com/Welcome-Bot/welcome-bot/pull/162#pullrequestreview-714278654) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![release] Released [Readme Replacer v1.0.1 released!](https://github.com/Readme-Workflows/readme-replacer/releases/tag/v1.0.1) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+10. ![approved] Approved [#7](https://github.com/abhijoshi2k/readme-replacer/pull/7#pullrequestreview-713717634) in [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, July 25th, 2021, 9:40:28 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, July 25th, 2021, 10:20:54 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
