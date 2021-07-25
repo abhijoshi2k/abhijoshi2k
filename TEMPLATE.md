@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#162](https://github.com/Welcome-Bot/welcome-bot/pull/162#pullrequestreview-714278654) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![release] Released [Readme Replacer v1.0.1 released!](https://github.com/Readme-Workflows/readme-replacer/releases/tag/v1.0.1) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-3. ![approved] Approved [#7](https://github.com/abhijoshi2k/readme-replacer/pull/7#pullrequestreview-713717634) in [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer)
-4. ![release] Released [Test Release v0.1.0-rc4](https://github.com/Readme-Workflows/readme-replacer/releases/tag/v0.1.0-rc4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-5. ![pullrequestclosed] Closed PR [#7](https://github.com/abhijoshi2k/abhijoshi2k/pull/7) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-6. ![repoCreated] Created new repository [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone)
-7. ![approved] Approved [#153](https://github.com/Welcome-Bot/welcome-bot/pull/153#pullrequestreview-711211068) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![pullrequestmerged] Merged PR [#4](https://github.com/Readme-Workflows/readme-replacer/pull/4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-9. ![approved] Approved [#150](https://github.com/Welcome-Bot/welcome-bot/pull/150#pullrequestreview-710859403) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![approved] Approved [#147](https://github.com/Welcome-Bot/welcome-bot/pull/147#pullrequestreview-710858790) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![approved] Approved [#5](https://github.com/Welcome-Bot/stats-api/pull/5#pullrequestreview-714285210) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+2. ![pullrequestmerged] Merged PR [#85](https://github.com/Readme-Workflows/recent-activity/pull/85) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![approved] Approved [#85](https://github.com/Readme-Workflows/recent-activity/pull/85#pullrequestreview-714285158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#86](https://github.com/Readme-Workflows/recent-activity/pull/86#pullrequestreview-714285060) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![approved] Approved [#162](https://github.com/Welcome-Bot/welcome-bot/pull/162#pullrequestreview-714278654) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![release] Released [Readme Replacer v1.0.1 released!](https://github.com/Readme-Workflows/readme-replacer/releases/tag/v1.0.1) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+7. ![approved] Approved [#7](https://github.com/abhijoshi2k/readme-replacer/pull/7#pullrequestreview-713717634) in [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer)
+8. ![release] Released [Test Release v0.1.0-rc4](https://github.com/Readme-Workflows/readme-replacer/releases/tag/v0.1.0-rc4) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+9. ![pullrequestclosed] Closed PR [#7](https://github.com/abhijoshi2k/abhijoshi2k/pull/7) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+10. ![repoCreated] Created new repository [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, July 25th, 2021, 12:27:34 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, July 25th, 2021, 12:49:41 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
