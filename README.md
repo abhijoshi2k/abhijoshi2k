@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
+| 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 | 📦 | 0 | [abhijoshi2k/navbar-sample](https://github.com/abhijoshi2k/navbar-sample) | Highly responsive and dynamic navbar sample with dropdown |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#166](https://github.com/Welcome-Bot/welcome-bot/pull/166#pullrequestreview-714605526) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![pullrequestmerged] Merged PR [#50](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/50) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![approved] Approved [#50](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/50#pullrequestreview-714342189) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![pullrequestmerged] Merged PR [#86](https://github.com/Readme-Workflows/recent-activity/pull/86) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#165](https://github.com/Welcome-Bot/welcome-bot/pull/165#pullrequestreview-714334318) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![pullrequestmerged] Merged PR [#49](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/49) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-7. ![approved] Approved [#49](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/49#pullrequestreview-714334285) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-8. ![approved] Approved [#5](https://github.com/Welcome-Bot/stats-api/pull/5#pullrequestreview-714285210) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
-9. ![pullrequestmerged] Merged PR [#85](https://github.com/Readme-Workflows/recent-activity/pull/85) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![approved] Approved [#85](https://github.com/Readme-Workflows/recent-activity/pull/85#pullrequestreview-714285158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![pullrequestmerged] Merged PR [#24](https://github.com/abhijoshi2k/react-tutorials-basics/pull/24) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+2. ![approved] Approved [#24](https://github.com/abhijoshi2k/react-tutorials-basics/pull/24#pullrequestreview-715131290) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+3. ![approved] Approved [#166](https://github.com/Welcome-Bot/welcome-bot/pull/166#pullrequestreview-714605526) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![pullrequestmerged] Merged PR [#50](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/50) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![approved] Approved [#50](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/50#pullrequestreview-714342189) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![pullrequestmerged] Merged PR [#86](https://github.com/Readme-Workflows/recent-activity/pull/86) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![approved] Approved [#165](https://github.com/Welcome-Bot/welcome-bot/pull/165#pullrequestreview-714334318) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![pullrequestmerged] Merged PR [#49](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/49) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![approved] Approved [#49](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/49#pullrequestreview-714334285) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+10. ![approved] Approved [#5](https://github.com/Welcome-Bot/stats-api/pull/5#pullrequestreview-714285210) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, July 26th, 2021, 11:16:16 PM IST</b>
+<p align="center">Last refresh: <b>Monday, July 26th, 2021, 11:28:50 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
