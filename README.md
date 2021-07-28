@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#6](https://github.com/Readme-Workflows/readme-replacer/pull/6#pullrequestreview-716609797) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-2. ![repoCreated] Created new repository [abhijoshi2k/abhijoshi2k.github.io](https://github.com/abhijoshi2k/abhijoshi2k.github.io)
-3. ![approved] Approved [#175](https://github.com/Welcome-Bot/welcome-bot/pull/175#pullrequestreview-715875779) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#174](https://github.com/Welcome-Bot/welcome-bot/pull/174#pullrequestreview-715512314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![pullrequestmerged] Merged PR [#24](https://github.com/abhijoshi2k/react-tutorials-basics/pull/24) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-6. ![approved] Approved [#24](https://github.com/abhijoshi2k/react-tutorials-basics/pull/24#pullrequestreview-715131290) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-7. ![approved] Approved [#166](https://github.com/Welcome-Bot/welcome-bot/pull/166#pullrequestreview-714605526) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![pullrequestmerged] Merged PR [#50](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/50) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-9. ![approved] Approved [#50](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/50#pullrequestreview-714342189) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-10. ![pullrequestmerged] Merged PR [#86](https://github.com/Readme-Workflows/recent-activity/pull/86) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![approved] Approved [#9](https://github.com/abhijoshi2k/readme-replacer/pull/9#pullrequestreview-716942256) in [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer)
+2. ![approved] Approved [#6](https://github.com/Readme-Workflows/readme-replacer/pull/6#pullrequestreview-716609797) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+3. ![repoCreated] Created new repository [abhijoshi2k/abhijoshi2k.github.io](https://github.com/abhijoshi2k/abhijoshi2k.github.io)
+4. ![approved] Approved [#175](https://github.com/Welcome-Bot/welcome-bot/pull/175#pullrequestreview-715875779) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#174](https://github.com/Welcome-Bot/welcome-bot/pull/174#pullrequestreview-715512314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![pullrequestmerged] Merged PR [#24](https://github.com/abhijoshi2k/react-tutorials-basics/pull/24) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+7. ![approved] Approved [#24](https://github.com/abhijoshi2k/react-tutorials-basics/pull/24#pullrequestreview-715131290) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+8. ![approved] Approved [#166](https://github.com/Welcome-Bot/welcome-bot/pull/166#pullrequestreview-714605526) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![pullrequestmerged] Merged PR [#50](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/50) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+10. ![approved] Approved [#50](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/50#pullrequestreview-714342189) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, July 28th, 2021, 5:25:57 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, July 28th, 2021, 6:06:05 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
