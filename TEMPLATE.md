@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#21](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/21) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. ![approved] Approved [#21](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/21#pullrequestreview-718358562) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. ![approved] Approved [#176](https://github.com/Welcome-Bot/welcome-bot/pull/176#pullrequestreview-718358239) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#9](https://github.com/abhijoshi2k/readme-replacer/pull/9#pullrequestreview-716942256) in [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer)
-5. ![approved] Approved [#6](https://github.com/Readme-Workflows/readme-replacer/pull/6#pullrequestreview-716609797) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-6. ![repoCreated] Created new repository [abhijoshi2k/abhijoshi2k.github.io](https://github.com/abhijoshi2k/abhijoshi2k.github.io)
-7. ![approved] Approved [#175](https://github.com/Welcome-Bot/welcome-bot/pull/175#pullrequestreview-715875779) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#174](https://github.com/Welcome-Bot/welcome-bot/pull/174#pullrequestreview-715512314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![pullrequestmerged] Merged PR [#24](https://github.com/abhijoshi2k/react-tutorials-basics/pull/24) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-10. ![approved] Approved [#24](https://github.com/abhijoshi2k/react-tutorials-basics/pull/24#pullrequestreview-715131290) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+1. ![approved] Approved [#177](https://github.com/Welcome-Bot/welcome-bot/pull/177#pullrequestreview-718784457) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![pullrequestmerged] Merged PR [#21](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/21) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![approved] Approved [#21](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/21#pullrequestreview-718358562) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+4. ![approved] Approved [#176](https://github.com/Welcome-Bot/welcome-bot/pull/176#pullrequestreview-718358239) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#9](https://github.com/abhijoshi2k/readme-replacer/pull/9#pullrequestreview-716942256) in [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer)
+6. ![approved] Approved [#6](https://github.com/Readme-Workflows/readme-replacer/pull/6#pullrequestreview-716609797) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+7. ![repoCreated] Created new repository [abhijoshi2k/abhijoshi2k.github.io](https://github.com/abhijoshi2k/abhijoshi2k.github.io)
+8. ![approved] Approved [#175](https://github.com/Welcome-Bot/welcome-bot/pull/175#pullrequestreview-715875779) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#174](https://github.com/Welcome-Bot/welcome-bot/pull/174#pullrequestreview-715512314) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![pullrequestmerged] Merged PR [#24](https://github.com/abhijoshi2k/react-tutorials-basics/pull/24) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, July 30th, 2021, 12:29:42 PM IST</b>
+<p align="center">Last refresh: <b>Friday, July 30th, 2021, 12:51:08 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
