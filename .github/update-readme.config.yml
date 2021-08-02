@@ -19,7 +19,7 @@ messages:
   fork_repo: "![fork] Forked {FORK} from {REPO}"
   wiki_create: "![wiki] Created new wiki page {WIKI} in {REPO}"
   changes_approved: "![approved] Approved {ID} in {REPO}"
-  changes_requested: "![changesRequested] Requested changes in {ID} in {REPO}"
+  changes_requested: "![changesRequested] Requested {AMOUNT} changes for {ID} in {REPO}"
   new_release: "![release] Released {ID} in {REPO}"
   new_star: "![star] Starred {REPO}"
   added_member: "![people] Became collaborator on {REPO}"
