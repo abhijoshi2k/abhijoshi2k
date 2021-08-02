@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#7](https://github.com/actions-js/profile-readme/issues/7) in [actions-js/profile-readme](https://github.com/actions-js/profile-readme)
-2. ![changesRequested] Requested changes in [#91](https://github.com/Readme-Workflows/recent-activity/pull/91#pullrequestreview-720422332) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullrequestopened] Opened PR [#186](https://github.com/Welcome-Bot/welcome-bot/pull/186) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![pullrequestmerged] Merged PR [#89](https://github.com/Readme-Workflows/recent-activity/pull/89) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#182](https://github.com/Welcome-Bot/welcome-bot/pull/182#pullrequestreview-719958958) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![pullrequestopened] Opened PR [#90](https://github.com/Readme-Workflows/recent-activity/pull/90) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![approved] Approved [#89](https://github.com/Readme-Workflows/recent-activity/pull/89#pullrequestreview-719831639) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#159](https://github.com/Welcome-Bot/welcome-bot/pull/159#pullrequestreview-719681886) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![pullrequestmerged] Merged PR [#87](https://github.com/Readme-Workflows/recent-activity/pull/87) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![approved] Approved [#87](https://github.com/Readme-Workflows/recent-activity/pull/87#pullrequestreview-719631871) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![issueClosed] Closed issue [#7](https://github.com/actions-js/profile-readme/issues/7) in [actions-js/profile-readme](https://github.com/actions-js/profile-readme)
+2. ![issueOpened] Opened issue [#7](https://github.com/actions-js/profile-readme/issues/7) in [actions-js/profile-readme](https://github.com/actions-js/profile-readme)
+3. ![changesRequested] Requested changes in [#91](https://github.com/Readme-Workflows/recent-activity/pull/91#pullrequestreview-720422332) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullrequestopened] Opened PR [#186](https://github.com/Welcome-Bot/welcome-bot/pull/186) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![pullrequestmerged] Merged PR [#89](https://github.com/Readme-Workflows/recent-activity/pull/89) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#182](https://github.com/Welcome-Bot/welcome-bot/pull/182#pullrequestreview-719958958) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![pullrequestopened] Opened PR [#90](https://github.com/Readme-Workflows/recent-activity/pull/90) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![approved] Approved [#89](https://github.com/Readme-Workflows/recent-activity/pull/89#pullrequestreview-719831639) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#159](https://github.com/Welcome-Bot/welcome-bot/pull/159#pullrequestreview-719681886) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![pullrequestmerged] Merged PR [#87](https://github.com/Readme-Workflows/recent-activity/pull/87) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, August 2nd, 2021, 11:04:04 PM IST</b>
+<p align="center">Last refresh: <b>Monday, August 2nd, 2021, 11:23:50 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
