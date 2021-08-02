@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#89](https://github.com/Readme-Workflows/recent-activity/pull/89#pullrequestreview-719831639) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![approved] Approved [#159](https://github.com/Welcome-Bot/welcome-bot/pull/159#pullrequestreview-719681886) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![pullrequestmerged] Merged PR [#87](https://github.com/Readme-Workflows/recent-activity/pull/87) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![approved] Approved [#87](https://github.com/Readme-Workflows/recent-activity/pull/87#pullrequestreview-719631871) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#6](https://github.com/Welcome-Bot/stats-api/pull/6#pullrequestreview-719631817) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
-6. ![approved] Approved [#179](https://github.com/Welcome-Bot/welcome-bot/pull/179#pullrequestreview-719549692) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![pullrequestmerged] Merged PR [#22](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/22) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-8. ![approved] Approved [#22](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/22#pullrequestreview-719328722) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-9. ![approved] Approved [#177](https://github.com/Welcome-Bot/welcome-bot/pull/177#pullrequestreview-718784457) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![pullrequestmerged] Merged PR [#21](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/21) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![pullrequestopened] Opened PR [#90](https://github.com/Readme-Workflows/recent-activity/pull/90) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![approved] Approved [#89](https://github.com/Readme-Workflows/recent-activity/pull/89#pullrequestreview-719831639) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![approved] Approved [#159](https://github.com/Welcome-Bot/welcome-bot/pull/159#pullrequestreview-719681886) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![pullrequestmerged] Merged PR [#87](https://github.com/Readme-Workflows/recent-activity/pull/87) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![approved] Approved [#87](https://github.com/Readme-Workflows/recent-activity/pull/87#pullrequestreview-719631871) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#6](https://github.com/Welcome-Bot/stats-api/pull/6#pullrequestreview-719631817) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+7. ![approved] Approved [#179](https://github.com/Welcome-Bot/welcome-bot/pull/179#pullrequestreview-719549692) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![pullrequestmerged] Merged PR [#22](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/22) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+9. ![approved] Approved [#22](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/22#pullrequestreview-719328722) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+10. ![approved] Approved [#177](https://github.com/Welcome-Bot/welcome-bot/pull/177#pullrequestreview-718784457) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, August 2nd, 2021, 12:59:31 PM IST</b>
+<p align="center">Last refresh: <b>Monday, August 2nd, 2021, 1:12:05 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
