@@ -33,8 +33,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![changesRequested] Requested changes in [#91](https://github.com/Readme-Workflows/recent-activity/pull/91#pullrequestreview-720422332) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![changesRequested] Requested changes in [#91](https://github.com/Readme-Workflows/recent-activity/pull/91#pullrequestreview-720421263) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![issueOpened] Opened issue [#7](https://github.com/actions-js/profile-readme/issues/7) in [actions-js/profile-readme](https://github.com/actions-js/profile-readme)
+2. ![changesRequested] Requested changes in [#91](https://github.com/Readme-Workflows/recent-activity/pull/91#pullrequestreview-720422332) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 3. ![pullrequestopened] Opened PR [#186](https://github.com/Welcome-Bot/welcome-bot/pull/186) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 4. ![pullrequestmerged] Merged PR [#89](https://github.com/Readme-Workflows/recent-activity/pull/89) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 5. ![approved] Approved [#182](https://github.com/Welcome-Bot/welcome-bot/pull/182#pullrequestreview-719958958) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
@@ -48,7 +48,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, August 2nd, 2021, 10:54:19 PM IST</b>
+<p align="center">Last refresh: <b>Monday, August 2nd, 2021, 11:04:04 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
