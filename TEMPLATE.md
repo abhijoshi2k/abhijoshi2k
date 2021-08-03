@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#189](https://github.com/Welcome-Bot/welcome-bot/pull/189#pullrequestreview-720467129) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![issueOpened] Opened issue [#7](https://github.com/actions-js/push/issues/7) in [actions-js/push](https://github.com/actions-js/push)
-3. ![issueClosed] Closed issue [#7](https://github.com/actions-js/profile-readme/issues/7) in [actions-js/profile-readme](https://github.com/actions-js/profile-readme)
-4. ![issueOpened] Opened issue [#7](https://github.com/actions-js/profile-readme/issues/7) in [actions-js/profile-readme](https://github.com/actions-js/profile-readme)
-5. ![changesRequested] Requested 2 change(s) for [#91](https://github.com/Readme-Workflows/recent-activity/pull/91#pullrequestreview-720422332) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![pullrequestopened] Opened PR [#186](https://github.com/Welcome-Bot/welcome-bot/pull/186) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![pullrequestmerged] Merged PR [#89](https://github.com/Readme-Workflows/recent-activity/pull/89) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#182](https://github.com/Welcome-Bot/welcome-bot/pull/182#pullrequestreview-719958958) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![pullrequestopened] Opened PR [#90](https://github.com/Readme-Workflows/recent-activity/pull/90) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![approved] Approved [#89](https://github.com/Readme-Workflows/recent-activity/pull/89#pullrequestreview-719831639) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![approved] Approved [#190](https://github.com/Welcome-Bot/welcome-bot/pull/190#pullrequestreview-721396100) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#189](https://github.com/Welcome-Bot/welcome-bot/pull/189#pullrequestreview-720467129) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![issueOpened] Opened issue [#7](https://github.com/actions-js/push/issues/7) in [actions-js/push](https://github.com/actions-js/push)
+4. ![issueClosed] Closed issue [#7](https://github.com/actions-js/profile-readme/issues/7) in [actions-js/profile-readme](https://github.com/actions-js/profile-readme)
+5. ![issueOpened] Opened issue [#7](https://github.com/actions-js/profile-readme/issues/7) in [actions-js/profile-readme](https://github.com/actions-js/profile-readme)
+6. ![changesRequested] Requested 2 change(s) for [#91](https://github.com/Readme-Workflows/recent-activity/pull/91#pullrequestreview-720422332) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![pullrequestopened] Opened PR [#186](https://github.com/Welcome-Bot/welcome-bot/pull/186) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![pullrequestmerged] Merged PR [#89](https://github.com/Readme-Workflows/recent-activity/pull/89) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#182](https://github.com/Welcome-Bot/welcome-bot/pull/182#pullrequestreview-719958958) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![pullrequestopened] Opened PR [#90](https://github.com/Readme-Workflows/recent-activity/pull/90) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, August 3rd, 2021, 9:33:12 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, August 3rd, 2021, 10:24:10 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
