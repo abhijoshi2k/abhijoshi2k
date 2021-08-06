@@ -33,28 +33,28 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 | 📦 | 5 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [abhijoshi2k/welcome-bot](https://github.com/abhijoshi2k/welcome-bot) | A discord.js bot to welcome users in your server |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
-| 📦 | 1 | [abhijoshi2k/qu4k](https://github.com/abhijoshi2k/qu4k) | ✨ uwa, special ✨ |
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
+| 📦 | 2 | [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io) | The official website of CSI-SIESGST |
+| 📦 | 1 | [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course) | Node,js course from Udemy |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#190](https://github.com/Welcome-Bot/welcome-bot/pull/190#pullrequestreview-721396100) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#189](https://github.com/Welcome-Bot/welcome-bot/pull/189#pullrequestreview-720467129) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![issueOpened] Opened issue [#7](https://github.com/actions-js/push/issues/7) in [actions-js/push](https://github.com/actions-js/push)
-4. ![issueClosed] Closed issue [#7](https://github.com/actions-js/profile-readme/issues/7) in [actions-js/profile-readme](https://github.com/actions-js/profile-readme)
-5. ![issueOpened] Opened issue [#7](https://github.com/actions-js/profile-readme/issues/7) in [actions-js/profile-readme](https://github.com/actions-js/profile-readme)
-6. ![changesRequested] Requested 2 change(s) for [#91](https://github.com/Readme-Workflows/recent-activity/pull/91#pullrequestreview-720422332) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![pullrequestopened] Opened PR [#186](https://github.com/Welcome-Bot/welcome-bot/pull/186) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![pullrequestmerged] Merged PR [#89](https://github.com/Readme-Workflows/recent-activity/pull/89) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#182](https://github.com/Welcome-Bot/welcome-bot/pull/182#pullrequestreview-719958958) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![pullrequestopened] Opened PR [#90](https://github.com/Readme-Workflows/recent-activity/pull/90) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![approved] Approved [#200](https://github.com/Welcome-Bot/welcome-bot/pull/200#pullrequestreview-724255298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![issueClosed] Closed issue [#92](https://github.com/Readme-Workflows/recent-activity/issues/92) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullrequestmerged] Merged PR [#24](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/24) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
+4. ![approved] Approved [#24](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/24#pullrequestreview-723138499) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
+5. ![pullrequestmerged] Merged PR [#23](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/23) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
+6. ![approved] Approved [#23](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/23#pullrequestreview-723138138) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
+7. ![pullrequestmerged] Merged PR [#10](https://github.com/abhijoshi2k/full-nodejs-course/pull/10) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
+8. ![approved] Approved [#10](https://github.com/abhijoshi2k/full-nodejs-course/pull/10#pullrequestreview-722961344) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
+9. ![approved] Approved [#91](https://github.com/Readme-Workflows/recent-activity/pull/91#pullrequestreview-721888579) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![pullrequestmerged] Merged PR [#90](https://github.com/Readme-Workflows/recent-activity/pull/90) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, August 3rd, 2021, 11:30:09 PM IST</b>
+<p align="center">Last refresh: <b>Friday, August 6th, 2021, 11:51:40 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
