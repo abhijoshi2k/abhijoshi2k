@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] Closed issue [#7](https://github.com/actions-js/push/issues/7) in [actions-js/push](https://github.com/actions-js/push)
-2. ![approved] Approved [#200](https://github.com/Welcome-Bot/welcome-bot/pull/200#pullrequestreview-724255298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![issueClosed] Closed issue [#92](https://github.com/Readme-Workflows/recent-activity/issues/92) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullrequestmerged] Merged PR [#24](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/24) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
-5. ![approved] Approved [#24](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/24#pullrequestreview-723138499) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
-6. ![pullrequestmerged] Merged PR [#23](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/23) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
-7. ![approved] Approved [#23](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/23#pullrequestreview-723138138) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
-8. ![pullrequestmerged] Merged PR [#10](https://github.com/abhijoshi2k/full-nodejs-course/pull/10) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
-9. ![approved] Approved [#10](https://github.com/abhijoshi2k/full-nodejs-course/pull/10#pullrequestreview-722961344) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
-10. ![approved] Approved [#91](https://github.com/Readme-Workflows/recent-activity/pull/91#pullrequestreview-721888579) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![approved] Approved [#187](https://github.com/Welcome-Bot/welcome-bot/pull/187#pullrequestreview-724796517) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![issueClosed] Closed issue [#7](https://github.com/actions-js/push/issues/7) in [actions-js/push](https://github.com/actions-js/push)
+3. ![approved] Approved [#200](https://github.com/Welcome-Bot/welcome-bot/pull/200#pullrequestreview-724255298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![issueClosed] Closed issue [#92](https://github.com/Readme-Workflows/recent-activity/issues/92) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#24](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/24) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
+6. ![approved] Approved [#24](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/24#pullrequestreview-723138499) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
+7. ![pullrequestmerged] Merged PR [#23](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/23) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
+8. ![approved] Approved [#23](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/23#pullrequestreview-723138138) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
+9. ![pullrequestmerged] Merged PR [#10](https://github.com/abhijoshi2k/full-nodejs-course/pull/10) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
+10. ![approved] Approved [#10](https://github.com/abhijoshi2k/full-nodejs-course/pull/10#pullrequestreview-722961344) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, August 7th, 2021, 11:26:01 AM IST</b>
+<p align="center">Last refresh: <b>Saturday, August 7th, 2021, 11:56:48 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
