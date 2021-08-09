@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#7](https://github.com/Welcome-Bot/stats-api/pull/7#pullrequestreview-724870743) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
-2. ![pullrequestmerged] Merged PR [#93](https://github.com/Readme-Workflows/recent-activity/pull/93) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![approved] Approved [#93](https://github.com/Readme-Workflows/recent-activity/pull/93#pullrequestreview-724870290) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![approved] Approved [#207](https://github.com/Welcome-Bot/welcome-bot/pull/207#pullrequestreview-724869777) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#202](https://github.com/Welcome-Bot/welcome-bot/pull/202#pullrequestreview-724828467) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#204](https://github.com/Welcome-Bot/welcome-bot/pull/204#pullrequestreview-724828434) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#187](https://github.com/Welcome-Bot/welcome-bot/pull/187#pullrequestreview-724796517) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![issueClosed] Closed issue [#7](https://github.com/actions-js/push/issues/7) in [actions-js/push](https://github.com/actions-js/push)
-9. ![approved] Approved [#200](https://github.com/Welcome-Bot/welcome-bot/pull/200#pullrequestreview-724255298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![issueClosed] Closed issue [#92](https://github.com/Readme-Workflows/recent-activity/issues/92) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![approved] Approved [#212](https://github.com/Welcome-Bot/welcome-bot/pull/212#pullrequestreview-725050182) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![pullrequestmerged] Merged PR [#211](https://github.com/Welcome-Bot/welcome-bot/pull/211) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![approved] Approved [#211](https://github.com/Welcome-Bot/welcome-bot/pull/211#pullrequestreview-725048995) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#210](https://github.com/Welcome-Bot/welcome-bot/pull/210#pullrequestreview-725048718) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#209](https://github.com/Welcome-Bot/welcome-bot/pull/209#pullrequestreview-725048562) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![pullrequestmerged] Merged PR [#208](https://github.com/Welcome-Bot/welcome-bot/pull/208) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#208](https://github.com/Welcome-Bot/welcome-bot/pull/208#pullrequestreview-725048201) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#7](https://github.com/Welcome-Bot/stats-api/pull/7#pullrequestreview-724870743) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+9. ![pullrequestmerged] Merged PR [#93](https://github.com/Readme-Workflows/recent-activity/pull/93) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![approved] Approved [#93](https://github.com/Readme-Workflows/recent-activity/pull/93#pullrequestreview-724870290) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, August 9th, 2021, 11:25:31 AM IST</b>
+<p align="center">Last refresh: <b>Monday, August 9th, 2021, 11:56:10 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
