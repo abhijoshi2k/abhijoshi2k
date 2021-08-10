@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#214](https://github.com/Welcome-Bot/welcome-bot/pull/214#pullrequestreview-726004484) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#2](https://github.com/Readme-Workflows/activity-template/pull/2#pullrequestreview-725777298) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
-3. ![approved] Approved [#212](https://github.com/Welcome-Bot/welcome-bot/pull/212#pullrequestreview-725050182) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![pullrequestmerged] Merged PR [#211](https://github.com/Welcome-Bot/welcome-bot/pull/211) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#211](https://github.com/Welcome-Bot/welcome-bot/pull/211#pullrequestreview-725048995) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#210](https://github.com/Welcome-Bot/welcome-bot/pull/210#pullrequestreview-725048718) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#209](https://github.com/Welcome-Bot/welcome-bot/pull/209#pullrequestreview-725048562) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![pullrequestmerged] Merged PR [#208](https://github.com/Welcome-Bot/welcome-bot/pull/208) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![approved] Approved [#208](https://github.com/Welcome-Bot/welcome-bot/pull/208#pullrequestreview-725048201) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![approved] Approved [#7](https://github.com/Welcome-Bot/stats-api/pull/7#pullrequestreview-724870743) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+1. ![approved] Approved [#217](https://github.com/Welcome-Bot/welcome-bot/pull/217#pullrequestreview-726350506) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#216](https://github.com/Welcome-Bot/welcome-bot/pull/216#pullrequestreview-726350377) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![approved] Approved [#215](https://github.com/Welcome-Bot/welcome-bot/pull/215#pullrequestreview-726350197) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#214](https://github.com/Welcome-Bot/welcome-bot/pull/214#pullrequestreview-726004484) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#2](https://github.com/Readme-Workflows/activity-template/pull/2#pullrequestreview-725777298) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+6. ![approved] Approved [#212](https://github.com/Welcome-Bot/welcome-bot/pull/212#pullrequestreview-725050182) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![pullrequestmerged] Merged PR [#211](https://github.com/Welcome-Bot/welcome-bot/pull/211) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#211](https://github.com/Welcome-Bot/welcome-bot/pull/211#pullrequestreview-725048995) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#210](https://github.com/Welcome-Bot/welcome-bot/pull/210#pullrequestreview-725048718) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#209](https://github.com/Welcome-Bot/welcome-bot/pull/209#pullrequestreview-725048562) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, August 10th, 2021, 5:35:54 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, August 10th, 2021, 6:16:04 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
