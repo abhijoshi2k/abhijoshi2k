@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#23](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/23) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. ![approved] Approved [#23](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/23#pullrequestreview-726656761) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. ![approved] Approved [#217](https://github.com/Welcome-Bot/welcome-bot/pull/217#pullrequestreview-726350506) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#216](https://github.com/Welcome-Bot/welcome-bot/pull/216#pullrequestreview-726350377) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#215](https://github.com/Welcome-Bot/welcome-bot/pull/215#pullrequestreview-726350197) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#214](https://github.com/Welcome-Bot/welcome-bot/pull/214#pullrequestreview-726004484) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#2](https://github.com/Readme-Workflows/activity-template/pull/2#pullrequestreview-725777298) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
-8. ![approved] Approved [#212](https://github.com/Welcome-Bot/welcome-bot/pull/212#pullrequestreview-725050182) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![pullrequestmerged] Merged PR [#211](https://github.com/Welcome-Bot/welcome-bot/pull/211) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![approved] Approved [#211](https://github.com/Welcome-Bot/welcome-bot/pull/211#pullrequestreview-725048995) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestopened] Opened PR [#8](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/8) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
+2. ![pullrequestmerged] Merged PR [#23](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/23) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![approved] Approved [#23](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/23#pullrequestreview-726656761) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+4. ![approved] Approved [#217](https://github.com/Welcome-Bot/welcome-bot/pull/217#pullrequestreview-726350506) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#216](https://github.com/Welcome-Bot/welcome-bot/pull/216#pullrequestreview-726350377) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#215](https://github.com/Welcome-Bot/welcome-bot/pull/215#pullrequestreview-726350197) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#214](https://github.com/Welcome-Bot/welcome-bot/pull/214#pullrequestreview-726004484) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#2](https://github.com/Readme-Workflows/activity-template/pull/2#pullrequestreview-725777298) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+9. ![approved] Approved [#212](https://github.com/Welcome-Bot/welcome-bot/pull/212#pullrequestreview-725050182) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![pullrequestmerged] Merged PR [#211](https://github.com/Welcome-Bot/welcome-bot/pull/211) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, August 11th, 2021, 12:15:30 AM IST</b>
+<p align="center">Last refresh: <b>Wednesday, August 11th, 2021, 12:27:58 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
