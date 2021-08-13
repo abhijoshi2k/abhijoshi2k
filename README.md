@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 5 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
+| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
+| 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 1 | [abhijoshi2k/qu4k](https://github.com/abhijoshi2k/qu4k) | ✨ uwa, special ✨ |
-| 📦 | 2 | [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io) | The official website of CSI-SIESGST |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#221](https://github.com/Welcome-Bot/welcome-bot/pull/221) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#221](https://github.com/Welcome-Bot/welcome-bot/pull/221#pullrequestreview-728488905) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#20](https://github.com/Welcome-Bot/discord-pagination/pull/20#pullrequestreview-728161704) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![approved] Approved [#17](https://github.com/Welcome-Bot/discord-pagination/pull/17#pullrequestreview-727402784) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. ![approved] Approved [#18](https://github.com/Welcome-Bot/discord-pagination/pull/18#pullrequestreview-727402060) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![approved] Approved [#16](https://github.com/Welcome-Bot/discord-pagination/pull/16#pullrequestreview-727401460) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![approved] Approved [#218](https://github.com/Welcome-Bot/welcome-bot/pull/218#pullrequestreview-727401158) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#219](https://github.com/Welcome-Bot/welcome-bot/pull/219#pullrequestreview-727399907) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![pullrequestopened] Opened PR [#8](https://github.com/ieeesiesgst/ieeesiesgst-smart-village/pull/8) in [ieeesiesgst/ieeesiesgst-smart-village](https://github.com/ieeesiesgst/ieeesiesgst-smart-village)
-10. ![pullrequestmerged] Merged PR [#23](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/23) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![pullrequestmerged] Merged PR [#24](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/24) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![approved] Approved [#24](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/24#pullrequestreview-729252762) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![pullrequestmerged] Merged PR [#22](https://github.com/abhijoshi2k/recent-activity/pull/22) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+4. ![approved] Approved [#22](https://github.com/abhijoshi2k/recent-activity/pull/22#pullrequestreview-729252434) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+5. ![pullrequestmerged] Merged PR [#221](https://github.com/Welcome-Bot/welcome-bot/pull/221) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#221](https://github.com/Welcome-Bot/welcome-bot/pull/221#pullrequestreview-728488905) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#20](https://github.com/Welcome-Bot/discord-pagination/pull/20#pullrequestreview-728161704) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![approved] Approved [#17](https://github.com/Welcome-Bot/discord-pagination/pull/17#pullrequestreview-727402784) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+9. ![approved] Approved [#18](https://github.com/Welcome-Bot/discord-pagination/pull/18#pullrequestreview-727402060) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+10. ![approved] Approved [#16](https://github.com/Welcome-Bot/discord-pagination/pull/16#pullrequestreview-727401460) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, August 13th, 2021, 9:28:57 AM IST</b>
+<p align="center">Last refresh: <b>Friday, August 13th, 2021, 10:01:18 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
