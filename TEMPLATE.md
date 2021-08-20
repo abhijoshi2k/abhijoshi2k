@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#30](https://github.com/Welcome-Bot/discord-pagination/pull/30#pullrequestreview-734660275) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![approved] Approved [#29](https://github.com/Welcome-Bot/discord-pagination/pull/29#pullrequestreview-734660148) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-3. ![approved] Approved [#28](https://github.com/Welcome-Bot/discord-pagination/pull/28#pullrequestreview-734295504) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![approved] Approved [#226](https://github.com/Welcome-Bot/welcome-bot/pull/226#pullrequestreview-733948236) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#27](https://github.com/Welcome-Bot/discord-pagination/pull/27#pullrequestreview-733947693) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![approved] Approved [#224](https://github.com/Welcome-Bot/welcome-bot/pull/224#pullrequestreview-733577641) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#25](https://github.com/Welcome-Bot/discord-pagination/pull/25#pullrequestreview-733542996) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-8. ![pullrequestmerged] Merged PR [#58](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/58) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-9. ![approved] Approved [#58](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/58#pullrequestreview-733541011) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-10. ![approved] Approved [#17](https://github.com/Welcome-Bot/discord-pagination/pull/17#pullrequestreview-732602371) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ![approved] Approved [#230](https://github.com/Welcome-Bot/welcome-bot/pull/230#pullrequestreview-735096643) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#229](https://github.com/Welcome-Bot/welcome-bot/pull/229#pullrequestreview-735096348) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![approved] Approved [#228](https://github.com/Welcome-Bot/welcome-bot/pull/228#pullrequestreview-735096140) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#30](https://github.com/Welcome-Bot/discord-pagination/pull/30#pullrequestreview-734660275) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![approved] Approved [#29](https://github.com/Welcome-Bot/discord-pagination/pull/29#pullrequestreview-734660148) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+6. ![approved] Approved [#28](https://github.com/Welcome-Bot/discord-pagination/pull/28#pullrequestreview-734295504) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![approved] Approved [#226](https://github.com/Welcome-Bot/welcome-bot/pull/226#pullrequestreview-733948236) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#27](https://github.com/Welcome-Bot/discord-pagination/pull/27#pullrequestreview-733947693) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+9. ![approved] Approved [#224](https://github.com/Welcome-Bot/welcome-bot/pull/224#pullrequestreview-733577641) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#25](https://github.com/Welcome-Bot/discord-pagination/pull/25#pullrequestreview-733542996) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, August 20th, 2021, 8:02:05 PM IST</b>
+<p align="center">Last refresh: <b>Friday, August 20th, 2021, 8:14:23 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
