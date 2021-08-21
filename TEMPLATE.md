@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#31](https://github.com/Welcome-Bot/discord-pagination/pull/31#pullrequestreview-735467266) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![approved] Approved [#230](https://github.com/Welcome-Bot/welcome-bot/pull/230#pullrequestreview-735096643) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#229](https://github.com/Welcome-Bot/welcome-bot/pull/229#pullrequestreview-735096348) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#228](https://github.com/Welcome-Bot/welcome-bot/pull/228#pullrequestreview-735096140) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#30](https://github.com/Welcome-Bot/discord-pagination/pull/30#pullrequestreview-734660275) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![approved] Approved [#29](https://github.com/Welcome-Bot/discord-pagination/pull/29#pullrequestreview-734660148) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![approved] Approved [#28](https://github.com/Welcome-Bot/discord-pagination/pull/28#pullrequestreview-734295504) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-8. ![approved] Approved [#226](https://github.com/Welcome-Bot/welcome-bot/pull/226#pullrequestreview-733948236) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![approved] Approved [#27](https://github.com/Welcome-Bot/discord-pagination/pull/27#pullrequestreview-733947693) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-10. ![approved] Approved [#224](https://github.com/Welcome-Bot/welcome-bot/pull/224#pullrequestreview-733577641) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestmerged] Merged PR [#24](https://github.com/abhijoshi2k/recent-activity/pull/24) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+2. ![approved] Approved [#24](https://github.com/abhijoshi2k/recent-activity/pull/24#pullrequestreview-735482636) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+3. ![pullrequestmerged] Merged PR [#98](https://github.com/Readme-Workflows/recent-activity/pull/98) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#32](https://github.com/Welcome-Bot/discord-pagination/pull/32#pullrequestreview-735482253) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![star] Starred [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+6. ![approved] Approved [#31](https://github.com/Welcome-Bot/discord-pagination/pull/31#pullrequestreview-735467266) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![approved] Approved [#230](https://github.com/Welcome-Bot/welcome-bot/pull/230#pullrequestreview-735096643) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#229](https://github.com/Welcome-Bot/welcome-bot/pull/229#pullrequestreview-735096348) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#228](https://github.com/Welcome-Bot/welcome-bot/pull/228#pullrequestreview-735096140) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#30](https://github.com/Welcome-Bot/discord-pagination/pull/30#pullrequestreview-734660275) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, August 21st, 2021, 2:42:35 PM IST</b>
+<p align="center">Last refresh: <b>Saturday, August 21st, 2021, 3:01:54 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
