@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#232](https://github.com/Welcome-Bot/welcome-bot/pull/232#pullrequestreview-736000534) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#231](https://github.com/Welcome-Bot/welcome-bot/pull/231#pullrequestreview-736000329) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![pullrequestmerged] Merged PR [#25](https://github.com/abhijoshi2k/recent-activity/pull/25) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-4. ![approved] Approved [#25](https://github.com/abhijoshi2k/recent-activity/pull/25#pullrequestreview-735557997) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-5. ![pullrequestmerged] Merged PR [#100](https://github.com/Readme-Workflows/recent-activity/pull/100) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![pullrequestmerged] Merged PR [#101](https://github.com/Readme-Workflows/recent-activity/pull/101) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![approved] Approved [#101](https://github.com/Readme-Workflows/recent-activity/pull/101#pullrequestreview-735554693) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#100](https://github.com/Readme-Workflows/recent-activity/pull/100#pullrequestreview-735554577) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![pullrequestmerged] Merged PR [#99](https://github.com/Readme-Workflows/recent-activity/pull/99) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![approved] Approved [#99](https://github.com/Readme-Workflows/recent-activity/pull/99#pullrequestreview-735554524) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![pullrequestmerged] Merged PR [#26](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/26) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![approved] Approved [#26](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/26#pullrequestreview-736548893) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![approved] Approved [#232](https://github.com/Welcome-Bot/welcome-bot/pull/232#pullrequestreview-736000534) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#231](https://github.com/Welcome-Bot/welcome-bot/pull/231#pullrequestreview-736000329) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![pullrequestmerged] Merged PR [#25](https://github.com/abhijoshi2k/recent-activity/pull/25) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+6. ![approved] Approved [#25](https://github.com/abhijoshi2k/recent-activity/pull/25#pullrequestreview-735557997) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+7. ![pullrequestmerged] Merged PR [#100](https://github.com/Readme-Workflows/recent-activity/pull/100) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![pullrequestmerged] Merged PR [#101](https://github.com/Readme-Workflows/recent-activity/pull/101) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#101](https://github.com/Readme-Workflows/recent-activity/pull/101#pullrequestreview-735554693) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![approved] Approved [#100](https://github.com/Readme-Workflows/recent-activity/pull/100#pullrequestreview-735554577) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, August 24th, 2021, 2:02:08 AM IST</b>
+<p align="center">Last refresh: <b>Tuesday, August 24th, 2021, 2:14:26 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
