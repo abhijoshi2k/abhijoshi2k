@@ -30,31 +30,31 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 
 |*|Stars|Repo|Description|
 |---|---|---|---|
+| 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 | 📦 | 5 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
 | 📦 | 0 | [abhijoshi2k/Raoaditi](https://github.com/abhijoshi2k/Raoaditi) | null |
 | 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
-| 📦 | 0 | [PuneetGopinath/anti-scam-database](https://github.com/PuneetGopinath/anti-scam-database) | A collection of known Scam links to prevent you from getting scammed or worse. |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestopened] Opened PR [#1](https://github.com/Raoaditi/Raoaditi/pull/1) in [Raoaditi/Raoaditi](https://github.com/Raoaditi/Raoaditi)
-2. ![fork] Forked [abhijoshi2k/Raoaditi](https://github.com/abhijoshi2k/Raoaditi) from [Raoaditi/Raoaditi](https://github.com/Raoaditi/Raoaditi)
-3. ![pullrequestmerged] Merged PR [#102](https://github.com/Readme-Workflows/recent-activity/pull/102) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![approved] Approved [#102](https://github.com/Readme-Workflows/recent-activity/pull/102#pullrequestreview-741103335) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#40](https://github.com/Welcome-Bot/discord-pagination/pull/40#pullrequestreview-740974578) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![approved] Approved [#39](https://github.com/Welcome-Bot/discord-pagination/pull/39#pullrequestreview-740974565) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![pullrequestmerged] Merged PR [#29](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/29) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-8. ![approved] Approved [#29](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/29#pullrequestreview-740766978) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-9. ![pullrequestopened] Opened PR [#243](https://github.com/Welcome-Bot/welcome-bot/pull/243) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![pullrequestclosed] Closed PR [#242](https://github.com/Welcome-Bot/welcome-bot/pull/242) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestmerged] Merged PR [#26](https://github.com/abhijoshi2k/recent-activity/pull/26) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+2. ![approved] Approved [#26](https://github.com/abhijoshi2k/recent-activity/pull/26#pullrequestreview-741132291) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+3. ![pullrequestopened] Opened PR [#1](https://github.com/Raoaditi/Raoaditi/pull/1) in [Raoaditi/Raoaditi](https://github.com/Raoaditi/Raoaditi)
+4. ![fork] Forked [abhijoshi2k/Raoaditi](https://github.com/abhijoshi2k/Raoaditi) from [Raoaditi/Raoaditi](https://github.com/Raoaditi/Raoaditi)
+5. ![pullrequestmerged] Merged PR [#102](https://github.com/Readme-Workflows/recent-activity/pull/102) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#102](https://github.com/Readme-Workflows/recent-activity/pull/102#pullrequestreview-741103335) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![approved] Approved [#40](https://github.com/Welcome-Bot/discord-pagination/pull/40#pullrequestreview-740974578) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![approved] Approved [#39](https://github.com/Welcome-Bot/discord-pagination/pull/39#pullrequestreview-740974565) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+9. ![pullrequestmerged] Merged PR [#29](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/29) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+10. ![approved] Approved [#29](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/29#pullrequestreview-740766978) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, August 29th, 2021, 9:29:14 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, August 29th, 2021, 10:06:27 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
