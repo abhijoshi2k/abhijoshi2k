@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#31](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/31) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. ![approved] Approved [#31](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/31#pullrequestreview-745333865) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. ![approved] Approved [#47](https://github.com/Welcome-Bot/discord-pagination/pull/47#pullrequestreview-744421788) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![pullrequestmerged] Merged PR [#30](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/30) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-5. ![approved] Approved [#30](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/30#pullrequestreview-742992640) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-6. ![pullrequestmerged] Merged PR [#103](https://github.com/Readme-Workflows/recent-activity/pull/103) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![approved] Approved [#103](https://github.com/Readme-Workflows/recent-activity/pull/103#pullrequestreview-742977234) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#44](https://github.com/Welcome-Bot/discord-pagination/pull/44#pullrequestreview-742275555) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-9. ![pullrequestmerged] Merged PR [#64](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/64) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-10. ![approved] Approved [#64](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/64#pullrequestreview-742275372) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+1. ![pullrequestmerged] Merged PR [#11](https://github.com/abhijoshi2k/full-nodejs-course/pull/11) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
+2. ![approved] Approved [#11](https://github.com/abhijoshi2k/full-nodejs-course/pull/11#pullrequestreview-745682083) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
+3. ![pullrequestmerged] Merged PR [#31](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/31) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+4. ![approved] Approved [#31](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/31#pullrequestreview-745333865) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+5. ![approved] Approved [#47](https://github.com/Welcome-Bot/discord-pagination/pull/47#pullrequestreview-744421788) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+6. ![pullrequestmerged] Merged PR [#30](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/30) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+7. ![approved] Approved [#30](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/30#pullrequestreview-742992640) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+8. ![pullrequestmerged] Merged PR [#103](https://github.com/Readme-Workflows/recent-activity/pull/103) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#103](https://github.com/Readme-Workflows/recent-activity/pull/103#pullrequestreview-742977234) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![approved] Approved [#44](https://github.com/Welcome-Bot/discord-pagination/pull/44#pullrequestreview-742275555) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, September 3rd, 2021, 9:00:42 AM IST</b>
+<p align="center">Last refresh: <b>Friday, September 3rd, 2021, 9:15:13 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
