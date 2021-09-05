@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 5 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 | 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 0 | [abhijoshi2k/github-profile-summary-cards](https://github.com/abhijoshi2k/github-profile-summary-cards) | A tool to generate your github summary card for profile README |
 | 📦 | 1 | [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course) | Node,js course from Udemy |
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#11](https://github.com/abhijoshi2k/full-nodejs-course/pull/11) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
-2. ![approved] Approved [#11](https://github.com/abhijoshi2k/full-nodejs-course/pull/11#pullrequestreview-745682083) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
-3. ![pullrequestmerged] Merged PR [#31](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/31) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-4. ![approved] Approved [#31](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/31#pullrequestreview-745333865) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-5. ![approved] Approved [#47](https://github.com/Welcome-Bot/discord-pagination/pull/47#pullrequestreview-744421788) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![pullrequestmerged] Merged PR [#30](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/30) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-7. ![approved] Approved [#30](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/30#pullrequestreview-742992640) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-8. ![pullrequestmerged] Merged PR [#103](https://github.com/Readme-Workflows/recent-activity/pull/103) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#103](https://github.com/Readme-Workflows/recent-activity/pull/103#pullrequestreview-742977234) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![approved] Approved [#44](https://github.com/Welcome-Bot/discord-pagination/pull/44#pullrequestreview-742275555) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ![pullrequestmerged] Merged PR [#105](https://github.com/Readme-Workflows/recent-activity/pull/105) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![approved] Approved [#105](https://github.com/Readme-Workflows/recent-activity/pull/105#pullrequestreview-746670180) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullrequestmerged] Merged PR [#104](https://github.com/Readme-Workflows/recent-activity/pull/104) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#104](https://github.com/Readme-Workflows/recent-activity/pull/104#pullrequestreview-746670160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#11](https://github.com/abhijoshi2k/full-nodejs-course/pull/11) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
+6. ![approved] Approved [#11](https://github.com/abhijoshi2k/full-nodejs-course/pull/11#pullrequestreview-745682083) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
+7. ![pullrequestmerged] Merged PR [#31](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/31) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+8. ![approved] Approved [#31](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/31#pullrequestreview-745333865) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+9. ![approved] Approved [#47](https://github.com/Welcome-Bot/discord-pagination/pull/47#pullrequestreview-744421788) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+10. ![pullrequestmerged] Merged PR [#30](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/30) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, September 5th, 2021, 10:38:38 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, September 5th, 2021, 11:03:21 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
