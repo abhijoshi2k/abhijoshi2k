@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#49](https://github.com/Welcome-Bot/discord-pagination/pull/49#pullrequestreview-747508642) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![approved] Approved [#258](https://github.com/Welcome-Bot/welcome-bot/pull/258#pullrequestreview-747142083) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#259](https://github.com/Welcome-Bot/welcome-bot/pull/259#pullrequestreview-747141839) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#257](https://github.com/Welcome-Bot/welcome-bot/pull/257#pullrequestreview-746828963) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#27](https://github.com/abhijoshi2k/recent-activity/pull/27#pullrequestreview-746672781) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-6. ![pullrequestmerged] Merged PR [#105](https://github.com/Readme-Workflows/recent-activity/pull/105) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![approved] Approved [#105](https://github.com/Readme-Workflows/recent-activity/pull/105#pullrequestreview-746670180) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#104](https://github.com/Readme-Workflows/recent-activity/pull/104) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#104](https://github.com/Readme-Workflows/recent-activity/pull/104#pullrequestreview-746670160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![pullrequestmerged] Merged PR [#11](https://github.com/abhijoshi2k/full-nodejs-course/pull/11) in [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course)
+1. ![approved] Approved [#261](https://github.com/Welcome-Bot/welcome-bot/pull/261#pullrequestreview-747854019) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#262](https://github.com/Welcome-Bot/welcome-bot/pull/262#pullrequestreview-747853851) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![approved] Approved [#263](https://github.com/Welcome-Bot/welcome-bot/pull/263#pullrequestreview-747853684) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#49](https://github.com/Welcome-Bot/discord-pagination/pull/49#pullrequestreview-747508642) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![approved] Approved [#258](https://github.com/Welcome-Bot/welcome-bot/pull/258#pullrequestreview-747142083) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#259](https://github.com/Welcome-Bot/welcome-bot/pull/259#pullrequestreview-747141839) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#257](https://github.com/Welcome-Bot/welcome-bot/pull/257#pullrequestreview-746828963) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#27](https://github.com/abhijoshi2k/recent-activity/pull/27#pullrequestreview-746672781) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+9. ![pullrequestmerged] Merged PR [#105](https://github.com/Readme-Workflows/recent-activity/pull/105) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![approved] Approved [#105](https://github.com/Readme-Workflows/recent-activity/pull/105#pullrequestreview-746670180) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, September 7th, 2021, 4:28:56 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, September 7th, 2021, 4:48:56 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
