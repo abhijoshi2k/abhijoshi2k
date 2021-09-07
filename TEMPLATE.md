@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#261](https://github.com/Welcome-Bot/welcome-bot/pull/261#pullrequestreview-747854019) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#262](https://github.com/Welcome-Bot/welcome-bot/pull/262#pullrequestreview-747853851) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#263](https://github.com/Welcome-Bot/welcome-bot/pull/263#pullrequestreview-747853684) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#49](https://github.com/Welcome-Bot/discord-pagination/pull/49#pullrequestreview-747508642) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. ![approved] Approved [#258](https://github.com/Welcome-Bot/welcome-bot/pull/258#pullrequestreview-747142083) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![approved] Approved [#259](https://github.com/Welcome-Bot/welcome-bot/pull/259#pullrequestreview-747141839) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#257](https://github.com/Welcome-Bot/welcome-bot/pull/257#pullrequestreview-746828963) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#27](https://github.com/abhijoshi2k/recent-activity/pull/27#pullrequestreview-746672781) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-9. ![pullrequestmerged] Merged PR [#105](https://github.com/Readme-Workflows/recent-activity/pull/105) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![approved] Approved [#105](https://github.com/Readme-Workflows/recent-activity/pull/105#pullrequestreview-746670180) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![pullrequestmerged] Merged PR [#32](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/32) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![approved] Approved [#32](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/32#pullrequestreview-748227701) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![approved] Approved [#261](https://github.com/Welcome-Bot/welcome-bot/pull/261#pullrequestreview-747854019) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#262](https://github.com/Welcome-Bot/welcome-bot/pull/262#pullrequestreview-747853851) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#263](https://github.com/Welcome-Bot/welcome-bot/pull/263#pullrequestreview-747853684) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#49](https://github.com/Welcome-Bot/discord-pagination/pull/49#pullrequestreview-747508642) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![approved] Approved [#258](https://github.com/Welcome-Bot/welcome-bot/pull/258#pullrequestreview-747142083) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#259](https://github.com/Welcome-Bot/welcome-bot/pull/259#pullrequestreview-747141839) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#257](https://github.com/Welcome-Bot/welcome-bot/pull/257#pullrequestreview-746828963) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#27](https://github.com/abhijoshi2k/recent-activity/pull/27#pullrequestreview-746672781) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, September 7th, 2021, 10:48:58 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, September 7th, 2021, 11:08:40 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
