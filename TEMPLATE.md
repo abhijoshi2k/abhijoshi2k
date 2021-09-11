@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#268](https://github.com/Welcome-Bot/welcome-bot/pull/268#pullrequestreview-751897155) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#269](https://github.com/Welcome-Bot/welcome-bot/pull/269#pullrequestreview-751897147) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#56](https://github.com/Welcome-Bot/discord-pagination/pull/56#pullrequestreview-751889694) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![star] Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#267](https://github.com/Welcome-Bot/welcome-bot/pull/267#pullrequestreview-751304194) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![pullrequestmerged] Merged PR [#70](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/70) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-7. ![approved] Approved [#70](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/70#pullrequestreview-751024756) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-8. ![approved] Approved [#54](https://github.com/Welcome-Bot/discord-pagination/pull/54#pullrequestreview-751024702) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-9. ![approved] Approved [#53](https://github.com/Welcome-Bot/discord-pagination/pull/53#pullrequestreview-751024642) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-10. ![approved] Approved [#266](https://github.com/Welcome-Bot/welcome-bot/pull/266#pullrequestreview-750204594) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![approved] Approved [#269](https://github.com/Welcome-Bot/welcome-bot/pull/269#pullrequestreview-751901025) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#268](https://github.com/Welcome-Bot/welcome-bot/pull/268#pullrequestreview-751897155) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![approved] Approved [#269](https://github.com/Welcome-Bot/welcome-bot/pull/269#pullrequestreview-751897147) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#56](https://github.com/Welcome-Bot/discord-pagination/pull/56#pullrequestreview-751889694) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![star] Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#267](https://github.com/Welcome-Bot/welcome-bot/pull/267#pullrequestreview-751304194) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![pullrequestmerged] Merged PR [#70](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/70) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+8. ![approved] Approved [#70](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/70#pullrequestreview-751024756) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![approved] Approved [#54](https://github.com/Welcome-Bot/discord-pagination/pull/54#pullrequestreview-751024702) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+10. ![approved] Approved [#53](https://github.com/Welcome-Bot/discord-pagination/pull/53#pullrequestreview-751024642) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, September 11th, 2021, 1:28:37 PM IST</b>
+<p align="center">Last refresh: <b>Saturday, September 11th, 2021, 1:55:09 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
