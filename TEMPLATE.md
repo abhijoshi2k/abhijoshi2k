@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![approved] Approved [#267](https://github.com/Welcome-Bot/welcome-bot/pull/267#pullrequestreview-751304194) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![pullrequestmerged] Merged PR [#70](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/70) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![approved] Approved [#70](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/70#pullrequestreview-751024756) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. ![approved] Approved [#54](https://github.com/Welcome-Bot/discord-pagination/pull/54#pullrequestreview-751024702) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![approved] Approved [#53](https://github.com/Welcome-Bot/discord-pagination/pull/53#pullrequestreview-751024642) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![approved] Approved [#266](https://github.com/Welcome-Bot/welcome-bot/pull/266#pullrequestreview-750204594) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#265](https://github.com/Welcome-Bot/welcome-bot/pull/265#pullrequestreview-750204416) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![approved] Approved [#264](https://github.com/Welcome-Bot/welcome-bot/pull/264#pullrequestreview-749024656) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![pullrequestmerged] Merged PR [#32](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/32) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![approved] Approved [#56](https://github.com/Welcome-Bot/discord-pagination/pull/56#pullrequestreview-751889694) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. ![star] Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![approved] Approved [#267](https://github.com/Welcome-Bot/welcome-bot/pull/267#pullrequestreview-751304194) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![pullrequestmerged] Merged PR [#70](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/70) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![approved] Approved [#70](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/70#pullrequestreview-751024756) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![approved] Approved [#54](https://github.com/Welcome-Bot/discord-pagination/pull/54#pullrequestreview-751024702) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![approved] Approved [#53](https://github.com/Welcome-Bot/discord-pagination/pull/53#pullrequestreview-751024642) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![approved] Approved [#266](https://github.com/Welcome-Bot/welcome-bot/pull/266#pullrequestreview-750204594) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#265](https://github.com/Welcome-Bot/welcome-bot/pull/265#pullrequestreview-750204416) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#264](https://github.com/Welcome-Bot/welcome-bot/pull/264#pullrequestreview-749024656) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, September 11th, 2021, 10:12:14 AM IST</b>
+<p align="center">Last refresh: <b>Saturday, September 11th, 2021, 10:28:16 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
