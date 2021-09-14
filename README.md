@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#60](https://github.com/Welcome-Bot/discord-pagination/pull/60#pullrequestreview-753511575) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![approved] Approved [#59](https://github.com/Welcome-Bot/discord-pagination/pull/59#pullrequestreview-753511477) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-3. ![pullrequestmerged] Merged PR [#25](https://github.com/abhijoshi2k/react-tutorials-basics/pull/25) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-4. ![approved] Approved [#25](https://github.com/abhijoshi2k/react-tutorials-basics/pull/25#pullrequestreview-753014373) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. ![approved] Approved [#26](https://github.com/Welcome-Bot/discord-pagination/pull/26#pullrequestreview-752386714) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![approved] Approved [#57](https://github.com/Welcome-Bot/discord-pagination/pull/57#pullrequestreview-752386385) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![approved] Approved [#270](https://github.com/Welcome-Bot/welcome-bot/pull/270#pullrequestreview-752179158) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#271](https://github.com/Welcome-Bot/welcome-bot/pull/271#pullrequestreview-752179132) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![pullrequestmerged] Merged PR [#108](https://github.com/Readme-Workflows/recent-activity/pull/108) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![approved] Approved [#108](https://github.com/Readme-Workflows/recent-activity/pull/108#pullrequestreview-752101207) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![approved] Approved [#274](https://github.com/Welcome-Bot/welcome-bot/pull/274#pullrequestreview-753812360) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![approved] Approved [#60](https://github.com/Welcome-Bot/discord-pagination/pull/60#pullrequestreview-753511575) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ![approved] Approved [#59](https://github.com/Welcome-Bot/discord-pagination/pull/59#pullrequestreview-753511477) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![pullrequestmerged] Merged PR [#25](https://github.com/abhijoshi2k/react-tutorials-basics/pull/25) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+5. ![approved] Approved [#25](https://github.com/abhijoshi2k/react-tutorials-basics/pull/25#pullrequestreview-753014373) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+6. ![approved] Approved [#26](https://github.com/Welcome-Bot/discord-pagination/pull/26#pullrequestreview-752386714) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![approved] Approved [#57](https://github.com/Welcome-Bot/discord-pagination/pull/57#pullrequestreview-752386385) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![approved] Approved [#270](https://github.com/Welcome-Bot/welcome-bot/pull/270#pullrequestreview-752179158) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#271](https://github.com/Welcome-Bot/welcome-bot/pull/271#pullrequestreview-752179132) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![pullrequestmerged] Merged PR [#108](https://github.com/Readme-Workflows/recent-activity/pull/108) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, September 14th, 2021, 4:41:00 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, September 14th, 2021, 4:56:15 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
