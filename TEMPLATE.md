@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#61](https://github.com/Welcome-Bot/discord-pagination/pull/61#pullrequestreview-754987920) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![approved] Approved [#275](https://github.com/Welcome-Bot/welcome-bot/pull/275#pullrequestreview-754987702) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#274](https://github.com/Welcome-Bot/welcome-bot/pull/274#pullrequestreview-753812360) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#60](https://github.com/Welcome-Bot/discord-pagination/pull/60#pullrequestreview-753511575) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. ![approved] Approved [#59](https://github.com/Welcome-Bot/discord-pagination/pull/59#pullrequestreview-753511477) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![pullrequestmerged] Merged PR [#25](https://github.com/abhijoshi2k/react-tutorials-basics/pull/25) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-7. ![approved] Approved [#25](https://github.com/abhijoshi2k/react-tutorials-basics/pull/25#pullrequestreview-753014373) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-8. ![approved] Approved [#26](https://github.com/Welcome-Bot/discord-pagination/pull/26#pullrequestreview-752386714) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-9. ![approved] Approved [#57](https://github.com/Welcome-Bot/discord-pagination/pull/57#pullrequestreview-752386385) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-10. ![approved] Approved [#270](https://github.com/Welcome-Bot/welcome-bot/pull/270#pullrequestreview-752179158) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestmerged] Merged PR [#33](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/33) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![approved] Approved [#33](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/33#pullrequestreview-755536205) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![approved] Approved [#61](https://github.com/Welcome-Bot/discord-pagination/pull/61#pullrequestreview-754987920) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![approved] Approved [#275](https://github.com/Welcome-Bot/welcome-bot/pull/275#pullrequestreview-754987702) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#274](https://github.com/Welcome-Bot/welcome-bot/pull/274#pullrequestreview-753812360) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#60](https://github.com/Welcome-Bot/discord-pagination/pull/60#pullrequestreview-753511575) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![approved] Approved [#59](https://github.com/Welcome-Bot/discord-pagination/pull/59#pullrequestreview-753511477) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![pullrequestmerged] Merged PR [#25](https://github.com/abhijoshi2k/react-tutorials-basics/pull/25) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+9. ![approved] Approved [#25](https://github.com/abhijoshi2k/react-tutorials-basics/pull/25#pullrequestreview-753014373) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+10. ![approved] Approved [#26](https://github.com/Welcome-Bot/discord-pagination/pull/26#pullrequestreview-752386714) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, September 16th, 2021, 12:44:05 AM IST</b>
+<p align="center">Last refresh: <b>Thursday, September 16th, 2021, 12:56:26 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
