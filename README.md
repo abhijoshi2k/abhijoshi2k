@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#289](https://github.com/Welcome-Bot/welcome-bot/pull/289#pullrequestreview-758589155) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![approved] Approved [#288](https://github.com/Welcome-Bot/welcome-bot/pull/288#pullrequestreview-758588589) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![approved] Approved [#287](https://github.com/Welcome-Bot/welcome-bot/pull/287#pullrequestreview-758588352) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![approved] Approved [#286](https://github.com/Welcome-Bot/welcome-bot/pull/286#pullrequestreview-758428708) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![approved] Approved [#13](https://github.com/Welcome-Bot/stats-api/pull/13#pullrequestreview-758118497) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
-6. ![pullrequestmerged] Merged PR [#111](https://github.com/Readme-Workflows/recent-activity/pull/111) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![approved] Approved [#111](https://github.com/Readme-Workflows/recent-activity/pull/111#pullrequestreview-758118439) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#110](https://github.com/Readme-Workflows/recent-activity/pull/110) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#110](https://github.com/Readme-Workflows/recent-activity/pull/110#pullrequestreview-758118419) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![approved] Approved [#282](https://github.com/Welcome-Bot/welcome-bot/pull/282#pullrequestreview-758074636) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestmerged] Merged PR [#35](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/35) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![approved] Approved [#35](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/35#pullrequestreview-758936475) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![approved] Approved [#289](https://github.com/Welcome-Bot/welcome-bot/pull/289#pullrequestreview-758589155) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![approved] Approved [#288](https://github.com/Welcome-Bot/welcome-bot/pull/288#pullrequestreview-758588589) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![approved] Approved [#287](https://github.com/Welcome-Bot/welcome-bot/pull/287#pullrequestreview-758588352) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![approved] Approved [#286](https://github.com/Welcome-Bot/welcome-bot/pull/286#pullrequestreview-758428708) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![approved] Approved [#13](https://github.com/Welcome-Bot/stats-api/pull/13#pullrequestreview-758118497) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+8. ![pullrequestmerged] Merged PR [#111](https://github.com/Readme-Workflows/recent-activity/pull/111) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#111](https://github.com/Readme-Workflows/recent-activity/pull/111#pullrequestreview-758118439) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![pullrequestmerged] Merged PR [#110](https://github.com/Readme-Workflows/recent-activity/pull/110) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, September 20th, 2021, 11:25:34 PM IST</b>
+<p align="center">Last refresh: <b>Monday, September 20th, 2021, 11:54:05 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
