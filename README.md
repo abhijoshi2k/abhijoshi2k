@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#36](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/36) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. ![approved] Approved [#36](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/36#pullrequestreview-760038026) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. ![star] Starred [mongodb-js/connect-mongodb-session](https://github.com/mongodb-js/connect-mongodb-session)
-4. ![pullrequestmerged] Merged PR [#35](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/35) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-5. ![approved] Approved [#35](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/35#pullrequestreview-758936475) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-6. ![approved] Approved [#289](https://github.com/Welcome-Bot/welcome-bot/pull/289#pullrequestreview-758589155) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![approved] Approved [#288](https://github.com/Welcome-Bot/welcome-bot/pull/288#pullrequestreview-758588589) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![approved] Approved [#287](https://github.com/Welcome-Bot/welcome-bot/pull/287#pullrequestreview-758588352) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![approved] Approved [#286](https://github.com/Welcome-Bot/welcome-bot/pull/286#pullrequestreview-758428708) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![approved] Approved [#13](https://github.com/Welcome-Bot/stats-api/pull/13#pullrequestreview-758118497) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+1. ![approved] Approved [#293](https://github.com/Welcome-Bot/welcome-bot/pull/293#pullrequestreview-760906725) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![pullrequestmerged] Merged PR [#36](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/36) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![approved] Approved [#36](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/36#pullrequestreview-760038026) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+4. ![star] Starred [mongodb-js/connect-mongodb-session](https://github.com/mongodb-js/connect-mongodb-session)
+5. ![pullrequestmerged] Merged PR [#35](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/35) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+6. ![approved] Approved [#35](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/35#pullrequestreview-758936475) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+7. ![approved] Approved [#289](https://github.com/Welcome-Bot/welcome-bot/pull/289#pullrequestreview-758589155) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![approved] Approved [#288](https://github.com/Welcome-Bot/welcome-bot/pull/288#pullrequestreview-758588589) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![approved] Approved [#287](https://github.com/Welcome-Bot/welcome-bot/pull/287#pullrequestreview-758588352) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![approved] Approved [#286](https://github.com/Welcome-Bot/welcome-bot/pull/286#pullrequestreview-758428708) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, September 22nd, 2021, 6:34:25 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, September 22nd, 2021, 7:00:38 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
