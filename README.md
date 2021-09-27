@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#30](https://github.com/abhijoshi2k/recent-activity/pull/30) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-2. ![approved] Approved [#30](https://github.com/abhijoshi2k/recent-activity/pull/30#pullrequestreview-763701460) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-3. ![pullrequestmerged] Merged PR [#112](https://github.com/Readme-Workflows/recent-activity/pull/112) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![approved] Approved [#112](https://github.com/Readme-Workflows/recent-activity/pull/112#pullrequestreview-763664589) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![star] Starred [felixge/node-dateformat](https://github.com/felixge/node-dateformat)
-6. ![approved] Approved [#15](https://github.com/Welcome-Bot/stats-api/pull/15#pullrequestreview-763663924) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
-7. ![approved] Approved [#6](https://github.com/DisList-site/DisList/pull/6#pullrequestreview-763592229) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-8. ![approved] Approved [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37#pullrequestreview-763410214) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-9. ![approved] Approved [#296](https://github.com/Welcome-Bot/welcome-bot/pull/296#pullrequestreview-763102084) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![approved] Approved [#297](https://github.com/Welcome-Bot/welcome-bot/pull/297#pullrequestreview-763101874) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![pullrequestclosed] Closed PR [#8](https://github.com/abhijoshi2k/abhijoshi2k/pull/8) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+2. ![pullrequestmerged] Merged PR [#30](https://github.com/abhijoshi2k/recent-activity/pull/30) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+3. ![approved] Approved [#30](https://github.com/abhijoshi2k/recent-activity/pull/30#pullrequestreview-763701460) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+4. ![pullrequestmerged] Merged PR [#112](https://github.com/Readme-Workflows/recent-activity/pull/112) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![approved] Approved [#112](https://github.com/Readme-Workflows/recent-activity/pull/112#pullrequestreview-763664589) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![star] Starred [felixge/node-dateformat](https://github.com/felixge/node-dateformat)
+7. ![approved] Approved [#15](https://github.com/Welcome-Bot/stats-api/pull/15#pullrequestreview-763663924) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+8. ![approved] Approved [#6](https://github.com/DisList-site/DisList/pull/6#pullrequestreview-763592229) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+9. ![approved] Approved [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37#pullrequestreview-763410214) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+10. ![approved] Approved [#296](https://github.com/Welcome-Bot/welcome-bot/pull/296#pullrequestreview-763102084) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, September 27th, 2021, 6:32:45 PM IST</b>
+<p align="center">Last refresh: <b>Monday, September 27th, 2021, 6:52:50 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
