@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#38](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/38) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. ![approved] Approved [#38](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/38#pullrequestreview-764644211) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. ![pullrequestmerged] Merged PR [#26](https://github.com/abhijoshi2k/react-tutorials-basics/pull/26) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-4. ![approved] Approved [#26](https://github.com/abhijoshi2k/react-tutorials-basics/pull/26#pullrequestreview-764643914) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-5. ![pullrequestmerged] Merged PR [#31](https://github.com/abhijoshi2k/recent-activity/pull/31) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-6. ![approved] Approved [#31](https://github.com/abhijoshi2k/recent-activity/pull/31#pullrequestreview-764510535) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-7. ![issueClosed] Closed issue [#114](https://github.com/Readme-Workflows/recent-activity/issues/114) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#113](https://github.com/Readme-Workflows/recent-activity/pull/113) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#113](https://github.com/Readme-Workflows/recent-activity/pull/113#pullrequestreview-764276558) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![pullrequestclosed] Closed PR [#8](https://github.com/abhijoshi2k/abhijoshi2k/pull/8) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+1. ![pullrequestmerged] Merged PR [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![approved] Approved [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37#pullrequestreview-764729118) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![pullrequestmerged] Merged PR [#32](https://github.com/abhijoshi2k/recent-activity/pull/32) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+4. ![approved] Approved [#32](https://github.com/abhijoshi2k/recent-activity/pull/32#pullrequestreview-764728591) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+5. ![pullrequestmerged] Merged PR [#7](https://github.com/Readme-Workflows/readme-replacer/pull/7) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+6. ![approved] Approved [#7](https://github.com/Readme-Workflows/readme-replacer/pull/7#pullrequestreview-764725140) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+7. ![pullrequestmerged] Merged PR [#38](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/38) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+8. ![approved] Approved [#38](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/38#pullrequestreview-764644211) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+9. ![pullrequestmerged] Merged PR [#26](https://github.com/abhijoshi2k/react-tutorials-basics/pull/26) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+10. ![approved] Approved [#26](https://github.com/abhijoshi2k/react-tutorials-basics/pull/26#pullrequestreview-764643914) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, September 28th, 2021, 1:54:05 AM IST</b>
+<p align="center">Last refresh: <b>Tuesday, September 28th, 2021, 2:08:59 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
