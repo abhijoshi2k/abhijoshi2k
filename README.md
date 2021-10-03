@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 5 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 | 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 1 | [abhijoshi2k/IEEE-SIESGST-website](https://github.com/abhijoshi2k/IEEE-SIESGST-website) | null |
 | 📦 | 0 | [abhijoshi2k/github-profile-trophy](https://github.com/abhijoshi2k/github-profile-trophy) | 🏆 Add dynamically generated GitHub Trophy on your readme |
-| 📦 | 0 | [abhijoshi2k/readme-replacer](https://github.com/abhijoshi2k/readme-replacer) | Replace data from template repository with dynamic data |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-2. ![approved] Approved [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37#pullrequestreview-764729118) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-3. ![pullrequestmerged] Merged PR [#32](https://github.com/abhijoshi2k/recent-activity/pull/32) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-4. ![approved] Approved [#32](https://github.com/abhijoshi2k/recent-activity/pull/32#pullrequestreview-764728591) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-5. ![pullrequestmerged] Merged PR [#7](https://github.com/Readme-Workflows/readme-replacer/pull/7) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-6. ![approved] Approved [#7](https://github.com/Readme-Workflows/readme-replacer/pull/7#pullrequestreview-764725140) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-7. ![pullrequestmerged] Merged PR [#38](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/38) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-8. ![approved] Approved [#38](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/38#pullrequestreview-764644211) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-9. ![pullrequestmerged] Merged PR [#26](https://github.com/abhijoshi2k/react-tutorials-basics/pull/26) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-10. ![approved] Approved [#26](https://github.com/abhijoshi2k/react-tutorials-basics/pull/26#pullrequestreview-764643914) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+1. ![pullrequestmerged] Merged PR [#33](https://github.com/abhijoshi2k/recent-activity/pull/33) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+2. ![approved] Approved [#33](https://github.com/abhijoshi2k/recent-activity/pull/33#pullrequestreview-769556480) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+3. ![pullrequestmerged] Merged PR [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+4. ![approved] Approved [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37#pullrequestreview-764729118) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+5. ![pullrequestmerged] Merged PR [#32](https://github.com/abhijoshi2k/recent-activity/pull/32) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+6. ![approved] Approved [#32](https://github.com/abhijoshi2k/recent-activity/pull/32#pullrequestreview-764728591) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+7. ![pullrequestmerged] Merged PR [#7](https://github.com/Readme-Workflows/readme-replacer/pull/7) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+8. ![approved] Approved [#7](https://github.com/Readme-Workflows/readme-replacer/pull/7#pullrequestreview-764725140) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+9. ![pullrequestmerged] Merged PR [#38](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/38) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+10. ![approved] Approved [#38](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/38#pullrequestreview-764644211) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, October 3rd, 2021, 1:10:36 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, October 3rd, 2021, 1:22:57 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
