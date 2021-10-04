@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#33](https://github.com/abhijoshi2k/recent-activity/pull/33) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-2. ![approved] Approved [#33](https://github.com/abhijoshi2k/recent-activity/pull/33#pullrequestreview-769556480) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-3. ![pullrequestmerged] Merged PR [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-4. ![approved] Approved [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37#pullrequestreview-764729118) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-5. ![pullrequestmerged] Merged PR [#32](https://github.com/abhijoshi2k/recent-activity/pull/32) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-6. ![approved] Approved [#32](https://github.com/abhijoshi2k/recent-activity/pull/32#pullrequestreview-764728591) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-7. ![pullrequestmerged] Merged PR [#7](https://github.com/Readme-Workflows/readme-replacer/pull/7) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-8. ![approved] Approved [#7](https://github.com/Readme-Workflows/readme-replacer/pull/7#pullrequestreview-764725140) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
-9. ![pullrequestmerged] Merged PR [#38](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/38) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-10. ![approved] Approved [#38](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/38#pullrequestreview-764644211) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![pullrequestmerged] Merged PR [#27](https://github.com/abhijoshi2k/react-tutorials-basics/pull/27) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+2. ![approved] Approved [#27](https://github.com/abhijoshi2k/react-tutorials-basics/pull/27#pullrequestreview-770633194) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+3. ![pullrequestmerged] Merged PR [#33](https://github.com/abhijoshi2k/recent-activity/pull/33) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+4. ![approved] Approved [#33](https://github.com/abhijoshi2k/recent-activity/pull/33#pullrequestreview-769556480) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+5. ![pullrequestmerged] Merged PR [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+6. ![approved] Approved [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37#pullrequestreview-764729118) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+7. ![pullrequestmerged] Merged PR [#32](https://github.com/abhijoshi2k/recent-activity/pull/32) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+8. ![approved] Approved [#32](https://github.com/abhijoshi2k/recent-activity/pull/32#pullrequestreview-764728591) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+9. ![pullrequestmerged] Merged PR [#7](https://github.com/Readme-Workflows/readme-replacer/pull/7) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
+10. ![approved] Approved [#7](https://github.com/Readme-Workflows/readme-replacer/pull/7#pullrequestreview-764725140) in [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, October 4th, 2021, 11:56:18 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, October 5th, 2021, 12:16:48 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
