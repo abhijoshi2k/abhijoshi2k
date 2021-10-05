@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#82](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/82) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. ![approved] Approved [#82](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/82#pullrequestreview-770970610) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![pullrequestmerged] Merged PR [#119](https://github.com/Readme-Workflows/recent-activity/pull/119) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![approved] Approved [#119](https://github.com/Readme-Workflows/recent-activity/pull/119#pullrequestreview-770969534) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullrequestmerged] Merged PR [#27](https://github.com/abhijoshi2k/react-tutorials-basics/pull/27) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-6. ![approved] Approved [#27](https://github.com/abhijoshi2k/react-tutorials-basics/pull/27#pullrequestreview-770633194) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-7. ![pullrequestmerged] Merged PR [#33](https://github.com/abhijoshi2k/recent-activity/pull/33) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-8. ![approved] Approved [#33](https://github.com/abhijoshi2k/recent-activity/pull/33#pullrequestreview-769556480) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-9. ![pullrequestmerged] Merged PR [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-10. ![approved] Approved [#37](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/37#pullrequestreview-764729118) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![pullrequestmerged] Merged PR [#39](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/39) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![approved] Approved [#39](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/39#pullrequestreview-771846967) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![pullrequestmerged] Merged PR [#82](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/82) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+4. ![approved] Approved [#82](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/82#pullrequestreview-770970610) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![pullrequestmerged] Merged PR [#119](https://github.com/Readme-Workflows/recent-activity/pull/119) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#119](https://github.com/Readme-Workflows/recent-activity/pull/119#pullrequestreview-770969534) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![pullrequestmerged] Merged PR [#27](https://github.com/abhijoshi2k/react-tutorials-basics/pull/27) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+8. ![approved] Approved [#27](https://github.com/abhijoshi2k/react-tutorials-basics/pull/27#pullrequestreview-770633194) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+9. ![pullrequestmerged] Merged PR [#33](https://github.com/abhijoshi2k/recent-activity/pull/33) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+10. ![approved] Approved [#33](https://github.com/abhijoshi2k/recent-activity/pull/33#pullrequestreview-769556480) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, October 5th, 2021, 11:56:03 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, October 6th, 2021, 12:16:38 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
