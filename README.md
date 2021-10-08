@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 5 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#28](https://github.com/abhijoshi2k/react-tutorials-basics/pull/28) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-2. ![approved] Approved [#28](https://github.com/abhijoshi2k/react-tutorials-basics/pull/28#pullrequestreview-774187302) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-3. ![pullrequestmerged] Merged PR [#39](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/39) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-4. ![approved] Approved [#39](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/39#pullrequestreview-771846967) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-5. ![pullrequestmerged] Merged PR [#82](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/82) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-6. ![approved] Approved [#82](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/82#pullrequestreview-770970610) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-7. ![pullrequestmerged] Merged PR [#119](https://github.com/Readme-Workflows/recent-activity/pull/119) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#119](https://github.com/Readme-Workflows/recent-activity/pull/119#pullrequestreview-770969534) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![pullrequestmerged] Merged PR [#27](https://github.com/abhijoshi2k/react-tutorials-basics/pull/27) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
-10. ![approved] Approved [#27](https://github.com/abhijoshi2k/react-tutorials-basics/pull/27#pullrequestreview-770633194) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+1. ![pullrequestmerged] Merged PR [#40](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/40) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+2. ![approved] Approved [#40](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/40#pullrequestreview-775245459) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+3. ![pullrequestmerged] Merged PR [#28](https://github.com/abhijoshi2k/react-tutorials-basics/pull/28) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+4. ![approved] Approved [#28](https://github.com/abhijoshi2k/react-tutorials-basics/pull/28#pullrequestreview-774187302) in [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics)
+5. ![pullrequestmerged] Merged PR [#39](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/39) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+6. ![approved] Approved [#39](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/39#pullrequestreview-771846967) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+7. ![pullrequestmerged] Merged PR [#82](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/82) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+8. ![approved] Approved [#82](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/82#pullrequestreview-770970610) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![pullrequestmerged] Merged PR [#119](https://github.com/Readme-Workflows/recent-activity/pull/119) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![approved] Approved [#119](https://github.com/Readme-Workflows/recent-activity/pull/119#pullrequestreview-770969534) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, October 8th, 2021, 10:24:32 PM IST</b>
+<p align="center">Last refresh: <b>Friday, October 8th, 2021, 10:52:42 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
