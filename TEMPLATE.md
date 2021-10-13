@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#85](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/85) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. ![approved] Approved [#85](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/85#pullrequestreview-775756540) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![pullrequestmerged] Merged PR [#84](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/84) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![approved] Approved [#84](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/84#pullrequestreview-775756369) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. ![pullrequestmerged] Merged PR [#36](https://github.com/abhijoshi2k/recent-activity/pull/36) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-6. ![approved] Approved [#36](https://github.com/abhijoshi2k/recent-activity/pull/36#pullrequestreview-775658192) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-7. ![pullrequestmerged] Merged PR [#120](https://github.com/Readme-Workflows/recent-activity/pull/120) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#120](https://github.com/Readme-Workflows/recent-activity/pull/120#pullrequestreview-775638387) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![pullrequestmerged] Merged PR [#40](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/40) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
-10. ![approved] Approved [#40](https://github.com/abhijoshi2k/passport-auth-google-microsoft/pull/40#pullrequestreview-775245459) in [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft)
+1. ![pullrequestmerged] Merged PR [#86](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/86) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+2. ![approved] Approved [#86](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/86#pullrequestreview-778040465) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+3. ![pullrequestmerged] Merged PR [#87](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/87) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+4. ![approved] Approved [#87](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/87#pullrequestreview-778039442) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+5. ![pullrequestmerged] Merged PR [#85](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/85) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+6. ![approved] Approved [#85](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/85#pullrequestreview-775756540) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+7. ![pullrequestmerged] Merged PR [#84](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/84) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+8. ![approved] Approved [#84](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/84#pullrequestreview-775756369) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![pullrequestmerged] Merged PR [#36](https://github.com/abhijoshi2k/recent-activity/pull/36) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+10. ![approved] Approved [#36](https://github.com/abhijoshi2k/recent-activity/pull/36#pullrequestreview-775658192) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, October 13th, 2021, 8:17:19 AM IST</b>
+<p align="center">Last refresh: <b>Wednesday, October 13th, 2021, 8:29:38 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
