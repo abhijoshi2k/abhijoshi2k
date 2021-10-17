@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#86](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/86) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-2. ![approved] Approved [#86](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/86#pullrequestreview-778040465) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-3. ![pullrequestmerged] Merged PR [#87](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/87) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-4. ![approved] Approved [#87](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/87#pullrequestreview-778039442) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-5. ![pullrequestmerged] Merged PR [#85](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/85) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-6. ![approved] Approved [#85](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/85#pullrequestreview-775756540) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-7. ![pullrequestmerged] Merged PR [#84](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/84) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-8. ![approved] Approved [#84](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/84#pullrequestreview-775756369) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-9. ![pullrequestmerged] Merged PR [#36](https://github.com/abhijoshi2k/recent-activity/pull/36) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-10. ![approved] Approved [#36](https://github.com/abhijoshi2k/recent-activity/pull/36#pullrequestreview-775658192) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+1. ![pullrequestmerged] Merged PR [#124](https://github.com/Readme-Workflows/recent-activity/pull/124) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![approved] Approved [#124](https://github.com/Readme-Workflows/recent-activity/pull/124#pullrequestreview-781415915) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullrequestmerged] Merged PR [#123](https://github.com/Readme-Workflows/recent-activity/pull/123) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#123](https://github.com/Readme-Workflows/recent-activity/pull/123#pullrequestreview-781415618) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#122](https://github.com/Readme-Workflows/recent-activity/pull/122) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#122](https://github.com/Readme-Workflows/recent-activity/pull/122#pullrequestreview-781415567) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![pullrequestmerged] Merged PR [#86](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/86) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+8. ![approved] Approved [#86](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/86#pullrequestreview-778040465) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+9. ![pullrequestmerged] Merged PR [#87](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/87) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+10. ![approved] Approved [#87](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/87#pullrequestreview-778039442) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, October 17th, 2021, 12:31:14 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, October 17th, 2021, 12:52:28 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
