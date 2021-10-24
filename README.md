@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#37](https://github.com/abhijoshi2k/recent-activity/pull/37) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-2. ![approved] Approved [#37](https://github.com/abhijoshi2k/recent-activity/pull/37#pullrequestreview-781616254) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-3. ![pullrequestmerged] Merged PR [#124](https://github.com/Readme-Workflows/recent-activity/pull/124) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![approved] Approved [#124](https://github.com/Readme-Workflows/recent-activity/pull/124#pullrequestreview-781415915) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullrequestmerged] Merged PR [#123](https://github.com/Readme-Workflows/recent-activity/pull/123) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![approved] Approved [#123](https://github.com/Readme-Workflows/recent-activity/pull/123#pullrequestreview-781415618) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![pullrequestmerged] Merged PR [#122](https://github.com/Readme-Workflows/recent-activity/pull/122) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#122](https://github.com/Readme-Workflows/recent-activity/pull/122#pullrequestreview-781415567) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![pullrequestmerged] Merged PR [#86](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/86) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
-10. ![approved] Approved [#86](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0/pull/86#pullrequestreview-778040465) in [ieeesiesgst/IEEE-SIESGST-website-2.0](https://github.com/ieeesiesgst/IEEE-SIESGST-website-2.0)
+1. ![pullrequestmerged] Merged PR [#126](https://github.com/Readme-Workflows/recent-activity/pull/126) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![approved] Approved [#126](https://github.com/Readme-Workflows/recent-activity/pull/126#pullrequestreview-787477166) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullrequestmerged] Merged PR [#125](https://github.com/Readme-Workflows/recent-activity/pull/125) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#125](https://github.com/Readme-Workflows/recent-activity/pull/125#pullrequestreview-787477131) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#37](https://github.com/abhijoshi2k/recent-activity/pull/37) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+6. ![approved] Approved [#37](https://github.com/abhijoshi2k/recent-activity/pull/37#pullrequestreview-781616254) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+7. ![pullrequestmerged] Merged PR [#124](https://github.com/Readme-Workflows/recent-activity/pull/124) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![approved] Approved [#124](https://github.com/Readme-Workflows/recent-activity/pull/124#pullrequestreview-781415915) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![pullrequestmerged] Merged PR [#123](https://github.com/Readme-Workflows/recent-activity/pull/123) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![approved] Approved [#123](https://github.com/Readme-Workflows/recent-activity/pull/123#pullrequestreview-781415618) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, October 24th, 2021, 12:31:09 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, October 24th, 2021, 12:52:44 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
