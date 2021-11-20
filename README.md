@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 0 | [abhijoshi2k/github-profile-trophy](https://github.com/abhijoshi2k/github-profile-trophy) | 🏆 Add dynamically generated GitHub Trophy on your readme |
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
-| 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#428](https://github.com/maxmind/GeoIP2-node/issues/428) in [maxmind/GeoIP2-node](https://github.com/maxmind/GeoIP2-node)
-2. ![issueOpened] Opened issue [#15](https://github.com/joyent/node-ip6addr/issues/15) in [joyent/node-ip6addr](https://github.com/joyent/node-ip6addr)
-3. ![fork] Forked [abhijoshi2k/node-ip6addr](https://github.com/abhijoshi2k/node-ip6addr) from [joyent/node-ip6addr](https://github.com/joyent/node-ip6addr)
-4. ![pullrequestmerged] Merged PR [#42](https://github.com/abhijoshi2k/recent-activity/pull/42) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-5. ![approved] Approved [#42](https://github.com/abhijoshi2k/recent-activity/pull/42#pullrequestreview-805472284) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-6. ![pullrequestmerged] Merged PR [#131](https://github.com/Readme-Workflows/recent-activity/pull/131) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![approved] Approved [#131](https://github.com/Readme-Workflows/recent-activity/pull/131#pullrequestreview-805439335) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#41](https://github.com/abhijoshi2k/recent-activity/pull/41) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-9. ![approved] Approved [#41](https://github.com/abhijoshi2k/recent-activity/pull/41#pullrequestreview-799670551) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-10. ![pullrequestmerged] Merged PR [#130](https://github.com/Readme-Workflows/recent-activity/pull/130) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![issueClosed] Closed issue [#132](https://github.com/Readme-Workflows/recent-activity/issues/132) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![pullrequestopened] Opened PR [#2](https://github.com/DeviousLab/DeviousLab/pull/2) in [DeviousLab/DeviousLab](https://github.com/DeviousLab/DeviousLab)
+3. ![fork] Forked [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) from [DeviousLab/DeviousLab](https://github.com/DeviousLab/DeviousLab)
+4. ![issueOpened] Opened issue [#428](https://github.com/maxmind/GeoIP2-node/issues/428) in [maxmind/GeoIP2-node](https://github.com/maxmind/GeoIP2-node)
+5. ![issueOpened] Opened issue [#15](https://github.com/joyent/node-ip6addr/issues/15) in [joyent/node-ip6addr](https://github.com/joyent/node-ip6addr)
+6. ![fork] Forked [abhijoshi2k/node-ip6addr](https://github.com/abhijoshi2k/node-ip6addr) from [joyent/node-ip6addr](https://github.com/joyent/node-ip6addr)
+7. ![pullrequestmerged] Merged PR [#42](https://github.com/abhijoshi2k/recent-activity/pull/42) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+8. ![approved] Approved [#42](https://github.com/abhijoshi2k/recent-activity/pull/42#pullrequestreview-805472284) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+9. ![pullrequestmerged] Merged PR [#131](https://github.com/Readme-Workflows/recent-activity/pull/131) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![approved] Approved [#131](https://github.com/Readme-Workflows/recent-activity/pull/131#pullrequestreview-805439335) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, November 20th, 2021, 1:19:50 PM IST</b>
+<p align="center">Last refresh: <b>Saturday, November 20th, 2021, 1:38:56 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h1><b>Projects:</b></h1>
