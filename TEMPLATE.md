@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [TEDxSIESGST/website](https://github.com/TEDxSIESGST/website)
-2. ![pullrequestmerged] Merged PR [#134](https://github.com/Readme-Workflows/recent-activity/pull/134) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![approved] Approved [#134](https://github.com/Readme-Workflows/recent-activity/pull/134#pullrequestreview-811886863) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullrequestmerged] Merged PR [#133](https://github.com/Readme-Workflows/recent-activity/pull/133) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#133](https://github.com/Readme-Workflows/recent-activity/pull/133#pullrequestreview-811886793) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![issueClosed] Closed issue [#132](https://github.com/Readme-Workflows/recent-activity/issues/132) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![pullrequestopened] Opened PR [#2](https://github.com/DeviousLab/DeviousLab/pull/2) in [DeviousLab/DeviousLab](https://github.com/DeviousLab/DeviousLab)
-8. ![fork] Forked [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) from [DeviousLab/DeviousLab](https://github.com/DeviousLab/DeviousLab)
-9. ![issueOpened] Opened issue [#428](https://github.com/maxmind/GeoIP2-node/issues/428) in [maxmind/GeoIP2-node](https://github.com/maxmind/GeoIP2-node)
-10. ![issueOpened] Opened issue [#15](https://github.com/joyent/node-ip6addr/issues/15) in [joyent/node-ip6addr](https://github.com/joyent/node-ip6addr)
+1. ![pullrequestclosed] Closed PR [#10](https://github.com/abhijoshi2k/abhijoshi2k/pull/10) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+2. ![star] Starred [TEDxSIESGST/website](https://github.com/TEDxSIESGST/website)
+3. ![pullrequestmerged] Merged PR [#134](https://github.com/Readme-Workflows/recent-activity/pull/134) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#134](https://github.com/Readme-Workflows/recent-activity/pull/134#pullrequestreview-811886863) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#133](https://github.com/Readme-Workflows/recent-activity/pull/133) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#133](https://github.com/Readme-Workflows/recent-activity/pull/133#pullrequestreview-811886793) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![issueClosed] Closed issue [#132](https://github.com/Readme-Workflows/recent-activity/issues/132) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![pullrequestopened] Opened PR [#2](https://github.com/DeviousLab/DeviousLab/pull/2) in [DeviousLab/DeviousLab](https://github.com/DeviousLab/DeviousLab)
+9. ![fork] Forked [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) from [DeviousLab/DeviousLab](https://github.com/DeviousLab/DeviousLab)
+10. ![issueOpened] Opened issue [#428](https://github.com/maxmind/GeoIP2-node/issues/428) in [maxmind/GeoIP2-node](https://github.com/maxmind/GeoIP2-node)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, November 21st, 2021, 11:42:09 PM IST</b>
+<p align="center">Last refresh: <b>Monday, November 22nd, 2021, 12:06:01 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
