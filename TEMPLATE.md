@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#135](https://github.com/Readme-Workflows/recent-activity/pull/135) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![approved] Approved [#135](https://github.com/Readme-Workflows/recent-activity/pull/135#pullrequestreview-817188341) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullrequestclosed] Closed PR [#10](https://github.com/abhijoshi2k/abhijoshi2k/pull/10) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-4. ![star] Starred [TEDxSIESGST/website](https://github.com/TEDxSIESGST/website)
-5. ![pullrequestmerged] Merged PR [#134](https://github.com/Readme-Workflows/recent-activity/pull/134) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![approved] Approved [#134](https://github.com/Readme-Workflows/recent-activity/pull/134#pullrequestreview-811886863) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![pullrequestmerged] Merged PR [#133](https://github.com/Readme-Workflows/recent-activity/pull/133) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#133](https://github.com/Readme-Workflows/recent-activity/pull/133#pullrequestreview-811886793) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![issueClosed] Closed issue [#132](https://github.com/Readme-Workflows/recent-activity/issues/132) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![pullrequestopened] Opened PR [#2](https://github.com/DeviousLab/DeviousLab/pull/2) in [DeviousLab/DeviousLab](https://github.com/DeviousLab/DeviousLab)
+1. ![issueOpened] Opened issue [#338](https://github.com/tj/connect-redis/issues/338) in [tj/connect-redis](https://github.com/tj/connect-redis)
+2. ![pullrequestmerged] Merged PR [#135](https://github.com/Readme-Workflows/recent-activity/pull/135) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![approved] Approved [#135](https://github.com/Readme-Workflows/recent-activity/pull/135#pullrequestreview-817188341) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullrequestclosed] Closed PR [#10](https://github.com/abhijoshi2k/abhijoshi2k/pull/10) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+5. ![star] Starred [TEDxSIESGST/website](https://github.com/TEDxSIESGST/website)
+6. ![pullrequestmerged] Merged PR [#134](https://github.com/Readme-Workflows/recent-activity/pull/134) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![approved] Approved [#134](https://github.com/Readme-Workflows/recent-activity/pull/134#pullrequestreview-811886863) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![pullrequestmerged] Merged PR [#133](https://github.com/Readme-Workflows/recent-activity/pull/133) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#133](https://github.com/Readme-Workflows/recent-activity/pull/133#pullrequestreview-811886793) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![issueClosed] Closed issue [#132](https://github.com/Readme-Workflows/recent-activity/issues/132) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, November 30th, 2021, 2:10:50 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, November 30th, 2021, 2:19:41 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
