@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/connect-redis](https://github.com/abhijoshi2k/connect-redis) | Redis session store for Connect |
 | 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
-| 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#341](https://github.com/tj/connect-redis/issues/341) in [tj/connect-redis](https://github.com/tj/connect-redis)
-2. ![pullrequestmerged] Merged PR [#141](https://github.com/Readme-Workflows/recent-activity/pull/141) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![approved] Approved [#141](https://github.com/Readme-Workflows/recent-activity/pull/141#pullrequestreview-829606925) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullrequestmerged] Merged PR [#140](https://github.com/Readme-Workflows/recent-activity/pull/140) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#140](https://github.com/Readme-Workflows/recent-activity/pull/140#pullrequestreview-829606795) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![approved] Approved [#28](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/28#pullrequestreview-825644186) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
-7. ![issueOpened] Opened issue [#249](https://github.com/w3c/reporting/issues/249) in [w3c/reporting](https://github.com/w3c/reporting)
-8. ![pullrequestmerged] Merged PR [#45](https://github.com/abhijoshi2k/recent-activity/pull/45) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-9. ![approved] Approved [#45](https://github.com/abhijoshi2k/recent-activity/pull/45#pullrequestreview-823408620) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-10. ![pullrequestmerged] Merged PR [#136](https://github.com/Readme-Workflows/recent-activity/pull/136) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![fork] Forked [abhijoshi2k/connect-redis](https://github.com/abhijoshi2k/connect-redis) from [tj/connect-redis](https://github.com/tj/connect-redis)
+2. ![issueOpened] Opened issue [#341](https://github.com/tj/connect-redis/issues/341) in [tj/connect-redis](https://github.com/tj/connect-redis)
+3. ![pullrequestmerged] Merged PR [#141](https://github.com/Readme-Workflows/recent-activity/pull/141) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#141](https://github.com/Readme-Workflows/recent-activity/pull/141#pullrequestreview-829606925) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#140](https://github.com/Readme-Workflows/recent-activity/pull/140) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#140](https://github.com/Readme-Workflows/recent-activity/pull/140#pullrequestreview-829606795) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![approved] Approved [#28](https://github.com/CSI-SIESGST/csi-siesgst.github.io/pull/28#pullrequestreview-825644186) in [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io)
+8. ![issueOpened] Opened issue [#249](https://github.com/w3c/reporting/issues/249) in [w3c/reporting](https://github.com/w3c/reporting)
+9. ![pullrequestmerged] Merged PR [#45](https://github.com/abhijoshi2k/recent-activity/pull/45) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+10. ![approved] Approved [#45](https://github.com/abhijoshi2k/recent-activity/pull/45#pullrequestreview-823408620) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, December 16th, 2021, 4:24:28 PM IST</b>
+<p align="center">Last refresh: <b>Thursday, December 16th, 2021, 4:45:49 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
