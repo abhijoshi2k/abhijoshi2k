@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/connect-redis](https://github.com/abhijoshi2k/connect-redis) | Redis session store for Connect |
 | 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 2 | [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io) | The official website of CSI-SIESGST |
-| 📦 | 0 | [abhijoshi2k/github-profile-trophy](https://github.com/abhijoshi2k/github-profile-trophy) | 🏆 Add dynamically generated GitHub Trophy on your readme |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#142](https://github.com/Readme-Workflows/recent-activity/pull/142) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![approved] Approved [#142](https://github.com/Readme-Workflows/recent-activity/pull/142#pullrequestreview-835864441) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullrequestmerged] Merged PR [#143](https://github.com/Readme-Workflows/recent-activity/pull/143) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![approved] Approved [#143](https://github.com/Readme-Workflows/recent-activity/pull/143#pullrequestreview-835864114) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullrequestopened] Opened PR [#342](https://github.com/tj/connect-redis/pull/342) in [tj/connect-redis](https://github.com/tj/connect-redis)
-6. ![fork] Forked [abhijoshi2k/connect-redis](https://github.com/abhijoshi2k/connect-redis) from [tj/connect-redis](https://github.com/tj/connect-redis)
-7. ![issueOpened] Opened issue [#341](https://github.com/tj/connect-redis/issues/341) in [tj/connect-redis](https://github.com/tj/connect-redis)
-8. ![pullrequestmerged] Merged PR [#141](https://github.com/Readme-Workflows/recent-activity/pull/141) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#141](https://github.com/Readme-Workflows/recent-activity/pull/141#pullrequestreview-829606925) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![pullrequestmerged] Merged PR [#140](https://github.com/Readme-Workflows/recent-activity/pull/140) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![issueClosed] Closed issue [#341](https://github.com/tj/connect-redis/issues/341) in [tj/connect-redis](https://github.com/tj/connect-redis)
+2. ![pullrequestmerged] Merged PR [#142](https://github.com/Readme-Workflows/recent-activity/pull/142) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![approved] Approved [#142](https://github.com/Readme-Workflows/recent-activity/pull/142#pullrequestreview-835864441) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullrequestmerged] Merged PR [#143](https://github.com/Readme-Workflows/recent-activity/pull/143) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![approved] Approved [#143](https://github.com/Readme-Workflows/recent-activity/pull/143#pullrequestreview-835864114) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![pullrequestopened] Opened PR [#342](https://github.com/tj/connect-redis/pull/342) in [tj/connect-redis](https://github.com/tj/connect-redis)
+7. ![fork] Forked [abhijoshi2k/connect-redis](https://github.com/abhijoshi2k/connect-redis) from [tj/connect-redis](https://github.com/tj/connect-redis)
+8. ![issueOpened] Opened issue [#341](https://github.com/tj/connect-redis/issues/341) in [tj/connect-redis](https://github.com/tj/connect-redis)
+9. ![pullrequestmerged] Merged PR [#141](https://github.com/Readme-Workflows/recent-activity/pull/141) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![approved] Approved [#141](https://github.com/Readme-Workflows/recent-activity/pull/141#pullrequestreview-829606925) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, December 22nd, 2021, 1:05:50 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, December 22nd, 2021, 1:23:32 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
