@@ -4,6 +4,7 @@ settings:
   # commit_name: "abhijoshi2k"
   # commit_email: "abhijoshi2k@gmail.com"
   disabled_events:
+    - "comments"
   date:
     timezone: "Asia/Kolkata"
     text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
