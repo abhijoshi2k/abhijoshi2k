@@ -31,30 +31,30 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/golang-coursera](https://github.com/abhijoshi2k/golang-coursera) | Coursera specialization of Golang |
 | 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
-| 📦 | 2 | [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io) | The official website of CSI-SIESGST |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestclosed] Closed PR [#11](https://github.com/abhijoshi2k/abhijoshi2k/pull/11) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-2. ![pullrequestmerged] Merged PR [#49](https://github.com/abhijoshi2k/recent-activity/pull/49) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-3. ![approved] Approved [#49](https://github.com/abhijoshi2k/recent-activity/pull/49#pullrequestreview-847210924) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-4. ![pullrequestmerged] Merged PR [#48](https://github.com/abhijoshi2k/recent-activity/pull/48) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-5. ![approved] Approved [#48](https://github.com/abhijoshi2k/recent-activity/pull/48#pullrequestreview-842413992) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-6. ![pullrequestmerged] Merged PR [#145](https://github.com/Readme-Workflows/recent-activity/pull/145) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![pullrequestmerged] Merged PR [#144](https://github.com/Readme-Workflows/recent-activity/pull/144) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![approved] Approved [#144](https://github.com/Readme-Workflows/recent-activity/pull/144#pullrequestreview-842386303) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![issueClosed] Closed issue [#341](https://github.com/tj/connect-redis/issues/341) in [tj/connect-redis](https://github.com/tj/connect-redis)
-10. ![pullrequestmerged] Merged PR [#142](https://github.com/Readme-Workflows/recent-activity/pull/142) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![repoCreated] Created new repository [abhijoshi2k/golang-coursera](https://github.com/abhijoshi2k/golang-coursera)
+2. ![pullrequestclosed] Closed PR [#11](https://github.com/abhijoshi2k/abhijoshi2k/pull/11) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+3. ![pullrequestmerged] Merged PR [#49](https://github.com/abhijoshi2k/recent-activity/pull/49) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+4. ![approved] Approved [#49](https://github.com/abhijoshi2k/recent-activity/pull/49#pullrequestreview-847210924) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+5. ![pullrequestmerged] Merged PR [#48](https://github.com/abhijoshi2k/recent-activity/pull/48) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+6. ![approved] Approved [#48](https://github.com/abhijoshi2k/recent-activity/pull/48#pullrequestreview-842413992) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+7. ![pullrequestmerged] Merged PR [#145](https://github.com/Readme-Workflows/recent-activity/pull/145) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![pullrequestmerged] Merged PR [#144](https://github.com/Readme-Workflows/recent-activity/pull/144) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#144](https://github.com/Readme-Workflows/recent-activity/pull/144#pullrequestreview-842386303) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![issueClosed] Closed issue [#341](https://github.com/tj/connect-redis/issues/341) in [tj/connect-redis](https://github.com/tj/connect-redis)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, January 10th, 2022, 11:10:03 AM IST</b>
+<p align="center">Last refresh: <b>Monday, January 10th, 2022, 11:22:34 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
