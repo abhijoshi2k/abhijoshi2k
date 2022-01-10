@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [abhijoshi2k/golang-coursera](https://github.com/abhijoshi2k/golang-coursera)
-2. ![pullrequestclosed] Closed PR [#11](https://github.com/abhijoshi2k/abhijoshi2k/pull/11) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-3. ![pullrequestmerged] Merged PR [#49](https://github.com/abhijoshi2k/recent-activity/pull/49) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-4. ![approved] Approved [#49](https://github.com/abhijoshi2k/recent-activity/pull/49#pullrequestreview-847210924) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-5. ![pullrequestmerged] Merged PR [#48](https://github.com/abhijoshi2k/recent-activity/pull/48) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-6. ![approved] Approved [#48](https://github.com/abhijoshi2k/recent-activity/pull/48#pullrequestreview-842413992) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-7. ![pullrequestmerged] Merged PR [#145](https://github.com/Readme-Workflows/recent-activity/pull/145) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#144](https://github.com/Readme-Workflows/recent-activity/pull/144) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#144](https://github.com/Readme-Workflows/recent-activity/pull/144#pullrequestreview-842386303) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![issueClosed] Closed issue [#341](https://github.com/tj/connect-redis/issues/341) in [tj/connect-redis](https://github.com/tj/connect-redis)
+1. ![pullrequestmerged] Merged PR [#3](https://github.com/Readme-Workflows/activity-template/pull/3) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+2. ![approved] Approved [#3](https://github.com/Readme-Workflows/activity-template/pull/3#pullrequestreview-848318074) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+3. ![repoCreated] Created new repository [abhijoshi2k/golang-coursera](https://github.com/abhijoshi2k/golang-coursera)
+4. ![pullrequestclosed] Closed PR [#11](https://github.com/abhijoshi2k/abhijoshi2k/pull/11) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+5. ![pullrequestmerged] Merged PR [#49](https://github.com/abhijoshi2k/recent-activity/pull/49) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+6. ![approved] Approved [#49](https://github.com/abhijoshi2k/recent-activity/pull/49#pullrequestreview-847210924) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+7. ![pullrequestmerged] Merged PR [#48](https://github.com/abhijoshi2k/recent-activity/pull/48) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+8. ![approved] Approved [#48](https://github.com/abhijoshi2k/recent-activity/pull/48#pullrequestreview-842413992) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+9. ![pullrequestmerged] Merged PR [#145](https://github.com/Readme-Workflows/recent-activity/pull/145) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![pullrequestmerged] Merged PR [#144](https://github.com/Readme-Workflows/recent-activity/pull/144) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, January 11th, 2022, 2:09:30 AM IST</b>
+<p align="center">Last refresh: <b>Tuesday, January 11th, 2022, 2:21:57 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
