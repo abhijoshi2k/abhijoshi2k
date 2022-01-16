@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#18586](https://github.com/FortAwesome/Font-Awesome/issues/18586) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-2. ![issueOpened] Opened issue [#1063](https://github.com/oliver-moran/jimp/issues/1063) in [oliver-moran/jimp](https://github.com/oliver-moran/jimp)
-3. ![pullrequestmerged] Merged PR [#3](https://github.com/Readme-Workflows/activity-template/pull/3) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
-4. ![approved] Approved [#3](https://github.com/Readme-Workflows/activity-template/pull/3#pullrequestreview-848318074) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
-5. ![repoCreated] Created new repository [abhijoshi2k/golang-coursera](https://github.com/abhijoshi2k/golang-coursera)
-6. ![pullrequestclosed] Closed PR [#11](https://github.com/abhijoshi2k/abhijoshi2k/pull/11) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-7. ![pullrequestmerged] Merged PR [#49](https://github.com/abhijoshi2k/recent-activity/pull/49) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-8. ![approved] Approved [#49](https://github.com/abhijoshi2k/recent-activity/pull/49#pullrequestreview-847210924) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-9. ![pullrequestmerged] Merged PR [#48](https://github.com/abhijoshi2k/recent-activity/pull/48) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-10. ![approved] Approved [#48](https://github.com/abhijoshi2k/recent-activity/pull/48#pullrequestreview-842413992) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+1. ![pullrequestmerged] Merged PR [#148](https://github.com/Readme-Workflows/recent-activity/pull/148) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![approved] Approved [#148](https://github.com/Readme-Workflows/recent-activity/pull/148#pullrequestreview-853647319) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullrequestmerged] Merged PR [#147](https://github.com/Readme-Workflows/recent-activity/pull/147) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![approved] Approved [#147](https://github.com/Readme-Workflows/recent-activity/pull/147#pullrequestreview-853647252) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![issueOpened] Opened issue [#18586](https://github.com/FortAwesome/Font-Awesome/issues/18586) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+6. ![issueOpened] Opened issue [#1063](https://github.com/oliver-moran/jimp/issues/1063) in [oliver-moran/jimp](https://github.com/oliver-moran/jimp)
+7. ![pullrequestmerged] Merged PR [#3](https://github.com/Readme-Workflows/activity-template/pull/3) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+8. ![approved] Approved [#3](https://github.com/Readme-Workflows/activity-template/pull/3#pullrequestreview-848318074) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+9. ![repoCreated] Created new repository [abhijoshi2k/golang-coursera](https://github.com/abhijoshi2k/golang-coursera)
+10. ![pullrequestclosed] Closed PR [#11](https://github.com/abhijoshi2k/abhijoshi2k/pull/11) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Sunday, January 16th, 2022, 2:19:51 PM IST</b>
+<p align="center">Last refresh: <b>Sunday, January 16th, 2022, 2:37:44 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
