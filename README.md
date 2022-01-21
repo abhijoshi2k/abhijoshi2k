@@ -31,10 +31,10 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 | 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 2 | [CSI-SIESGST/csi-siesgst.github.io](https://github.com/CSI-SIESGST/csi-siesgst.github.io) | The official website of CSI-SIESGST |
-| 📦 | 1 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 
 ---
 
@@ -54,7 +54,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, January 21st, 2022, 10:30:39 PM IST</b>
+<p align="center">Last refresh: <b>Friday, January 21st, 2022, 10:56:49 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
