@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![repoCreated] Created new repository [abhijoshi2k/jwt-auth-nodejs](https://github.com/abhijoshi2k/jwt-auth-nodejs)
-2. ![pullrequestmerged] Merged PR [#51](https://github.com/abhijoshi2k/recent-activity/pull/51) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-3. ![approved] Approved [#51](https://github.com/abhijoshi2k/recent-activity/pull/51#pullrequestreview-860318021) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-4. ![pullrequestmerged] Merged PR [#149](https://github.com/Readme-Workflows/recent-activity/pull/149) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#149](https://github.com/Readme-Workflows/recent-activity/pull/149#pullrequestreview-860284573) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![pullrequestmerged] Merged PR [#150](https://github.com/Readme-Workflows/recent-activity/pull/150) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![approved] Approved [#150](https://github.com/Readme-Workflows/recent-activity/pull/150#pullrequestreview-860284529) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#148](https://github.com/Readme-Workflows/recent-activity/pull/148) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#148](https://github.com/Readme-Workflows/recent-activity/pull/148#pullrequestreview-853647319) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![pullrequestmerged] Merged PR [#147](https://github.com/Readme-Workflows/recent-activity/pull/147) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![issueClosed] Closed issue [#1063](https://github.com/oliver-moran/jimp/issues/1063) in [oliver-moran/jimp](https://github.com/oliver-moran/jimp)
+2. ![repoCreated] Created new repository [abhijoshi2k/jwt-auth-nodejs](https://github.com/abhijoshi2k/jwt-auth-nodejs)
+3. ![pullrequestmerged] Merged PR [#51](https://github.com/abhijoshi2k/recent-activity/pull/51) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+4. ![approved] Approved [#51](https://github.com/abhijoshi2k/recent-activity/pull/51#pullrequestreview-860318021) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+5. ![pullrequestmerged] Merged PR [#149](https://github.com/Readme-Workflows/recent-activity/pull/149) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![approved] Approved [#149](https://github.com/Readme-Workflows/recent-activity/pull/149#pullrequestreview-860284573) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![pullrequestmerged] Merged PR [#150](https://github.com/Readme-Workflows/recent-activity/pull/150) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![approved] Approved [#150](https://github.com/Readme-Workflows/recent-activity/pull/150#pullrequestreview-860284529) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![pullrequestmerged] Merged PR [#148](https://github.com/Readme-Workflows/recent-activity/pull/148) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![approved] Approved [#148](https://github.com/Readme-Workflows/recent-activity/pull/148#pullrequestreview-853647319) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, January 29th, 2022, 5:19:27 PM IST</b>
+<p align="center">Last refresh: <b>Saturday, January 29th, 2022, 5:39:25 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
