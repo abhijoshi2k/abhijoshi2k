@@ -39,22 +39,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#152](https://github.com/Readme-Workflows/recent-activity/pull/152#pullrequestreview-873749724) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![pullrequestclosed] Closed PR [#12](https://github.com/abhijoshi2k/abhijoshi2k/pull/12) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-3. ![pullrequestmerged] Merged PR [#52](https://github.com/abhijoshi2k/recent-activity/pull/52) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-4. ![approved] Approved [#52](https://github.com/abhijoshi2k/recent-activity/pull/52#pullrequestreview-867652871) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-5. ![pullrequestmerged] Merged PR [#151](https://github.com/Readme-Workflows/recent-activity/pull/151) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![approved] Approved [#151](https://github.com/Readme-Workflows/recent-activity/pull/151#pullrequestreview-867381358) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![issueClosed] Closed issue [#1063](https://github.com/oliver-moran/jimp/issues/1063) in [oliver-moran/jimp](https://github.com/oliver-moran/jimp)
-8. ![repoCreated] Created new repository [abhijoshi2k/jwt-auth-nodejs](https://github.com/abhijoshi2k/jwt-auth-nodejs)
-9. ![pullrequestmerged] Merged PR [#51](https://github.com/abhijoshi2k/recent-activity/pull/51) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-10. ![approved] Approved [#51](https://github.com/abhijoshi2k/recent-activity/pull/51#pullrequestreview-860318021) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+1. ![pullrequestmerged] Merged PR [#53](https://github.com/abhijoshi2k/recent-activity/pull/53) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+2. ![approved] Approved [#53](https://github.com/abhijoshi2k/recent-activity/pull/53#pullrequestreview-873923776) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+3. ![approved] Approved [#53](https://github.com/abhijoshi2k/recent-activity/pull/53#pullrequestreview-873923758) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+4. ![approved] Approved [#152](https://github.com/Readme-Workflows/recent-activity/pull/152#pullrequestreview-873749724) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestclosed] Closed PR [#12](https://github.com/abhijoshi2k/abhijoshi2k/pull/12) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+6. ![pullrequestmerged] Merged PR [#52](https://github.com/abhijoshi2k/recent-activity/pull/52) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+7. ![approved] Approved [#52](https://github.com/abhijoshi2k/recent-activity/pull/52#pullrequestreview-867652871) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+8. ![pullrequestmerged] Merged PR [#151](https://github.com/Readme-Workflows/recent-activity/pull/151) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![approved] Approved [#151](https://github.com/Readme-Workflows/recent-activity/pull/151#pullrequestreview-867381358) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![issueClosed] Closed issue [#1063](https://github.com/oliver-moran/jimp/issues/1063) in [oliver-moran/jimp](https://github.com/oliver-moran/jimp)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, February 5th, 2022, 4:14:29 PM IST</b>
+<p align="center">Last refresh: <b>Saturday, February 5th, 2022, 4:27:07 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
