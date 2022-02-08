@@ -33,22 +33,22 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#53](https://github.com/abhijoshi2k/recent-activity/pull/53) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-2. ![approved] Approved [#53](https://github.com/abhijoshi2k/recent-activity/pull/53#pullrequestreview-873923776) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-3. ![approved] Approved [#53](https://github.com/abhijoshi2k/recent-activity/pull/53#pullrequestreview-873923758) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-4. ![approved] Approved [#152](https://github.com/Readme-Workflows/recent-activity/pull/152#pullrequestreview-873749724) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullrequestclosed] Closed PR [#12](https://github.com/abhijoshi2k/abhijoshi2k/pull/12) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-6. ![pullrequestmerged] Merged PR [#52](https://github.com/abhijoshi2k/recent-activity/pull/52) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-7. ![approved] Approved [#52](https://github.com/abhijoshi2k/recent-activity/pull/52#pullrequestreview-867652871) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
-8. ![pullrequestmerged] Merged PR [#151](https://github.com/Readme-Workflows/recent-activity/pull/151) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![approved] Approved [#151](https://github.com/Readme-Workflows/recent-activity/pull/151#pullrequestreview-867381358) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![issueClosed] Closed issue [#1063](https://github.com/oliver-moran/jimp/issues/1063) in [oliver-moran/jimp](https://github.com/oliver-moran/jimp)
+1. ![pullrequestmerged] Merged PR [#54](https://github.com/abhijoshi2k/recent-activity/pull/54) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+2. ![approved] Approved [#54](https://github.com/abhijoshi2k/recent-activity/pull/54#pullrequestreview-875402981) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+3. ![pullrequestmerged] Merged PR [#53](https://github.com/abhijoshi2k/recent-activity/pull/53) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+4. ![approved] Approved [#53](https://github.com/abhijoshi2k/recent-activity/pull/53#pullrequestreview-873923776) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+5. ![approved] Approved [#53](https://github.com/abhijoshi2k/recent-activity/pull/53#pullrequestreview-873923758) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+6. ![approved] Approved [#152](https://github.com/Readme-Workflows/recent-activity/pull/152#pullrequestreview-873749724) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![pullrequestclosed] Closed PR [#12](https://github.com/abhijoshi2k/abhijoshi2k/pull/12) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+8. ![pullrequestmerged] Merged PR [#52](https://github.com/abhijoshi2k/recent-activity/pull/52) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+9. ![approved] Approved [#52](https://github.com/abhijoshi2k/recent-activity/pull/52#pullrequestreview-867652871) in [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity)
+10. ![pullrequestmerged] Merged PR [#151](https://github.com/Readme-Workflows/recent-activity/pull/151) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, February 8th, 2022, 5:30:19 AM IST</b>
+<p align="center">Last refresh: <b>Tuesday, February 8th, 2022, 6:50:54 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
