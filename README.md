@@ -31,8 +31,8 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 0 | [abhijoshi2k/github-profile-summary-cards](https://github.com/abhijoshi2k/github-profile-summary-cards) | A tool to generate your github summary card for profile README |
 | 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
+| 📦 | 0 | [abhijoshi2k/github-profile-summary-cards](https://github.com/abhijoshi2k/github-profile-summary-cards) | A tool to generate your github summary card for profile README |
 | 📦 | 0 | [Readme-Workflows-Bot/Readme-Workflows-Bot](https://github.com/Readme-Workflows-Bot/Readme-Workflows-Bot) | Profile README Repository. |
 | 📦 | 0 | [abhijoshi2k/passport-local-mongoose](https://github.com/abhijoshi2k/passport-local-mongoose) | Passport-Local Mongoose is a Mongoose plugin that simplifies building username and password login with Passport |
 
@@ -54,7 +54,7 @@ Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, March 11th, 2022, 10:21:03 PM IST</b>
+<p align="center">Last refresh: <b>Friday, March 11th, 2022, 10:42:56 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
