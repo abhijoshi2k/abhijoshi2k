@@ -6,13 +6,11 @@
 
 📫 How to reach me:<br>
 
-Email: abhijoshi2k@gmail.com &#x1F4E7;<br>
-
-Contact: <b>+919757468857</b> (available on <i>WhatsApp</i>) &#x1F4DE;
+Email: abhijoshi2k@gmail.com &#x1F4E7;
 
 </p>
 
-<a href="https://www.linkedin.com/in/abhijoshi2k/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://wa.me/919757468857"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="mailto:abhijoshi2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://instagram.com/abhi.joshi2k/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://github.com/abhijoshi2k/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/abhijoshi2k/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:abhijoshi2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://instagram.com/abhi.joshi2k/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://github.com/abhijoshi2k/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <!-- - 🔭 Currently working on a competition hosting platform for <a href="https://github.com/CSI-SIESGST">CSI SIESGST</a> and a certification platform for <a href="https://github.com/ieeesiesgst">IEEE SIESGST</a>.
 
