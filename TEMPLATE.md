@@ -31,22 +31,22 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#6](https://github.com/Readme-Workflows/activity-template/pull/6) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
-2. ![approved] Approved [#6](https://github.com/Readme-Workflows/activity-template/pull/6#pullrequestreview-1000746329) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
-3. ![changesRequested] Requested 2 change(s) for [#193](https://github.com/Readme-Workflows/recent-activity/pull/193#pullrequestreview-998342469) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullrequestopened] Opened PR [#194](https://github.com/Readme-Workflows/recent-activity/pull/194) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullrequestclosed] Closed PR [#16](https://github.com/abhijoshi2k/abhijoshi2k/pull/16) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-6. ![pullrequestmerged] Merged PR [#192](https://github.com/Readme-Workflows/recent-activity/pull/192) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![star] Starred [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts)
-8. ![star] Starred [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-9. ![pullrequestclosed] Closed PR [#14](https://github.com/abhijoshi2k/abhijoshi2k/pull/14) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-10. ![pullrequestmerged] Merged PR [#189](https://github.com/Readme-Workflows/recent-activity/pull/189) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![pullrequestmerged] Merged PR [#195](https://github.com/Readme-Workflows/recent-activity/pull/195) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![pullrequestmerged] Merged PR [#196](https://github.com/Readme-Workflows/recent-activity/pull/196) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullrequestmerged] Merged PR [#197](https://github.com/Readme-Workflows/recent-activity/pull/197) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullrequestmerged] Merged PR [#6](https://github.com/Readme-Workflows/activity-template/pull/6) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+5. ![approved] Approved [#6](https://github.com/Readme-Workflows/activity-template/pull/6#pullrequestreview-1000746329) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+6. ![changesRequested] Requested 2 change(s) for [#193](https://github.com/Readme-Workflows/recent-activity/pull/193#pullrequestreview-998342469) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![pullrequestopened] Opened PR [#194](https://github.com/Readme-Workflows/recent-activity/pull/194) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![pullrequestclosed] Closed PR [#16](https://github.com/abhijoshi2k/abhijoshi2k/pull/16) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+9. ![pullrequestmerged] Merged PR [#192](https://github.com/Readme-Workflows/recent-activity/pull/192) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![star] Starred [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Monday, June 20th, 2022, 10:24:39 AM IST</b>
+<p align="center">Last refresh: <b>Monday, June 20th, 2022, 10:48:58 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
