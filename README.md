@@ -18,7 +18,7 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 
 - 👯 I’m looking to collaborate on anything related to Web Development. -->
 
-![Profile views](https://gpvc.arturio.dev/abhijoshi2k)
+![Repos Badge](https://badges.pufler.dev/repos/abhijoshi2k) ![Profile views](https://gpvc.arturio.dev/abhijoshi2k)
 
 <h1><b>Stats:</b></h1>
 
@@ -52,7 +52,7 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, July 26th, 2022, 4:38:30 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, July 26th, 2022, 4:57:41 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
