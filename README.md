@@ -18,7 +18,7 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 
 - 👯 I’m looking to collaborate on anything related to Web Development. -->
 
-![Repos Badge](https://badges.pufler.dev/repos/abhijoshi2k) ![Profile views](https://gpvc.arturio.dev/abhijoshi2k)
+![Profile views](https://gpvc.arturio.dev/abhijoshi2k)
 
 <h1><b>Stats:</b></h1>
 
