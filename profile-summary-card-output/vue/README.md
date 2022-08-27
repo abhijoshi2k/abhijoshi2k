@@ -25,10 +25,30 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/vue/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/vue/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/abhijoshi2k/abhijoshi2k/master/profile-summary-card-output/vue/3-stats.svg)
 ```
 
     
