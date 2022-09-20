@@ -29,30 +29,30 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/todo-app](https://github.com/abhijoshi2k/todo-app) | Sample todo app |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 | 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
-| 📦 | 0 | [abhijoshi2k/github-profile-trophy](https://github.com/abhijoshi2k/github-profile-trophy) | 🏆 Add dynamically generated GitHub Trophy on your readme |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#215](https://github.com/Readme-Workflows/recent-activity/pull/215#pullrequestreview-1103628034) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![approved] Approved [#213](https://github.com/Readme-Workflows/recent-activity/pull/213#pullrequestreview-1103322619) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullrequestmerged] Merged PR [#208](https://github.com/Readme-Workflows/recent-activity/pull/208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![pullrequestmerged] Merged PR [#207](https://github.com/Readme-Workflows/recent-activity/pull/207) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullrequestclosed] Closed PR [#18](https://github.com/abhijoshi2k/abhijoshi2k/pull/18) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-6. ![pullrequestclosed] Closed PR [#17](https://github.com/abhijoshi2k/abhijoshi2k/pull/17) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-7. ![pullrequestmerged] Merged PR [#203](https://github.com/Readme-Workflows/recent-activity/pull/203) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#199](https://github.com/Readme-Workflows/recent-activity/pull/199) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![pullrequestmerged] Merged PR [#200](https://github.com/Readme-Workflows/recent-activity/pull/200) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![pullrequestmerged] Merged PR [#201](https://github.com/Readme-Workflows/recent-activity/pull/201) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![repoCreated] Created new repository [abhijoshi2k/todo-app](https://github.com/abhijoshi2k/todo-app)
+2. ![approved] Approved [#215](https://github.com/Readme-Workflows/recent-activity/pull/215#pullrequestreview-1103628034) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![approved] Approved [#213](https://github.com/Readme-Workflows/recent-activity/pull/213#pullrequestreview-1103322619) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![pullrequestmerged] Merged PR [#208](https://github.com/Readme-Workflows/recent-activity/pull/208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![pullrequestmerged] Merged PR [#207](https://github.com/Readme-Workflows/recent-activity/pull/207) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![pullrequestclosed] Closed PR [#18](https://github.com/abhijoshi2k/abhijoshi2k/pull/18) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+7. ![pullrequestclosed] Closed PR [#17](https://github.com/abhijoshi2k/abhijoshi2k/pull/17) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+8. ![pullrequestmerged] Merged PR [#203](https://github.com/Readme-Workflows/recent-activity/pull/203) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![pullrequestmerged] Merged PR [#199](https://github.com/Readme-Workflows/recent-activity/pull/199) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. ![pullrequestmerged] Merged PR [#200](https://github.com/Readme-Workflows/recent-activity/pull/200) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, September 20th, 2022, 1:49:38 PM IST</b>
+<p align="center">Last refresh: <b>Tuesday, September 20th, 2022, 2:22:37 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
