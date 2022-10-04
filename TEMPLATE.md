@@ -40,13 +40,12 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 7. ![pullrequestclosed] Closed PR [#18](https://github.com/abhijoshi2k/abhijoshi2k/pull/18) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
 8. ![pullrequestclosed] Closed PR [#17](https://github.com/abhijoshi2k/abhijoshi2k/pull/17) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
 9. ![pullrequestmerged] Merged PR [#203](https://github.com/Readme-Workflows/recent-activity/pull/203) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ![pullrequestmerged] Merged PR [#199](https://github.com/Readme-Workflows/recent-activity/pull/199) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, October 4th, 2022, 5:29:23 AM IST</b>
+<p align="center">Last refresh: <b>Tuesday, October 4th, 2022, 8:02:29 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
