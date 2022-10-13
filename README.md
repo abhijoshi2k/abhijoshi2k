@@ -29,8 +29,8 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 4 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
+| 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 2 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 
@@ -44,13 +44,12 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 5. ![pullrequestmerged] Merged PR [#208](https://github.com/Readme-Workflows/recent-activity/pull/208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 6. ![pullrequestmerged] Merged PR [#207](https://github.com/Readme-Workflows/recent-activity/pull/207) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 7. ![pullrequestclosed] Closed PR [#18](https://github.com/abhijoshi2k/abhijoshi2k/pull/18) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-8. ![pullrequestclosed] Closed PR [#17](https://github.com/abhijoshi2k/abhijoshi2k/pull/17) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, October 13th, 2022, 5:27:54 AM IST</b>
+<p align="center">Last refresh: <b>Thursday, October 13th, 2022, 8:15:49 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
