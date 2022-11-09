@@ -31,19 +31,21 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] Closed issue [#211](https://github.com/Readme-Workflows/recent-activity/issues/211) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![repoCreated] Created new repository [abhijoshi2k/books-directory](https://github.com/abhijoshi2k/books-directory)
-3. ![repoCreated] Created new repository [abhijoshi2k/todo-app](https://github.com/abhijoshi2k/todo-app)
-4. ![approved] Approved [#215](https://github.com/Readme-Workflows/recent-activity/pull/215#pullrequestreview-1103628034) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![approved] Approved [#213](https://github.com/Readme-Workflows/recent-activity/pull/213#pullrequestreview-1103322619) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![pullrequestmerged] Merged PR [#208](https://github.com/Readme-Workflows/recent-activity/pull/208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![pullrequestmerged] Merged PR [#207](https://github.com/Readme-Workflows/recent-activity/pull/207) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![pullrequestmerged] Merged PR [#216](https://github.com/Readme-Workflows/recent-activity/pull/216) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![pullrequestmerged] Merged PR [#227](https://github.com/Readme-Workflows/recent-activity/pull/227) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![issueClosed] Closed issue [#211](https://github.com/Readme-Workflows/recent-activity/issues/211) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![repoCreated] Created new repository [abhijoshi2k/books-directory](https://github.com/abhijoshi2k/books-directory)
+5. ![repoCreated] Created new repository [abhijoshi2k/todo-app](https://github.com/abhijoshi2k/todo-app)
+6. ![approved] Approved [#215](https://github.com/Readme-Workflows/recent-activity/pull/215#pullrequestreview-1103628034) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![approved] Approved [#213](https://github.com/Readme-Workflows/recent-activity/pull/213#pullrequestreview-1103322619) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![pullrequestmerged] Merged PR [#208](https://github.com/Readme-Workflows/recent-activity/pull/208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![pullrequestmerged] Merged PR [#207](https://github.com/Readme-Workflows/recent-activity/pull/207) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, November 9th, 2022, 12:46:50 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, November 9th, 2022, 1:03:59 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
