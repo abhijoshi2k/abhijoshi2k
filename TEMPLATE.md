@@ -38,14 +38,12 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 5. ![repoCreated] Created new repository [abhijoshi2k/todo-app](https://github.com/abhijoshi2k/todo-app)
 6. ![approved] Approved [#215](https://github.com/Readme-Workflows/recent-activity/pull/215#pullrequestreview-1103628034) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 7. ![approved] Approved [#213](https://github.com/Readme-Workflows/recent-activity/pull/213#pullrequestreview-1103322619) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![pullrequestmerged] Merged PR [#208](https://github.com/Readme-Workflows/recent-activity/pull/208) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![pullrequestmerged] Merged PR [#207](https://github.com/Readme-Workflows/recent-activity/pull/207) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, November 15th, 2022, 7:36:45 AM IST</b>
+<p align="center">Last refresh: <b>Tuesday, November 15th, 2022, 8:58:14 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
