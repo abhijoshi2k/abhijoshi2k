@@ -29,10 +29,10 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 5 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 1 | [abhijoshi2k/react-tutorials-basics](https://github.com/abhijoshi2k/react-tutorials-basics) | Very basic react tutorial project |
 | 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
 | 📦 | 0 | [abhijoshi2k/connect-redis](https://github.com/abhijoshi2k/connect-redis) | Redis session store for Connect |
-| 📦 | 0 | [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone) | null |
 
 ---
 
@@ -49,7 +49,7 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, November 16th, 2022, 10:26:00 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, November 16th, 2022, 10:51:44 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
