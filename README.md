@@ -29,10 +29,10 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 7 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
+| 📦 | 0 | [abhijoshi2k/netflix_clone](https://github.com/abhijoshi2k/netflix_clone) | null |
 | 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 2 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
 | 📦 | 3 | [abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon](https://github.com/abhijoshi2k/Assignment-Submission-and-Management-VSIT-hackathon) | VSIT hackathon project |
-| 📦 | 1 | [abhijoshi2k/full-nodejs-course](https://github.com/abhijoshi2k/full-nodejs-course) | Node,js course from Udemy |
 
 ---
 
@@ -49,7 +49,7 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Thursday, December 8th, 2022, 7:05:58 PM IST</b>
+<p align="center">Last refresh: <b>Thursday, December 8th, 2022, 7:18:21 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
