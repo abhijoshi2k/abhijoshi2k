@@ -42,13 +42,12 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 3. ![issueClosed] Closed issue [#211](https://github.com/Readme-Workflows/recent-activity/issues/211) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 4. ![repoCreated] Created new repository [abhijoshi2k/books-directory](https://github.com/abhijoshi2k/books-directory)
 5. ![repoCreated] Created new repository [abhijoshi2k/todo-app](https://github.com/abhijoshi2k/todo-app)
-6. ![approved] Approved [#215](https://github.com/Readme-Workflows/recent-activity/pull/215#pullrequestreview-1103628034) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Tuesday, December 13th, 2022, 6:49:41 AM IST</b>
+<p align="center">Last refresh: <b>Tuesday, December 13th, 2022, 8:09:03 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
