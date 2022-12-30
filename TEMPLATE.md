@@ -34,13 +34,12 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 1. ![pullrequestmerged] Merged PR [#216](https://github.com/Readme-Workflows/recent-activity/pull/216) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 2. ![pullrequestmerged] Merged PR [#227](https://github.com/Readme-Workflows/recent-activity/pull/227) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 3. ![issueClosed] Closed issue [#211](https://github.com/Readme-Workflows/recent-activity/issues/211) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![repoCreated] Created new repository [abhijoshi2k/books-directory](https://github.com/abhijoshi2k/books-directory)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Friday, December 30th, 2022, 7:51:12 AM IST</b>
+<p align="center">Last refresh: <b>Friday, December 30th, 2022, 8:19:49 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
