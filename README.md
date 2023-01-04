@@ -29,30 +29,30 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 6 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
+| 📦 | 0 | [abhijoshi2k/github-profile-summary-cards](https://github.com/abhijoshi2k/github-profile-summary-cards) | A tool to generate your github summary card for profile README |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
+| 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 2 | [abhijoshi2k/passport-auth-google-microsoft](https://github.com/abhijoshi2k/passport-auth-google-microsoft) | Template for Authentication with Google and Microsoft accounts using Passport.js |
-| 📦 | 0 | [abhijoshi2k/jwt-auth-nodejs](https://github.com/abhijoshi2k/jwt-auth-nodejs) | JWT auth for node.js |
 
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] Closed issue [#223](https://github.com/Readme-Workflows/recent-activity/issues/223) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-2. ![pullrequestmerged] Merged PR [#241](https://github.com/Readme-Workflows/recent-activity/pull/241) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ![approved] Approved [#241](https://github.com/Readme-Workflows/recent-activity/pull/241#pullrequestreview-1235476705) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ![pullrequestopened] Opened PR [#242](https://github.com/Readme-Workflows/recent-activity/pull/242) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ![issueClosed] Closed issue [#226](https://github.com/Readme-Workflows/recent-activity/issues/226) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-6. ![pullrequestmerged] Merged PR [#233](https://github.com/Readme-Workflows/recent-activity/pull/233) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-7. ![pullrequestmerged] Merged PR [#219](https://github.com/Readme-Workflows/recent-activity/pull/219) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-8. ![pullrequestmerged] Merged PR [#234](https://github.com/Readme-Workflows/recent-activity/pull/234) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-9. ![pullrequestmerged] Merged PR [#238](https://github.com/Readme-Workflows/recent-activity/pull/238) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-10. ![pullrequestmerged] Merged PR [#239](https://github.com/Readme-Workflows/recent-activity/pull/239) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+1. ![pullrequestmerged] Merged PR [#214](https://github.com/Readme-Workflows/recent-activity/pull/214) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+2. ![approved] Approved [#214](https://github.com/Readme-Workflows/recent-activity/pull/214#pullrequestreview-1235893944) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+3. ![issueClosed] Closed issue [#220](https://github.com/Readme-Workflows/recent-activity/issues/220) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+4. ![pullrequestmerged] Merged PR [#242](https://github.com/Readme-Workflows/recent-activity/pull/242) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+5. ![issueClosed] Closed issue [#223](https://github.com/Readme-Workflows/recent-activity/issues/223) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+6. ![pullrequestmerged] Merged PR [#241](https://github.com/Readme-Workflows/recent-activity/pull/241) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+7. ![approved] Approved [#241](https://github.com/Readme-Workflows/recent-activity/pull/241#pullrequestreview-1235476705) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+8. ![pullrequestopened] Opened PR [#242](https://github.com/Readme-Workflows/recent-activity/pull/242) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+9. ![issueClosed] Closed issue [#226](https://github.com/Readme-Workflows/recent-activity/issues/226) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+10. ![pullrequestmerged] Merged PR [#233](https://github.com/Readme-Workflows/recent-activity/pull/233) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, January 4th, 2023, 6:58:05 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, January 4th, 2023, 7:23:09 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
