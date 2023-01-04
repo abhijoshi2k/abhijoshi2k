@@ -38,6 +38,7 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 
 <!--RECENT_ACTIVITY:start-->
 1.. ![issueClosed] Closed issue [#223](https://github.com/Readme-Workflows/recent-activity/issues/223) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+
 2.. ![pullrequestmerged] Merged PR [#241](https://github.com/Readme-Workflows/recent-activity/pull/241) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 3.. ![approved] Approved [#241](https://github.com/Readme-Workflows/recent-activity/pull/241#pullrequestreview-1235476705) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 4.. ![pullrequestopened] Opened PR [#242](https://github.com/Readme-Workflows/recent-activity/pull/242) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
