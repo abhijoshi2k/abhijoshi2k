@@ -9,8 +9,6 @@ settings:
   date:
     timezone: "Asia/Kolkata"
     text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
-  ignored_repos:
-    - "Readme-Workflows/recent-activity"
 messages:
   comments: "![comment] Commented on {ID} in {REPO}"
   issue_opened: "![issueOpened] Opened issue {ID} in {REPO}"
