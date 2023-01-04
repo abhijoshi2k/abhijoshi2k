@@ -8,7 +8,7 @@ settings:
     - "push"
   date:
     timezone: "Asia/Kolkata"
-    text: '<p align="center">Last refresh: <b>{DATE}</b>'
+    text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
   ignored_repos:
     - "Readme-Workflows/recent-activity"
 messages:
