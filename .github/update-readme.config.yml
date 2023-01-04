@@ -9,7 +9,6 @@ settings:
   date:
     timezone: "Asia/Kolkata"
     text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
-  line_prefix: "{NUM}.. "
 messages:
   comments: "![comment] Commented on {ID} in {REPO}"
   issue_opened: "![issueOpened] Opened issue {ID} in {REPO}"
