@@ -37,15 +37,16 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#216](https://github.com/Readme-Workflows/recent-activity/pull/216) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![pullrequestmerged] Merged PR [#227](https://github.com/Readme-Workflows/recent-activity/pull/227) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![issueClosed] Closed issue [#211](https://github.com/Readme-Workflows/recent-activity/issues/211) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![pullrequestclosed] Closed PR [#19](https://github.com/abhijoshi2k/abhijoshi2k/pull/19) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+2. ![pullrequestmerged] Merged PR [#216](https://github.com/Readme-Workflows/recent-activity/pull/216) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![pullrequestmerged] Merged PR [#227](https://github.com/Readme-Workflows/recent-activity/pull/227) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![issueClosed] Closed issue [#211](https://github.com/Readme-Workflows/recent-activity/issues/211) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, January 4th, 2023, 11:08:14 AM IST</b>
+<p align="center">Last refresh: <b>Wednesday, January 4th, 2023, 11:27:27 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
