@@ -23,7 +23,7 @@ jobs:
           username: abhijoshi2k
           template: "TEMPLATE.md"
 
-      - uses: actions-js/push@v1.3
+      - uses: actions-js/push@v1.4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: "master"
