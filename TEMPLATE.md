@@ -31,22 +31,22 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 ---
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pullrequestmerged] Merged PR [#266](https://github.com/Readme-Workflows/recent-activity/pull/266) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-2. ![pullrequestmerged] Merged PR [#265](https://github.com/Readme-Workflows/recent-activity/pull/265) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ![pullrequestmerged] Merged PR [#264](https://github.com/Readme-Workflows/recent-activity/pull/264) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ![pullrequestmerged] Merged PR [#262](https://github.com/Readme-Workflows/recent-activity/pull/262) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ![pullrequestmerged] Merged PR [#263](https://github.com/Readme-Workflows/recent-activity/pull/263) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-6. ![pullrequestmerged] Merged PR [#22](https://github.com/abhijoshi2k/abhijoshi2k/pull/22) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)<br>
-7. ![pullrequestmerged] Merged PR [#261](https://github.com/Readme-Workflows/recent-activity/pull/261) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-8. ![pullrequestmerged] Merged PR [#260](https://github.com/Readme-Workflows/recent-activity/pull/260) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-9. ![pullrequestmerged] Merged PR [#258](https://github.com/Readme-Workflows/recent-activity/pull/258) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-10. ![pullrequestmerged] Merged PR [#259](https://github.com/Readme-Workflows/recent-activity/pull/259) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+1. ![issueClosed] Closed issue [#267](https://github.com/Readme-Workflows/recent-activity/issues/267) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+2. ![pullrequestmerged] Merged PR [#266](https://github.com/Readme-Workflows/recent-activity/pull/266) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+3. ![pullrequestmerged] Merged PR [#265](https://github.com/Readme-Workflows/recent-activity/pull/265) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+4. ![pullrequestmerged] Merged PR [#264](https://github.com/Readme-Workflows/recent-activity/pull/264) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+5. ![pullrequestmerged] Merged PR [#262](https://github.com/Readme-Workflows/recent-activity/pull/262) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+6. ![pullrequestmerged] Merged PR [#263](https://github.com/Readme-Workflows/recent-activity/pull/263) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+7. ![pullrequestmerged] Merged PR [#22](https://github.com/abhijoshi2k/abhijoshi2k/pull/22) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)<br>
+8. ![pullrequestmerged] Merged PR [#261](https://github.com/Readme-Workflows/recent-activity/pull/261) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+9. ![pullrequestmerged] Merged PR [#260](https://github.com/Readme-Workflows/recent-activity/pull/260) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+10. ![pullrequestmerged] Merged PR [#258](https://github.com/Readme-Workflows/recent-activity/pull/258) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, March 18th, 2023, 2:53:23 PM IST</b>
+<p align="center">Last refresh: <b>Saturday, March 18th, 2023, 3:06:15 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
