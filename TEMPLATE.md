@@ -33,14 +33,12 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 <!--RECENT_ACTIVITY:start-->
 1. ![issueClosed] Closed issue [#281](https://github.com/Readme-Workflows/recent-activity/issues/281) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 2. ![pullrequestmerged] Merged PR [#282](https://github.com/Readme-Workflows/recent-activity/pull/282) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ![pullrequestmerged] Merged PR [#279](https://github.com/Readme-Workflows/recent-activity/pull/279) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ![pullrequestmerged] Merged PR [#280](https://github.com/Readme-Workflows/recent-activity/pull/280) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, August 2nd, 2023, 6:09:46 AM IST</b>
+<p align="center">Last refresh: <b>Wednesday, August 2nd, 2023, 7:15:00 AM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
