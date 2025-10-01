@@ -29,7 +29,7 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 5 | [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k) | My personal readme 😎 |
-| 📦 | 0 | [abhijoshi2k/react-ecommerce](https://github.com/abhijoshi2k/react-ecommerce) | null |
+| 📦 | 1 | [abhijoshi2k/react-ecommerce](https://github.com/abhijoshi2k/react-ecommerce) | null |
 | 📦 | 1 | [abhijoshi2k/keeper-app-react](https://github.com/abhijoshi2k/keeper-app-react) | Keeper App using React and Material UI. |
 | 📦 | 0 | [abhijoshi2k/DeviousLab](https://github.com/abhijoshi2k/DeviousLab) | null |
 | 📦 | 0 | [abhijoshi2k/recent-activity](https://github.com/abhijoshi2k/recent-activity) | Add your recent activity to your profile readme! |
@@ -42,7 +42,7 @@ Email: abhijoshi2k@gmail.com &#x1F4E7;
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Wednesday, October 1st, 2025, 7:25:27 PM IST</b>
+<p align="center">Last refresh: <b>Wednesday, October 1st, 2025, 8:14:57 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
